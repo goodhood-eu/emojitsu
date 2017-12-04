@@ -1,0 +1,37 @@
+{
+  "name": "emojinate",
+  "description": "In a given string convert unicode and :shortcode: emojis to <img /> tags",
+  "author": "Nebenan.de <max@nebenan.de>",
+
+  "license": "MIT",
+  "readmeFilename": "README.md",
+
+  "repository": "good-hood-gmbh/project",
+  "bugs": "https://github.com/good-hood-gmbh/project/issues",
+
+  "version": "0.0.1",
+
+  "keywords": [
+  ],
+
+  "main": "index.js",
+  "engines": {
+    "node": "^6.x.x"
+  },
+
+  "scripts": {
+    "test": "env TZ='Europe/Berlin' mocha || exit 0",
+  },
+
+  "devDependencies": {
+    "eslint": "3.17.1",
+    "eslint-config-airbnb-base": "11.1.1",
+    "eslint-plugin-import": "2.2.0",
+
+    "mocha": "3.2.0",
+    "chai": "3.5.0"
+  },
+
+  "dependencies": {
+  }
+}
