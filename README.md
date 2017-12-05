@@ -1,7 +1,7 @@
 Emojitsu
 ========
 
-In a given string convert unicode and `:shortcode:` emojis to `<img />`` tags.
+In a given string convert unicode and `:shortcode:` emojis to `<img />` tags.
 
 ## Usage:
 
