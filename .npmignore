@@ -1,0 +1,11 @@
+!lib/
+scaffolding/
+src/
+tasks/
+test/
+.babelrc
+.eslintignore
+.eslintrc
+.gitignore
+.npmignore
+run.js
