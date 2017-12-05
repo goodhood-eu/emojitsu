@@ -1,6 +1,6 @@
 {
   "name": "emojitsu",
-  "description": "In a given string convert unicode and :shortcode: emojis to <img /> tags",
+  "description": "Converts emojis to images",
   "author": "Nebenan.de <max@nebenan.de>",
   "license": "MIT",
   "readmeFilename": "README.md",
