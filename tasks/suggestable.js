@@ -1,7 +1,5 @@
-require('../require_hooks');
-
 const { logResult } = require('./utils');
-const { codePointToUnicode } = require('../client/modules/emoji/utils');
+const { codePointToUnicode } = require('../lib/utils');
 
 const process = (style) => {
   const { collection } = require('../vendor/emojis');

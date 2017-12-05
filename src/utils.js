@@ -1,6 +1,6 @@
 /* eslint no-bitwise: "off" */
 import escapeHtml from 'escape-html';
-import { collection } from '../../../vendor/emojis';
+import { collection } from '../vendor/emojis';
 
 const imagePath = '/images/emojis-v3.1.1';
 const AVAILABLE_SIZES = {

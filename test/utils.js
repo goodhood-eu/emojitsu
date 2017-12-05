@@ -1,6 +1,6 @@
-import { assert } from 'chai';
+const { assert } = require('chai');
 
-import {
+const {
   codepointsHash,
   shortnamesHash,
 
@@ -19,9 +19,9 @@ import {
 
   hexToId,
   hexToImage,
-} from '../../../client/modules/emoji/utils';
+} = require('../lib/utils');
 
-import { emoji, tone, mixed, specialSpacer, specialEnder, arrow } from '../../../scaffolding/emojis';
+const { emoji, tone, mixed, specialSpacer, specialEnder, arrow } = require('../scaffolding/emojis');
 
 
 describe('modules/emoji/utils', () => {

@@ -1,7 +1,7 @@
-import escapeHtml from 'escape-html';
-import { assert } from 'chai';
+const escapeHtml = require('escape-html');
+const { assert } = require('chai');
 
-import {
+const {
   shortnamesToUnicode,
   unicodeToShortnames,
 
@@ -11,9 +11,9 @@ import {
   emojiCollection,
   emojiRegex,
   shortnameRegex,
-} from '../../../client/modules/emoji';
+} = require('../lib');
 
-import { emoji, tone, mixed, specialSpacer, specialEnder } from '../../../scaffolding/emojis';
+const { emoji, tone, mixed, specialSpacer, specialEnder } = require('../scaffolding/emojis');
 
 
 describe('modules/emoji', () => {

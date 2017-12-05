@@ -2,7 +2,7 @@
 const { Trie } = require('regexgen');
 const emojis = require('emojione-assets/emoji');
 const { logResult } = require('./utils');
-const uniq = require('lodash/uniq');
+const uniq = require('lodash.uniq');
 
 // Maximum unicode version to show in suggestions
 const SUPPORTED_UNICODE_VERSION = 10;

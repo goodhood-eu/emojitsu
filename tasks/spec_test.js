@@ -1,10 +1,9 @@
 /* eslint no-bitwise: "off" */
-require('../require_hooks');
 const superagent = require('superagent');
 
 const { logSuccess, logError } = require('./utils');
-const { codePointToUnicode, unicodeToEmoji } = require('../client/modules/emoji/utils');
-const { render, emojiRegex } = require('../client/modules/emoji');
+const { codePointToUnicode, unicodeToEmoji } = require('../lib/utils');
+const { render, emojiRegex } = require('../lib');
 
 
 const DEFAULT_EMOJI_VERSION = '5.0';
