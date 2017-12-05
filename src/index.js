@@ -15,6 +15,12 @@ import {
 // If strange bugs appear, create new regex in each function
 const regexShortname = new RegExp(shortnameRegex, 'g');
 const regexUnicode = new RegExp(emojiRegex, 'g');
+const regexAny = new RegExp(`^(${shortnameRegex}|${emojiRegex})$`);
+
+export const isSingleEmoji = (string) => {
+  if (typeof string !== 'string' || !string) return false;
+  return regexAny.test(string.trim());
+};
 
 export const shortnamesToUnicode = (string) => {
   if (typeof string !== 'string') return null;

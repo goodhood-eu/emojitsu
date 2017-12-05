@@ -7,7 +7,10 @@ In a given string convert unicode and `:shortcode:` emojis to `<img />` tags.
 
 This package is a collection of utility functions loosely based to `twemoji` and `emojione` javascript libraries. It aims to completely replace those with a modern ES implementation, full unicode spec support and flexible image collection support. SVG sprites are not supported for performance reasons. For best results pair with https://github.com/emojione/emojione-assets.
 
-## Methods:
+## Functions:
+
+### isSingleEmoji(string)
+Determines if string contains only a single emoji. Automatically trims whitespace before checking. Returns bool.
 
 ### shortnamesToUnicode(string)
 Takes a string with shortnames and returns a string with every known emoji shortname replaced with corresponding unicode representation. Ignores unknown shortnames.
