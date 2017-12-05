@@ -16,7 +16,7 @@ const {
 const { emoji, tone, mixed, specialSpacer, specialEnder } = require('../scaffolding/emojis');
 
 
-describe('modules/emoji', () => {
+describe('emojitsu', () => {
   it('shortnamesToUnicode', () => {
     const long1 = [
       specialEnder.shortname,

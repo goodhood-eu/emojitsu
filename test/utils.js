@@ -24,7 +24,7 @@ const {
 const { emoji, tone, mixed, specialSpacer, specialEnder, arrow } = require('../scaffolding/emojis');
 
 
-describe('modules/emoji/utils', () => {
+describe('utils', () => {
   it('codepointsHash', () => {
     assert.isObject(codepointsHash, 'correct data type');
     assert.isObject(codepointsHash[emoji.hex], 'data integrity ok');
