@@ -8,6 +8,8 @@ const process = (style) => {
     return acc;
   }, []);
 
+  suggested.sort();
+
   let result;
   if (style === 'inline') {
     const shortnames = suggested.map((item) => item.split(/\s/)[0]).join('');

@@ -5,6 +5,7 @@ const { logSuccess, logError } = require('./utils');
 const { codePointToUnicode, unicodeToEmoji } = require('../lib/utils');
 const { render, emojiRegex } = require('../lib');
 
+superagent.http2 = false;
 
 const DEFAULT_EMOJI_VERSION = '5.0';
 

@@ -57,7 +57,7 @@ const isSuggestable = (key) => {
 const getCollection = () => {
   const keys = getKeys();
 
-  keys.sort((keyA, keyB) => emojis[keyA].order - emojis[keyB].order);
+  keys.sort();
 
   return keys.reduce((acc, key) => {
     const { category, shortname, code_points } = emojis[key];
