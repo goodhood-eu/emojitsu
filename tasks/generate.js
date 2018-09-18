@@ -1,8 +1,13 @@
 /* eslint no-bitwise: "off" */
+const fs = require('fs');
+const path = require('path');
 const { Trie } = require('regexgen');
 const emojis = require('emojione-assets/emoji');
 const uniq = require('lodash.uniq');
 const { logResult } = require('./utils');
+
+const OUTPUT = path.resolve(`${__dirname}/../vendor/emojis.json`);
+const SPACES = process.NODE_ENV === 'production' ? 0 : 2;
 
 // Maximum unicode version to show in suggestions
 const SUPPORTED_UNICODE_VERSION = 10;
@@ -111,7 +116,11 @@ const runTask = () => {
   const shortnameRegex = '(:[\\w-]+:)';
   const total = collection.length;
 
-  return logResult({ collection, emojiRegex, shortnameRegex, total });
+  const json = { collection, emojiRegex, shortnameRegex, total };
+  const content = `${JSON.stringify(json, null, SPACES)}\n`;
+  fs.writeFileSync(OUTPUT, content);
+
+  return logResult(`Created ${total} entries, results saved to ${OUTPUT}`);
 };
 
 module.exports = runTask;
