@@ -1,11 +1,9 @@
 /* eslint no-bitwise: "off" */
-const superagent = require('superagent');
+const request = require('request');
 
 const { logSuccess, logError } = require('./utils');
 const { codePointToUnicode, unicodeToEmoji } = require('../lib/utils');
 const { render, emojiRegex } = require('../lib');
-
-superagent.http2 = false;
 
 const DEFAULT_EMOJI_VERSION = '5.0';
 
@@ -99,14 +97,16 @@ const parseList = (data) => {
 const process = (version) => {
   const url = `http://unicode.org/Public/emoji/${formatVersion(version)}/emoji-test.txt`;
 
-  const handleRequest = (error, response) => {
-    if (error || !response.ok) return logError(`Cound't load test data: ${error}`);
-    const parsed = parseList(response.text);
+  const handleRequest = (error, response, body) => {
+    if (error || !response || !response.statusCode === 200) {
+      return logError(`Cound't load test data: ${error}`);
+    }
+    const parsed = parseList(body);
     processEmojis(parsed);
     logSuccess(`${parsed.length} emoji matched OK`);
   };
 
-  superagent.get(url).end(handleRequest);
+  request(url, handleRequest);
 };
 
 module.exports = process;
