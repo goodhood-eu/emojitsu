@@ -1,8 +1,10 @@
 /* eslint no-bitwise: "off" */
+const fs = require('fs');
+const path = require('path');
 const { Trie } = require('regexgen');
 const emojis = require('emojione-assets/emoji');
-const { logResult } = require('./utils');
 const uniq = require('lodash.uniq');
+const { logResult } = require('./utils');
 
 // Maximum unicode version to show in suggestions
 const SUPPORTED_UNICODE_VERSION = 10;
@@ -14,6 +16,8 @@ const SKIPPED_CATEGORIES = [
   'extras',
   'regional',
 ];
+
+const OUTPUT = path.resolve(`${__dirname}/../vendor/emojis.json`);
 
 const familyRegex = /^:family_/;
 const clockRegex = /^:clock/;
@@ -52,7 +56,7 @@ const isSuggestable = (key) => {
 const getCollection = () => {
   const keys = getKeys();
 
-  keys.sort((keyA, keyB) => emojis[keyA].order - emojis[keyB].order);
+  keys.sort();
 
   return keys.reduce((acc, key) => {
     const { category, shortname, code_points } = emojis[key];
@@ -111,7 +115,11 @@ const runTask = () => {
   const shortnameRegex = '(:[\\w-]+:)';
   const total = collection.length;
 
-  return logResult({ collection, emojiRegex, shortnameRegex, total });
+  const json = { collection, emojiRegex, shortnameRegex, total };
+  const content = `${JSON.stringify(json, null, 2)}\n`;
+  fs.writeFileSync(OUTPUT, content);
+
+  return logResult(`Created ${total} entries, results saved to ${OUTPUT}`);
 };
 
 module.exports = runTask;
