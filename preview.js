@@ -27,6 +27,8 @@ const handleSpecReady = (error, response, body) => {
     render(codePointToUnicode(item[1].replace(/\s/g, '-')), renderOptions)
   ));
 
+  console.warn(JSON.stringify(specUnicode, null, 2))
+
   const sections = [
     ['Shortcodes to unicode', unicodeList],
     ['Unicode to images', imagesList],
