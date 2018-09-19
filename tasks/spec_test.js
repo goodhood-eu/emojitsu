@@ -1,20 +1,12 @@
 /* eslint no-bitwise: "off" */
 const request = require('request');
 
-const { logSuccess, logError } = require('./utils');
+const { getUnicodeSpecUrl, parseUnicodeSpec, logSuccess, logError } = require('./utils');
 const { codePointToUnicode, unicodeToEmoji } = require('../lib/utils');
 const { render, emojiRegex } = require('../lib');
 
-const DEFAULT_EMOJI_VERSION = '5.0';
 
-const parseRegex = /^((?:[A-Z0-9]+\s)+)\s*;\s[\w-]+\s+#\s(\S+)\s([\s\S]+)$/;
-const commentRegex = /^#/;
 const renderedRegex = /<img src="[/\w.-]+"\salt="\S+"\sdraggable="false"\s\/>/g;
-
-const formatVersion = (string) => {
-  if (!/\d+\.\d+/.test(string)) return DEFAULT_EMOJI_VERSION;
-  return string;
-};
 
 const formatCodePoint = (string) => string.replace(/\s/g, '-');
 
@@ -77,34 +69,15 @@ const processEmojis = (list) => {
   if (errors.length) return logError(`Processing failed:\n${errors.join('\n')}`);
 };
 
-const parseList = (data) => {
-  const errors = [];
-  const chunks = data.split('\n').reduce((acc, string) => {
-    // Check if it's a correct parsable line
-    if (!string.length || commentRegex.test(string)) return acc;
-    const matches = string.match(parseRegex);
-    if (!matches) errors.push(string);
-    if (matches) acc.push(matches.map((substr) => substr.trim()));
-    return acc;
-  }, []);
-
-  if (errors.length) return logError(`Parser failed:\n${errors.join('\n')}`);
-
-  return chunks;
-};
-
-
 const process = (version) => {
-  const url = `http://unicode.org/Public/emoji/${formatVersion(version)}/emoji-test.txt`;
-
   const handleRequest = (error, response, body) => {
     if (error || response.statusCode !== 200) return logError(`Cound't load test data: ${error}`);
-    const parsed = parseList(body);
+    const parsed = parseUnicodeSpec(body);
     processEmojis(parsed);
     logSuccess(`${parsed.length} emoji matched OK`);
   };
 
-  request(url, handleRequest);
+  request(getUnicodeSpecUrl(version), handleRequest);
 };
 
 module.exports = process;
