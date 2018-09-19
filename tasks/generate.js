@@ -6,8 +6,6 @@ const emojis = require('emojione-assets/emoji');
 const uniq = require('lodash.uniq');
 const { logResult } = require('./utils');
 
-const OUTPUT = path.resolve(`${__dirname}/../vendor/emojis.json`);
-
 // Maximum unicode version to show in suggestions
 const SUPPORTED_UNICODE_VERSION = 10;
 
@@ -18,6 +16,8 @@ const SKIPPED_CATEGORIES = [
   'extras',
   'regional',
 ];
+
+const OUTPUT = path.resolve(`${__dirname}/../vendor/emojis.json`);
 
 const familyRegex = /^:family_/;
 const clockRegex = /^:clock/;
@@ -116,7 +116,7 @@ const runTask = () => {
   const total = collection.length;
 
   const json = { collection, emojiRegex, shortnameRegex, total };
-  const content = `${JSON.stringify(json)}\n`;
+  const content = `${JSON.stringify(json, null, 2)}\n`;
   fs.writeFileSync(OUTPUT, content);
 
   return logResult(`Created ${total} entries, results saved to ${OUTPUT}`);
