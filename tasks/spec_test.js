@@ -98,9 +98,7 @@ const process = (version) => {
   const url = `http://unicode.org/Public/emoji/${formatVersion(version)}/emoji-test.txt`;
 
   const handleRequest = (error, response, body) => {
-    if (error || response.statusCode !== 200) {
-      return logError(`Cound't load test data: ${error}`);
-    }
+    if (error || response.statusCode !== 200) return logError(`Cound't load test data: ${error}`);
     const parsed = parseList(body);
     processEmojis(parsed);
     logSuccess(`${parsed.length} emoji matched OK`);
