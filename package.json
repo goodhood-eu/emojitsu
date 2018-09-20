@@ -40,7 +40,7 @@
     "babel-plugin-transform-node-env-inline": "^0.4.3",
     "chai": "^4.1.2",
     "chalk": "^2.4.1",
-    "emojione-assets": "^3.1.1",
+    "emojione-assets": "4.0.0",
     "eslint": "^5.6.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
