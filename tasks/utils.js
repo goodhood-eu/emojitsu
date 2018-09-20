@@ -32,6 +32,10 @@ const utils = {
     return chunks;
   },
 
+  formatSpecCodePount(string) {
+    return string.replace(/\s/g, '-').toLowerCase();
+  },
+
   logSuccess(message) {
     console.log(chalk.bold.green(utils.formatMessage(message)));
     process.exit(0);

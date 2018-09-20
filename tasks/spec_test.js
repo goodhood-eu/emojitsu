@@ -1,13 +1,13 @@
 /* eslint no-bitwise: "off" */
 const request = require('request');
 
-const { getUnicodeSpecUrl, parseUnicodeSpec, logSuccess, logError } = require('./utils');
+const {
+  getUnicodeSpecUrl, parseUnicodeSpec, formatSpecCodePount, logSuccess, logError,
+} = require('./utils');
 const { codePointToUnicode, unicodeToCodePoint, unicodeToEmoji } = require('../lib/utils');
 const { render, emojiRegex } = require('../lib');
 
 const renderedRegex = /<img src="[/\w.-]+"\salt="\S+"\sdraggable="false"\s\/>/g;
-
-const formatCodePoint = (string) => string.replace(/\s/g, '-').toLowerCase();
 
 const UTF16toJSON = (text) => {
   const result = [];
@@ -35,7 +35,7 @@ const processEmojis = (list) => {
     }
 
     // Check encoder
-    const encoded = codePointToUnicode(formatCodePoint(codePoint));
+    const encoded = codePointToUnicode(formatSpecCodePount(codePoint));
     if (encoded !== unicode) {
       const error = `Encoder error: expected '${unicode}' ('${UTF16toJSON(unicode)}') but got '${encoded}' ('${UTF16toJSON(encoded)}') near '${name}'`;
       return errors.push(error);
@@ -43,7 +43,7 @@ const processEmojis = (list) => {
 
     // Check decoder
     const decoded = unicodeToCodePoint(unicode);
-    const formatted = formatCodePoint(codePoint);
+    const formatted = formatSpecCodePount(codePoint);
     if (decoded !== formatted) {
       const error = `Decoder error: expected '${formatted}' ('${unicode}') but got '${decoded}' ('${codePointToUnicode(decoded)}') near '${name}'`;
       return errors.push(error);
