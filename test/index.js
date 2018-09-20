@@ -199,6 +199,8 @@ describe('emojitsu', () => {
     const unescapedHTML = `<span>${expectedSpecialEnder}</span>`;
     const className = 'MY_UNIQUE_CLASS_NAME_FOR_SURE_THERE';
 
+    const simple = '# * 0 1 2 3 4 5 6 7 8 9 a b';
+
     assert.equal(render(), null, 'no arguments');
     assert.equal(render(null), null, 'null');
     assert.equal(render(''), '', 'empty string');
@@ -222,6 +224,8 @@ describe('emojitsu', () => {
     assert.equal(render(HTML, { unsafe: true }), unescapedHTML, 'can be forced to output unsafe content');
 
     assert.include(render(HTML, { className }), className, 'includes className');
+
+    assert.equal(render(simple), simple, 'doesn\'t replace numbers and letters');
   });
 
   it('emojiCollection', () => {
