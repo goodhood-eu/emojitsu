@@ -25,9 +25,24 @@ const shapeRegex = /_(diamond|square|triangle|circle|sign):$/;
 
 const patchEmojioneSource = (object) => {
   // EmojiOne decided to match these even when they are plain text, patch codepoints to fix that
-  ['0023', '0039', '0038', '0037', '0036', '0035', '0034', '0033', '0032', '0031', '0030', '002a'].forEach((key) => {
+  [
+    '0023',
+    '002a',
+    '0030',
+    '0031',
+    '0032',
+    '0033',
+    '0034',
+    '0035',
+    '0036',
+    '0037',
+    '0038',
+    '0039',
+  ].forEach((key) => {
     const item = object[key].code_points;
-    const correct = item.fully_qualified;
+    const correct = `${key}-fe0f`;
+    item.output = correct;
+    item.fully_qualified = correct;
     item.non_fully_qualified = correct;
     item.default_matches = [correct];
   });
@@ -56,7 +71,7 @@ const isSuggestable = (key) => {
 const getCollection = () => {
   const keys = getKeys();
 
-  keys.sort();
+  keys.sort((keyA, keyB) => emojis[keyA].order - emojis[keyB].order);
 
   return keys.reduce((acc, key) => {
     const { category, shortname, code_points } = emojis[key];
