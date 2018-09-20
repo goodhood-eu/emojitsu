@@ -81,12 +81,9 @@ const process = (version) => {
 
   const handleRequest = (error, response, body) => {
     if (error || response.statusCode !== 200) return logError(`Cound't load test data: ${error}`);
-    console.log('Parsing results');
-    const parsed = parseUnicodeSpec(body);
-
     console.log('Running tests');
+    const parsed = parseUnicodeSpec(body);
     processEmojis(parsed);
-
     logSuccess(`${parsed.length} emoji matched OK`);
   };
 
