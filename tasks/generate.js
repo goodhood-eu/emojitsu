@@ -84,7 +84,7 @@ const getRegex = () => {
     return String.fromCharCode(0xD800 + (base >> 10), 0xDC00 + (base & 0x3FF));
   };
 
-  const sequences = keys.reduce((acc, key) => {
+  const codes = keys.reduce((acc, key) => {
     const {
       output,
       fully_qualified,
@@ -96,17 +96,16 @@ const getRegex = () => {
     // if (emojis[key].unicode_version === 11) return acc
 
     const matchable = [output, fully_qualified, non_fully_qualified].concat(default_matches);
-    const codePointArray = uniq(matchable);
+    const filtered = uniq(matchable);
 
-    // Sorting to improve matching
-    codePointArray.sort(sortByLength);
-    const codes = codePointArray.map((hex) => hex.split('-').map(fromCodePoint).join(''));
-
-    return acc.concat(codes);
+    return acc.concat(filtered);
   }, []);
 
-  // Sorting again so longer emojis go first
-  sequences.sort(sortByLength);
+  // Sort by length (longest first) to avoid partial matches
+  codes.sort(sortByLength);
+
+  // Important to sort before converting, JS engine can't sort unicode sequences properly
+  const sequences = codes.map((hex) => hex.split('-').map(fromCodePoint).join(''));
 
   const trie = new Trie();
   trie.addAll(sequences);
