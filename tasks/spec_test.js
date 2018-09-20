@@ -18,6 +18,8 @@ const UTF16toJSON = (text) => {
   return result.join('');
 };
 
+const showSequences = (string) => `(${UTF16toJSON(string)}) [${unicodeToCodePoint(string)}]`;
+
 const processEmojis = (list) => {
   const errors = [];
 
@@ -29,14 +31,14 @@ const processEmojis = (list) => {
 
     // Check regex matcher first
     if (!regex.test(unicode)) {
-      const error = `Regex error: expected to match '${unicode}' ('${UTF16toJSON(unicode)}') near '${id}'`;
+      const error = `Regex error: expected to match '${unicode}' ${showSequences(unicode)} near '${id}'`;
       return errors.push(error);
     }
 
     // Check encoder
     const encoded = codePointToUnicode(codePoint);
     if (encoded !== unicode) {
-      const error = `Encoder error: expected '${unicode}' ('${UTF16toJSON(unicode)}') but got '${encoded}' ('${UTF16toJSON(encoded)}') near '${id}'`;
+      const error = `Encoder error: expected '${unicode}' ${showSequences(unicode)} but got '${encoded}' ${showSequences(encoded)} near '${id}'`;
       return errors.push(error);
     }
 
@@ -50,7 +52,7 @@ const processEmojis = (list) => {
     // Check if matching against our dict works correctly
     const emojiData = unicodeToEmoji(unicode);
     if (!emojiData) {
-      const error = `Detection error: got no data for '${unicode}' ('${UTF16toJSON(unicode)}') near '${id}'`;
+      const error = `Detection error: got no data for '${unicode}' ${showSequences(unicode)} near '${id}'`;
       return errors.push(error);
     }
 
@@ -59,14 +61,14 @@ const processEmojis = (list) => {
     const images = rendered.match(/<img/g);
 
     if (!images || images.length > 1) {
-      const error = `Render error: got wrong image '${rendered}' rendering '${unicode}' ('${UTF16toJSON(unicode)}') near '${id}'`;
+      const error = `Render error: got wrong image '${rendered}' rendering '${unicode}' ${showSequences(unicode)} near '${id}'`;
       return errors.push(error);
     }
 
     // Check string for garbage
     const stripped = rendered.replace(renderedRegex, '');
     if (stripped.length !== 0) {
-      const error = `Render error: got garbage '${UTF16toJSON(stripped)}' rendering '${unicode}' ('${UTF16toJSON(unicode)}') near '${id}'`;
+      const error = `Render error: got garbage ${showSequences(stripped)} rendering '${unicode}' ${showSequences(unicode)} near '${id}'`;
       return errors.push(error);
     }
   });
