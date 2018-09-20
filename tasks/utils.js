@@ -1,6 +1,6 @@
 const chalk = require('chalk');
 
-const parseRegex = /^((?:[A-Z0-9]+\s)+)\s*;\s[\w-]+\s+#\s(\S+)\s([\s\S]+)$/;
+const parseRegex = /^((?:[A-Z0-9]+\s)+)\s*;\s([\w-]+)\s+#\s(\S+)\s([\s\S]+)$/;
 const commentRegex = /^#/;
 
 const DEFAULT_EMOJI_VERSION = '5.0';
@@ -23,17 +23,15 @@ const utils = {
       if (!string.length || commentRegex.test(string)) return acc;
       const matches = string.match(parseRegex);
       if (!matches) errors.push(string);
-      if (matches) acc.push(matches.map((substr) => substr.trim()));
+      const [line, rawCodePoint, qualified, unicode, name] = matches.map((substr) => substr.trim());
+      const codePoint = rawCodePoint.replace(/\s/g, '-').toLowerCase();
+      acc.push({ line, codePoint, qualified, unicode, name });
       return acc;
     }, []);
 
     if (errors.length) return utils.logError(`Spec parser failed:\n${errors.join('\n')}`);
 
     return chunks;
-  },
-
-  formatSpecCodePount(string) {
-    return string.replace(/\s/g, '-').toLowerCase();
   },
 
   logSuccess(message) {

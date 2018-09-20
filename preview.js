@@ -3,9 +3,7 @@ const request = require('request');
 
 const { shortnameToUnicode, codePointToUnicode } = require('./lib/utils');
 const { render: renderEmoji } = require('./lib');
-const {
-  getUnicodeSpecUrl, parseUnicodeSpec, formatSpecCodePount, logError,
-} = require('./tasks/utils');
+const { getUnicodeSpecUrl, parseUnicodeSpec, logError } = require('./tasks/utils');
 const { collection } = require('./vendor/emojis.json');
 
 const PORT = 3000;
@@ -20,10 +18,10 @@ const render = (spec) => {
     renderEmoji(codePointToUnicode(hex), renderOptions)
   ));
 
-  const specUnicode = spec.map((item) => item[2]);
+  const specUnicode = spec.map(({ unicode }) => unicode);
   const specUnicodeImages = specUnicode.map((unicode) => renderEmoji(unicode, renderOptions));
-  const specCodePointsImages = spec.map((item) => (
-    renderEmoji(codePointToUnicode(formatSpecCodePount(item[1])), renderOptions)
+  const specCodePointsImages = spec.map(({ codePoint }) => (
+    renderEmoji(codePointToUnicode(codePoint), renderOptions)
   ));
 
   const sections = [

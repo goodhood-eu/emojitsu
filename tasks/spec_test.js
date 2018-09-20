@@ -1,9 +1,7 @@
 /* eslint no-bitwise: "off" */
 const request = require('request');
 
-const {
-  getUnicodeSpecUrl, parseUnicodeSpec, formatSpecCodePount, logSuccess, logError,
-} = require('./utils');
+const { getUnicodeSpecUrl, parseUnicodeSpec, logSuccess, logError } = require('./utils');
 const { codePointToUnicode, unicodeToCodePoint, unicodeToEmoji } = require('../lib/utils');
 const { render, emojiRegex } = require('../lib');
 
@@ -24,35 +22,35 @@ const processEmojis = (list) => {
   const errors = [];
 
   list.forEach((item) => {
-    const [codePoint, unicode, name] = item.slice(1);
+    const { codePoint, unicode, name, qualified } = item;
+    const id = `${name} ${qualified}`;
 
     const regex = new RegExp(emojiRegex, 'g');
 
     // Check regex matcher first
     if (!regex.test(unicode)) {
-      const error = `Regex error: expected to match '${unicode}' ('${UTF16toJSON(unicode)}') near '${name}'`;
+      const error = `Regex error: expected to match '${unicode}' ('${UTF16toJSON(unicode)}') near '${id}'`;
       return errors.push(error);
     }
 
     // Check encoder
-    const encoded = codePointToUnicode(formatSpecCodePount(codePoint));
+    const encoded = codePointToUnicode(codePoint);
     if (encoded !== unicode) {
-      const error = `Encoder error: expected '${unicode}' ('${UTF16toJSON(unicode)}') but got '${encoded}' ('${UTF16toJSON(encoded)}') near '${name}'`;
+      const error = `Encoder error: expected '${unicode}' ('${UTF16toJSON(unicode)}') but got '${encoded}' ('${UTF16toJSON(encoded)}') near '${id}'`;
       return errors.push(error);
     }
 
     // Check decoder
     const decoded = unicodeToCodePoint(unicode);
-    const formatted = formatSpecCodePount(codePoint);
-    if (decoded !== formatted) {
-      const error = `Decoder error: expected '${formatted}' ('${unicode}') but got '${decoded}' ('${codePointToUnicode(decoded)}') near '${name}'`;
+    if (decoded !== codePoint) {
+      const error = `Decoder error: expected '${codePoint}' ('${unicode}') but got '${decoded}' ('${codePointToUnicode(decoded)}') near '${id}'`;
       return errors.push(error);
     }
 
     // Check if matching against our dict works correctly
     const emojiData = unicodeToEmoji(unicode);
     if (!emojiData) {
-      const error = `Detection error: got no data for '${unicode}' ('${UTF16toJSON(unicode)}') near '${name}'`;
+      const error = `Detection error: got no data for '${unicode}' ('${UTF16toJSON(unicode)}') near '${id}'`;
       return errors.push(error);
     }
 
@@ -61,14 +59,14 @@ const processEmojis = (list) => {
     const images = rendered.match(/<img/g);
 
     if (!images || images.length > 1) {
-      const error = `Render error: got wrong image '${rendered}' rendering '${unicode}' ('${UTF16toJSON(unicode)}') near '${name}'`;
+      const error = `Render error: got wrong image '${rendered}' rendering '${unicode}' ('${UTF16toJSON(unicode)}') near '${id}'`;
       return errors.push(error);
     }
 
     // Check string for garbage
     const stripped = rendered.replace(renderedRegex, '');
     if (stripped.length !== 0) {
-      const error = `Render error: got garbage '${UTF16toJSON(stripped)}' rendering '${unicode}' ('${UTF16toJSON(unicode)}') near '${name}'`;
+      const error = `Render error: got garbage '${UTF16toJSON(stripped)}' rendering '${unicode}' ('${UTF16toJSON(unicode)}') near '${id}'`;
       return errors.push(error);
     }
   });
