@@ -61,6 +61,9 @@ const getCollection = () => {
   return keys.reduce((acc, key) => {
     const { category, shortname, code_points } = emojis[key];
 
+    // FIXME: REMOVE THIS LINE
+    // if (emojis[key].unicode_version === 11) return acc
+
     const hex = code_points.output;
     const suggest = isSuggestable(key);
 
@@ -88,6 +91,9 @@ const getRegex = () => {
       non_fully_qualified,
       default_matches,
     } = emojis[key].code_points;
+
+    // FIXME: REMOVE THIS LINE
+    // if (emojis[key].unicode_version === 11) return acc
 
     const matchable = [output, fully_qualified, non_fully_qualified].concat(default_matches);
     const codePointArray = uniq(matchable);
