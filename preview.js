@@ -2,7 +2,7 @@ const express = require('express');
 const request = require('request');
 
 const { shortnameToUnicode, codePointToUnicode } = require('./lib/utils');
-const { render } = require('./lib');
+const { render: renderEmoji } = require('./lib');
 const { getUnicodeSpecUrl, parseUnicodeSpec, logError } = require('./tasks/utils');
 const { collection } = require('./vendor/emojis.json');
 
@@ -12,32 +12,27 @@ const app = express();
 const renderOptions = { cdn: '/images', className: 'emoji' };
 const previewSize = 20;
 
-const handleSpecReady = (error, response, body) => {
-  if (error || response.statusCode !== 200) return logError(`Cound't load spec data: ${error}`);
-  console.log(`Loaded unicode spec from ${URL}`);
-
-  const parsedSpec = parseUnicodeSpec(body);
-
+const render = (spec) => {
   const unicodeList = collection.map(({ shortname }) => shortnameToUnicode(shortname));
-  const imagesList = collection.map(({ hex }) => render(codePointToUnicode(hex), renderOptions));
-
-  const specUnicode = parsedSpec.map((item) => item[2]);
-  const specUnicodeImages = specUnicode.map((unicode) => render(unicode, renderOptions));
-  const specCodePointsImages = parsedSpec.map((item) => (
-    render(codePointToUnicode(item[1].replace(/\s/g, '-')), renderOptions)
+  const imagesList = collection.map(({ hex }) => (
+    renderEmoji(codePointToUnicode(hex), renderOptions)
   ));
 
-  console.warn(JSON.stringify(specUnicode, null, 2))
+  const specUnicode = spec.map((item) => item[2]);
+  const specUnicodeImages = specUnicode.map((unicode) => renderEmoji(unicode, renderOptions));
+  const specCodePointsImages = spec.map((item) => (
+    renderEmoji(codePointToUnicode(item[1].replace(/\s/g, '-')), renderOptions)
+  ));
 
   const sections = [
-    ['Shortcodes to unicode', unicodeList],
-    ['Unicode to images', imagesList],
-    ['Spec unicode', specUnicode],
-    ['Spec unicode to images', specUnicodeImages],
-    ['Spec codepoints to images', specCodePointsImages],
+    ['Unicode output test', unicodeList],
+    ['Unicode conversion test', imagesList],
+    ['Spec unicode test', specUnicode],
+    ['Spec conversion test', specUnicodeImages],
+    ['Spec codepoints conversion test', specCodePointsImages],
   ];
 
-  const text = `
+  return `
   <!DOCTYPE html>
   <html lang="en" dir="ltr">
     <head>
@@ -46,6 +41,9 @@ const handleSpecReady = (error, response, body) => {
       <style>
         html {
           font-size: ${previewSize}px;
+        }
+        article {
+          margin-top: 60px;
         }
         .emoji {
           width: ${previewSize}px;
@@ -62,10 +60,17 @@ const handleSpecReady = (error, response, body) => {
     </body>
   </html>
   `;
+};
 
-  app.get('/', (req, res) => res.send(text));
+const handleSpecReady = (error, response, body) => {
+  if (error || response.statusCode !== 200) return logError(`Cound't load spec data (${URL}): ${error}`);
+  console.log(`Loaded unicode spec from ${URL}`);
+
+  const html = render(parseUnicodeSpec(body));
+
+  app.get('/', (req, res) => res.send(html));
   app.use('/images', express.static('node_modules/emojione-assets/png/128'));
-  app.get('*', (req, res) => res.send('404'));
+  app.get('*', (req, res) => res.status(404).send('Page doesn\'t exist'));
   app.listen(PORT, () => console.log(`Server is listening on port ${PORT}!`));
 };
 

@@ -2,13 +2,12 @@
 const request = require('request');
 
 const { getUnicodeSpecUrl, parseUnicodeSpec, logSuccess, logError } = require('./utils');
-const { codePointToUnicode, unicodeToEmoji } = require('../lib/utils');
+const { codePointToUnicode, unicodeToCodePoint, unicodeToEmoji } = require('../lib/utils');
 const { render, emojiRegex } = require('../lib');
-
 
 const renderedRegex = /<img src="[/\w.-]+"\salt="\S+"\sdraggable="false"\s\/>/g;
 
-const formatCodePoint = (string) => string.replace(/\s/g, '-');
+const formatCodePoint = (string) => string.replace(/\s/g, '-').toLowerCase();
 
 const UTF16toJSON = (text) => {
   const result = [];
@@ -39,6 +38,14 @@ const processEmojis = (list) => {
     const encoded = codePointToUnicode(formatCodePoint(codePoint));
     if (encoded !== unicode) {
       const error = `Encoder error: expected '${unicode}' ('${UTF16toJSON(unicode)}') but got '${encoded}' ('${UTF16toJSON(encoded)}') near '${name}'`;
+      return errors.push(error);
+    }
+
+    // Check decoder
+    const decoded = unicodeToCodePoint(unicode);
+    const formatted = formatCodePoint(codePoint);
+    if (decoded !== formatted) {
+      const error = `Decoder error: expected '${formatted}' ('${unicode}') but got '${decoded}' ('${codePointToUnicode(decoded)}') near '${name}'`;
       return errors.push(error);
     }
 
