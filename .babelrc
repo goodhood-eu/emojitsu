@@ -3,7 +3,6 @@
     "@babel/preset-env"
   ],
   "plugins": [
-    "@babel/plugin-transform-runtime",
     "@babel/plugin-transform-strict-mode",
     "@babel/plugin-proposal-class-properties",
     "@babel/plugin-proposal-json-strings",
