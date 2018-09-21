@@ -113,11 +113,11 @@ describe('emojitsu', () => {
   });
 
   it('renderShortname', () => {
-    const expectedEmoji = '<img src="/images/emojis-v3.1.1/64/1f953.png" alt="🥓" draggable="false" />';
-    const expectedToned = '<img src="/images/emojis-v3.1.1/64/1f44d-1f3ff.png" alt="👍🏿" draggable="false" />';
-    const expectedMixed = '<img src="/images/emojis-v3.1.1/64/1f469-1f469-1f466.png" alt="👩‍👩‍👦" draggable="false" />';
-    const expectedSpecialSpacer = '<img src="/images/emojis-v3.1.1/64/1f469-1f3fd-1f680.png" alt="👩🏽‍🚀" draggable="false" />';
-    const expectedSpecialEnder = '<img src="/images/emojis-v3.1.1/64/1f468-1f3ff-2708.png" alt="👨🏿‍✈️" draggable="false" />';
+    const expectedEmoji = '<img src="/images/emojis-v4.0.0/64/1f953.png" alt="🥓" draggable="false" />';
+    const expectedToned = '<img src="/images/emojis-v4.0.0/64/1f44d-1f3ff.png" alt="👍🏿" draggable="false" />';
+    const expectedMixed = '<img src="/images/emojis-v4.0.0/64/1f469-1f469-1f466.png" alt="👩‍👩‍👦" draggable="false" />';
+    const expectedSpecialSpacer = '<img src="/images/emojis-v4.0.0/64/1f469-1f3fd-1f680.png" alt="👩🏽‍🚀" draggable="false" />';
+    const expectedSpecialEnder = '<img src="/images/emojis-v4.0.0/64/1f468-1f3ff-2708.png" alt="👨🏿‍✈️" draggable="false" />';
 
     const shortnameMix = [
       specialEnder.shortname,
@@ -169,11 +169,11 @@ describe('emojitsu', () => {
   });
 
   it('render', () => {
-    const expectedEmoji = '<img src="/images/emojis-v3.1.1/64/1f953.png" alt="🥓" draggable="false" />';
-    const expectedToned = '<img src="/images/emojis-v3.1.1/64/1f44d-1f3ff.png" alt="👍🏿" draggable="false" />';
-    const expectedMixed = '<img src="/images/emojis-v3.1.1/64/1f469-1f469-1f466.png" alt="👩‍👩‍👦" draggable="false" />';
-    const expectedSpecialSpacer = '<img src="/images/emojis-v3.1.1/64/1f469-1f3fd-1f680.png" alt="👩🏽‍🚀" draggable="false" />';
-    const expectedSpecialEnder = '<img src="/images/emojis-v3.1.1/64/1f468-1f3ff-2708.png" alt="👨🏿‍✈️" draggable="false" />';
+    const expectedEmoji = '<img src="/images/emojis-v4.0.0/64/1f953.png" alt="🥓" draggable="false" />';
+    const expectedToned = '<img src="/images/emojis-v4.0.0/64/1f44d-1f3ff.png" alt="👍🏿" draggable="false" />';
+    const expectedMixed = '<img src="/images/emojis-v4.0.0/64/1f469-1f469-1f466.png" alt="👩‍👩‍👦" draggable="false" />';
+    const expectedSpecialSpacer = '<img src="/images/emojis-v4.0.0/64/1f469-1f3fd-1f680.png" alt="👩🏽‍🚀" draggable="false" />';
+    const expectedSpecialEnder = '<img src="/images/emojis-v4.0.0/64/1f468-1f3ff-2708.png" alt="👨🏿‍✈️" draggable="false" />';
 
     const unicodeMix = [
       specialEnder.unicode,
@@ -199,6 +199,8 @@ describe('emojitsu', () => {
     const unescapedHTML = `<span>${expectedSpecialEnder}</span>`;
     const className = 'MY_UNIQUE_CLASS_NAME_FOR_SURE_THERE';
 
+    const simple = '~`!@#$%^&*()_+-={}[]:";\'<>?,./|\\0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
     assert.equal(render(), null, 'no arguments');
     assert.equal(render(null), null, 'null');
     assert.equal(render(''), '', 'empty string');
@@ -222,6 +224,8 @@ describe('emojitsu', () => {
     assert.equal(render(HTML, { unsafe: true }), unescapedHTML, 'can be forced to output unsafe content');
 
     assert.include(render(HTML, { className }), className, 'includes className');
+
+    assert.equal(render(simple, { unsafe: true }), simple, 'doesn\'t replace numbers and letters');
   });
 
   it('emojiCollection', () => {

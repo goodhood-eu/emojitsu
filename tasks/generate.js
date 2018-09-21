@@ -24,12 +24,36 @@ const clockRegex = /^:clock/;
 const shapeRegex = /_(diamond|square|triangle|circle|sign):$/;
 
 const patchEmojioneSource = (object) => {
-  // EmojiOne decided to match these even when they are plain text, patch codepoints to fix that
-  ['0023', '0039', '0038', '0037', '0036', '0035', '0034', '0033', '0032', '0031', '0030', '002a'].forEach((key) => {
+  // EmojiOne™ decided to break these by removing correct `fully-qualified` sequence
+  // Patching needed to avoid matching numbers and # * characters
+  [
+    '0023', '002a', '0030', '0031', '0032', '0033', '0034', '0035', '0036', '0037', '0038', '0039',
+  ].forEach((key) => {
     const item = object[key].code_points;
-    const correct = item.fully_qualified;
+    const correct = `${key}-fe0f`;
+    item.output = correct;
+    item.fully_qualified = correct;
     item.non_fully_qualified = correct;
     item.default_matches = [correct];
+  });
+
+  // EmojiOne™ decided to break these by removing correct `fully-qualified` sequence
+  // Patching needed to avoid sending incorrect characters to the server and to match proper emojis
+  [
+    '00a9', '00ae', '1f170', '1f171', '1f17e', '1f17f', '1f202', '1f237', '203c', '2049', '2122',
+    '2139', '2194', '2195', '2196', '2197', '2198', '2199', '21a9', '21aa', '23cf', '24c2', '25aa',
+    '25ab', '25b6', '25c0', '25fb', '25fc', '2600', '2601', '2602', '2603', '260e', '2611', '262f',
+    '263a', '2640', '2642', '265f', '2660', '2663', '2665', '2666', '2668', '267b', '267e', '2695',
+    '26a0', '2702', '2708', '2709', '270f', '2712', '2714', '2716', '271d', '2721', '2733', '2734',
+    '2744', '2747', '2763', '2764', '27a1', '2934', '2935', '2b05', '2b06', '2b07', '3030', '303d',
+    '3297', '3299',
+  ].forEach((key) => {
+    const item = object[key].code_points;
+    const correct = `${key}-fe0f`;
+    item.output = correct;
+    item.fully_qualified = correct;
+    item.non_fully_qualified = key;
+    item.default_matches = [key, correct];
   });
 };
 
@@ -56,7 +80,7 @@ const isSuggestable = (key) => {
 const getCollection = () => {
   const keys = getKeys();
 
-  keys.sort();
+  keys.sort((keyA, keyB) => emojis[keyA].order - emojis[keyB].order);
 
   return keys.reduce((acc, key) => {
     const { category, shortname, code_points } = emojis[key];

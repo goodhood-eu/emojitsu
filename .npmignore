@@ -4,8 +4,11 @@ src/
 tasks/
 test/
 .babelrc
+.browserslistrc
 .eslintignore
 .eslintrc
 .gitignore
 .npmignore
+preview.js
+raw-emojione-*.json
 run.js

@@ -3,7 +3,7 @@ const chalk = require('chalk');
 const parseRegex = /^((?:[A-Z0-9]+\s)+)\s*;\s([\w-]+)\s+#\s(\S+)\s([\s\S]+)$/;
 const commentRegex = /^#/;
 
-const DEFAULT_EMOJI_VERSION = '5.0';
+const DEFAULT_EMOJI_VERSION = '11.0';
 
 const utils = {
   formatMessage(payload) {

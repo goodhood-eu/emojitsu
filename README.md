@@ -3,6 +3,10 @@ Emojitsu
 
 In a given string convert unicode and `:shortcode:` emojis to `<img />` tags.
 
+## Unicode version
+
+Currently supported Unicode version: `11.0`. Minimum supported `emojione-assets` version: `4.0.0`.
+
 ## Usage:
 
 This package is a collection of utility functions loosely based to `twemoji` and `emojione` javascript libraries. It aims to completely replace those with a modern ES implementation, full unicode spec support and flexible image collection support. SVG sprites are not supported for performance reasons. For best results pair with https://github.com/emojione/emojione-assets.
@@ -55,4 +59,4 @@ Render functions and some helper functions support these options. This list cont
 }
 ```
 
-By default the path to emoji images is constructed like this: `/images/emojis-v${version}/${size}`. `version` is the https://github.com/emojione/emojione-assets version used to generate the emojis.json file and `size` is the asset size (32/64/128). Example output: `/images/emojis-v3.1.1/64/1f603.png`. When `cdn` option is specified, it will be used instead. When just a `size` is specified, default path will be used with `size` being replaced by the one provided in options.
+By default the path to emoji images is constructed like this: `/images/emojis-v${version}/${size}`. `version` is the https://github.com/emojione/emojione-assets version used to generate the emojis.json file and `size` is the asset size (32/64/128). Example output: `/images/emojis-v4.0.0/64/1f603.png`. When `cdn` option is specified, it will be used instead. When just a `size` is specified, default path will be used with `size` being replaced by the one provided in options.

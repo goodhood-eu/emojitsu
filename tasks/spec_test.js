@@ -77,14 +77,18 @@ const processEmojis = (list) => {
 };
 
 const process = (version) => {
+  const url = getUnicodeSpecUrl(version);
+
   const handleRequest = (error, response, body) => {
     if (error || response.statusCode !== 200) return logError(`Cound't load test data: ${error}`);
+    console.log('Running tests');
     const parsed = parseUnicodeSpec(body);
     processEmojis(parsed);
     logSuccess(`${parsed.length} emoji matched OK`);
   };
 
-  request(getUnicodeSpecUrl(version), handleRequest);
+  console.log(`Requesting data from ${url}`);
+  request(url, handleRequest);
 };
 
 module.exports = process;
