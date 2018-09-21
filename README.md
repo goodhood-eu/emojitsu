@@ -3,6 +3,10 @@ Emojitsu
 
 In a given string convert unicode and `:shortcode:` emojis to `<img />` tags.
 
+## Unicode version
+
+Currently supported Unicode version: `11.0`. Minimum supported `emojione-assets` version: `4.0.0`.
+
 ## Usage:
 
 This package is a collection of utility functions loosely based to `twemoji` and `emojione` javascript libraries. It aims to completely replace those with a modern ES implementation, full unicode spec support and flexible image collection support. SVG sprites are not supported for performance reasons. For best results pair with https://github.com/emojione/emojione-assets.
