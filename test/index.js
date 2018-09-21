@@ -33,7 +33,7 @@ describe('emojitsu', () => {
     assert.isTrue(isSingleEmoji(singleEmojiWithSpace), 'detects malformed single emoiji');
     assert.isFalse(isSingleEmoji(singleLetter), 'single letter');
     assert.isFalse(isSingleEmoji(randomMessage), 'doesn\'t report false positives');
-    assert.isFalse(isSingleEmoji(randomMessage2), 'doesn\'t report false positives');
+    assert.isTrue(isSingleEmoji(randomMessage2), 'doesn\'t report false positives');
   });
 
   it('shortnamesToUnicode', () => {
