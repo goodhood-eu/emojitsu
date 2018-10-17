@@ -5,7 +5,7 @@ jobs:
       ignore:
         - master # only test new branches
     docker:
-      - image: circleci/node:8.12
+      - image: circleci/node:8
     steps:
       - checkout
 
@@ -28,10 +28,6 @@ jobs:
 
       - store_artifacts: # upload test results
           path: test-report.xml
-      - store_artifacts: # upload lint results
-          path: eslint-report.log
 
       - store_test_results: # pass down to Test Summary
           path: test-report.xml
-      - store_test_results: # pass down to Test Summary
-          path: eslint-report.log
