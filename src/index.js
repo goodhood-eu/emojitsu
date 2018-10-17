@@ -10,7 +10,7 @@ import {
 
   shortnameToUnicode,
   unicodeToShortname,
-} from './utils'
+} from './utils';
 
 // If strange bugs appear, create new regex in each function
 const regexShortname = new RegExp(shortnameRegex, 'g');
