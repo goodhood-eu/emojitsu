@@ -19,11 +19,15 @@ jobs:
             - ./node_modules
       - run: # run tests
           name: test
-          command: npm run test:ci
+          command: npm run test:tofile
       - run: # run link
           name: lint
-          command: npm run lint
-      - store_artifacts: # special step to save test results as as artifact
-          path: results.txt
-      - store_test_results: # special step to upload test results for display in Test Summary
-          path: results.txt
+          command: npm run lint:tofile
+      - store_artifacts: # upload test results
+          path: test-report.log
+      - store_artifacts: # upload lint results
+          path: eslint-report.log
+      - store_test_results: # pass down to Test Summary
+          path: test-report.log
+      - store_test_results: # pass down to Test Summary
+          path: eslint-report.log
