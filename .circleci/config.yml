@@ -8,6 +8,7 @@ jobs:
       - image: circleci/node:8.12
     steps:
       - checkout
+
       - restore_cache: # special step to restore the dependency cache
           key: dependency-cache-{{ checksum "package.json" }}
       - run:
@@ -17,17 +18,20 @@ jobs:
           key: dependency-cache-{{ checksum "package.json" }}
           paths:
             - ./node_modules
+
       - run: # run tests
           name: test
           command: npm run test:tofile
       - run: # run link
           name: lint
           command: npm run lint:tofile
+
       - store_artifacts: # upload test results
-          path: test-report.log
+          path: test-report.xml
       - store_artifacts: # upload lint results
           path: eslint-report.log
+
       - store_test_results: # pass down to Test Summary
-          path: test-report.log
+          path: test-report.xml
       - store_test_results: # pass down to Test Summary
           path: eslint-report.log
