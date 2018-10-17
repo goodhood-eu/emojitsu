@@ -25,6 +25,6 @@ jobs:
           command: npm run lint:tofile
 
       - store_test_results:
-          path: reports/xunit
+          path: reports/junit
       - store_artifacts:
-          path: reports/xunit
+          path: reports/junit
