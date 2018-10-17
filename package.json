@@ -25,7 +25,6 @@
     "lint": "eslint ./",
     "lint:tofile": "eslint --format junit -o reports/junit/js-lint-results.xml ./",
     "test": "npm run build:babel && env TZ='Europe/Berlin' mocha \"test/**/*.js\"",
-    "test:ci": "npm run build:babel && env TZ='Europe/Berlin' mocha -R spec \"test/**/*.js\"",
     "test:tofile": "npm run build:babel && mocha --no-colors -R xunit --reporter-options output=reports/junit/js-test-results.xml \"test/**/*.js\""
   },
   "devDependencies": {
