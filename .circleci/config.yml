@@ -1,0 +1,29 @@
+version: 2
+jobs:
+  build:
+    branches:
+      ignore:
+        - master # only test new branches
+    docker:
+      - image: circleci/node:8.12
+    steps:
+      - checkout
+      - restore_cache: # special step to restore the dependency cache
+          key: dependency-cache-{{ checksum "package.json" }}
+      - run:
+          name: npm-install
+          command: npm install
+      - save_cache: # special step to save the dependency cache
+          key: dependency-cache-{{ checksum "package.json" }}
+          paths:
+            - ./node_modules
+      - run: # run tests
+          name: test
+          command: npm run test:ci
+      - run: # run link
+          name: lint
+          command: npm run lint
+      - store_artifacts: # special step to save test results as as artifact
+          path: results.txt
+      - store_test_results: # special step to upload test results for display in Test Summary
+          path: results.txt
