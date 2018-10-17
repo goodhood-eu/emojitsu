@@ -1,6 +1,9 @@
 version: 2
 jobs:
   build:
+    branches:
+      ignore:
+        - master # only test new branches
     docker:
       - image: circleci/node:8.12
     steps:
@@ -16,9 +19,11 @@ jobs:
             - ./node_modules
       - run: # run tests
           name: test
-          command: npm test
+          command: npm run test:ci
       - run: # run link
           name: lint
-          command: 'npm run lint'
+          command: npm run lint
+      - store_artifacts: # special step to save test results as as artifact
+          path: results.txt
       - store_test_results: # special step to upload test results for display in Test Summary
-          path: test-results.xml
+          path: results.txt

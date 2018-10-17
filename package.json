@@ -25,6 +25,7 @@
     "lint": "eslint ./",
     "lint:tofile": "eslint --no-color -o ./eslint-report.log ./",
     "test": "npm run build:babel && env TZ='Europe/Berlin' mocha \"test/**/*.js\"",
+    "test:ci": "npm run build:babel && env TZ='Europe/Berlin' mocha \"test/**/*.js\" --reporter spec",
     "test:tofile": "npm run build:babel && mocha --no-colors -R spec \"test/**/*.js\" 2>&1 | tee test-report.log"
   },
   "devDependencies": {
