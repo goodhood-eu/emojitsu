@@ -6,7 +6,7 @@
   "readmeFilename": "README.md",
   "repository": "goodhood-eu/emojitsu",
   "bugs": "https://github.com/goodhood-eu/emojitsu/issues",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "keywords": [
     "emoji",
     "emojione",
@@ -17,15 +17,17 @@
     "node": "^10.x.x"
   },
   "scripts": {
+    "reinstall": "rm -rf node_modules package-lock.json && npm install",
+    "check": "npm test && npm run lint && echo \"\\033[0;32mReady to publish\\033[0m\"",
     "clean": "rm -rf ./lib/ || exit 1",
     "build:babel": "NODE_ENV=production babel src --out-dir lib --copy-files",
-    "prepublishOnly": "npm run clean && npm run build:babel",
+    "prepublishOnly": "npm run check && npm run clean && npm run build:babel",
     "generate": "npm run build:babel && node run.js generate",
     "start": "npm run build:babel && node preview.js",
     "lint": "eslint ./",
     "lint:tofile": "eslint --format junit -o reports/junit/js-lint-results.xml ./",
-    "test": "npm run build:babel && env TZ='Europe/Berlin' mocha \"test/**/*.js\"",
-    "test:tofile": "npm run build:babel && mocha --no-colors -R xunit --reporter-options output=reports/junit/js-test-results.xml \"test/**/*.js\""
+    "test": "npm run build:babel && TZ='GMT' mocha \"test/**/*.js\"",
+    "test:tofile": "npm run build:babel && TZ='GMT' mocha --no-colors -R xunit --reporter-options output=reports/junit/js-test-results.xml \"test/**/*.js\""
   },
   "devDependencies": {
     "@babel/cli": "^7.2.0",
