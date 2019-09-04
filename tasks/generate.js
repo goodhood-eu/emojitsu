@@ -7,7 +7,7 @@ const uniq = require('lodash.uniq');
 const { logResult } = require('./utils');
 
 // Maximum unicode version to show in suggestions
-const SUPPORTED_UNICODE_VERSION = 10;
+const SUPPORTED_UNICODE_VERSION = 11;
 
 // These are not to be shown in the suggestions because they are nonsense
 const SKIPPED_CATEGORIES = [
