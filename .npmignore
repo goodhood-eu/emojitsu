@@ -10,5 +10,5 @@ test/
 .gitignore
 .npmignore
 preview.js
-raw-emojione-*.json
+raw-emoji-*.json
 run.js

@@ -10,6 +10,7 @@
   "keywords": [
     "emoji",
     "emojione",
+    "joypixels",
     "emojify"
   ],
   "main": "lib/index.js",
@@ -38,8 +39,8 @@
     "babel-plugin-add-module-exports": "^1.0.2",
     "chai": "^4.2.0",
     "chalk": "^2.4.2",
-    "emojione-assets": "4.5.0",
-    "eslint": "^6.1.0",
+    "emoji-assets": "5.0.2",
+    "eslint": "^6.3.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
     "express": "^4.17.1",

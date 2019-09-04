@@ -122,6 +122,6 @@ app.get('/', (req, res) => res.send(renderHTML(pages)));
 app.get('/suggestable', (req, res) => res.send(renderSuggestables()));
 app.get('/collection', (req, res) => res.send(renderCollection()));
 app.get('/spec', handleSpec);
-app.use('/images', express.static('node_modules/emojione-assets/png/128'));
+app.use('/images', express.static('node_modules/emoji-assets/png/128'));
 app.get('*', (req, res) => res.status(404).send('Page doesn\'t exist'));
 app.listen(PORT, () => console.log(`Server is listening on port ${PORT}!`));

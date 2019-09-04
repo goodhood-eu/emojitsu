@@ -113,11 +113,11 @@ describe('emojitsu', () => {
   });
 
   it('renderShortname', () => {
-    const expectedEmoji = '<img src="/images/emojis-v4.0.0/64/1f953.png" alt="🥓" draggable="false" />';
-    const expectedToned = '<img src="/images/emojis-v4.0.0/64/1f44d-1f3ff.png" alt="👍🏿" draggable="false" />';
-    const expectedMixed = '<img src="/images/emojis-v4.0.0/64/1f469-1f469-1f466.png" alt="👩‍👩‍👦" draggable="false" />';
-    const expectedSpecialSpacer = '<img src="/images/emojis-v4.0.0/64/1f469-1f3fd-1f680.png" alt="👩🏽‍🚀" draggable="false" />';
-    const expectedSpecialEnder = '<img src="/images/emojis-v4.0.0/64/1f468-1f3ff-2708.png" alt="👨🏿‍✈️" draggable="false" />';
+    const expectedEmoji = '<img src="/images/emojis-v5.0.0/64/1f953.png" alt="🥓" draggable="false" />';
+    const expectedToned = '<img src="/images/emojis-v5.0.0/64/1f44d-1f3ff.png" alt="👍🏿" draggable="false" />';
+    const expectedMixed = '<img src="/images/emojis-v5.0.0/64/1f469-1f469-1f466.png" alt="👩‍👩‍👦" draggable="false" />';
+    const expectedSpecialSpacer = '<img src="/images/emojis-v5.0.0/64/1f469-1f3fd-1f680.png" alt="👩🏽‍🚀" draggable="false" />';
+    const expectedSpecialEnder = '<img src="/images/emojis-v5.0.0/64/1f468-1f3ff-2708.png" alt="👨🏿‍✈️" draggable="false" />';
 
     const shortnameMix = [
       specialEnder.shortname,
@@ -169,11 +169,11 @@ describe('emojitsu', () => {
   });
 
   it('render', () => {
-    const expectedEmoji = '<img src="/images/emojis-v4.0.0/64/1f953.png" alt="🥓" draggable="false" />';
-    const expectedToned = '<img src="/images/emojis-v4.0.0/64/1f44d-1f3ff.png" alt="👍🏿" draggable="false" />';
-    const expectedMixed = '<img src="/images/emojis-v4.0.0/64/1f469-1f469-1f466.png" alt="👩‍👩‍👦" draggable="false" />';
-    const expectedSpecialSpacer = '<img src="/images/emojis-v4.0.0/64/1f469-1f3fd-1f680.png" alt="👩🏽‍🚀" draggable="false" />';
-    const expectedSpecialEnder = '<img src="/images/emojis-v4.0.0/64/1f468-1f3ff-2708.png" alt="👨🏿‍✈️" draggable="false" />';
+    const expectedEmoji = '<img src="/images/emojis-v5.0.0/64/1f953.png" alt="🥓" draggable="false" />';
+    const expectedToned = '<img src="/images/emojis-v5.0.0/64/1f44d-1f3ff.png" alt="👍🏿" draggable="false" />';
+    const expectedMixed = '<img src="/images/emojis-v5.0.0/64/1f469-1f469-1f466.png" alt="👩‍👩‍👦" draggable="false" />';
+    const expectedSpecialSpacer = '<img src="/images/emojis-v5.0.0/64/1f469-1f3fd-1f680.png" alt="👩🏽‍🚀" draggable="false" />';
+    const expectedSpecialEnder = '<img src="/images/emojis-v5.0.0/64/1f468-1f3ff-2708.png" alt="👨🏿‍✈️" draggable="false" />';
 
     const unicodeMix = [
       specialEnder.unicode,

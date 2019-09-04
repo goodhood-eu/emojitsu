@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 const { Trie } = require('regexgen');
-const emojis = require('emojione-assets/emoji');
+const emojis = require('emoji-assets/emoji');
 const uniq = require('lodash.uniq');
 const { logResult } = require('./utils');
 
