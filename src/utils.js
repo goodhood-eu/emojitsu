@@ -2,7 +2,7 @@
 import escapeHtml from 'escape-html';
 import { collection } from '../vendor/emojis';
 
-const imagePath = '/images/emojis-v5.0.0';
+const imagePath = '/images/emojis-v5.0.2';
 const AVAILABLE_SIZES = {
   32: true,
   64: true,

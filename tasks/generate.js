@@ -34,7 +34,6 @@ const patchEmojioneSource = (object) => {
     item.output = correct;
     item.fully_qualified = correct;
     item.non_fully_qualified = correct;
-    item.default_matches = [correct];
   });
 
   // EmojiOne™ decided to break these by removing correct `fully-qualified` sequence
@@ -53,7 +52,6 @@ const patchEmojioneSource = (object) => {
     item.output = correct;
     item.fully_qualified = correct;
     item.non_fully_qualified = key;
-    item.default_matches = [key, correct];
   });
 };
 
@@ -110,10 +108,9 @@ const getRegex = () => {
       output,
       fully_qualified,
       non_fully_qualified,
-      default_matches,
     } = emojis[key].code_points;
 
-    const matchable = [output, fully_qualified, non_fully_qualified].concat(default_matches);
+    const matchable = [output, fully_qualified, non_fully_qualified];
     const filtered = uniq(matchable);
 
     return acc.concat(filtered);
