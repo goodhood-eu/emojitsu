@@ -36,4 +36,4 @@ node_modules/*
 lib/
 
 # Test files
-raw-emojione-*.json
+raw-emoji-*.json

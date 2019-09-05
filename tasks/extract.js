@@ -5,7 +5,7 @@ const { logResult } = require('./utils');
 const pkg = require('../package');
 
 const version = pkg.devDependencies['emojione-assets'].replace(/\^/g, '');
-const DEFAULT_FILENAME = `raw-emojione-${version}.json`;
+const DEFAULT_FILENAME = `raw-emoji-${version}.json`;
 const content = JSON.stringify(emojis, null, 2);
 
 const process = (fileName = DEFAULT_FILENAME) => {
