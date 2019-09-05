@@ -1,10 +1,11 @@
 /* eslint no-bitwise: "off" */
-const fs = require('fs');
+// const fs = require('fs');
 const path = require('path');
 const { Trie } = require('regexgen');
 const emojis = require('emojione-assets/emoji');
 const uniq = require('lodash.uniq');
-const { logResult } = require('./utils');
+// const { logResult } = require('./utils/log');
+const { getUnicodeSpec } = require('./utils/files');
 
 // Maximum unicode version to show in suggestions
 const SUPPORTED_UNICODE_VERSION = 10;
@@ -131,18 +132,22 @@ const getRegex = () => {
   return `(${trie.toString()})`;
 };
 
-const runTask = () => {
-  patchEmojioneSource(emojis);
-  const collection = getCollection();
-  const emojiRegex = getRegex();
-  const shortnameRegex = '(:[\\w-]+:)';
-  const total = collection.length;
+const runTask = async() => {
+  const result = await getUnicodeSpec();
+  console.warn(result)
+  // patchEmojioneSource(emojis);
+  // const collection = getCollection();
+  // const emojiRegex = getRegex();
+  // const shortnameRegex = '(:[\\w-]+:)';
+  // const total = collection.length;
+  //
+  // const json = { collection, emojiRegex, shortnameRegex, total };
+  // const content = `${JSON.stringify(json, null, 2)}\n`;
+  // fs.writeFileSync(OUTPUT, content);
+  //
+  // return logResult(`Created ${total} entries, results saved to ${OUTPUT}`);
 
-  const json = { collection, emojiRegex, shortnameRegex, total };
-  const content = `${JSON.stringify(json, null, 2)}\n`;
-  fs.writeFileSync(OUTPUT, content);
 
-  return logResult(`Created ${total} entries, results saved to ${OUTPUT}`);
 };
 
 module.exports = runTask;

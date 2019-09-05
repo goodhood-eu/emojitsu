@@ -49,6 +49,8 @@
     "request": "^2.88.0"
   },
   "dependencies": {
-    "escape-html": "^1.0.3"
+    "escape-html": "^1.0.3",
+    "got": "^9.6.0",
+    "mkdirp": "^0.5.1"
   }
 }

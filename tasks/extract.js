@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const emojis = require('emojione-assets/emoji');
-const { logResult } = require('./utils');
+const { logResult } = require('./utils/log');
 const pkg = require('../package');
 
 const version = pkg.devDependencies['emojione-assets'].replace(/\^/g, '');

@@ -1,4 +1,4 @@
-const { logResult } = require('./utils');
+const { logResult } = require('./utils/log');
 const { codePointToUnicode } = require('../lib/utils');
 
 const process = (style) => {

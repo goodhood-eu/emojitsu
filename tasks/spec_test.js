@@ -1,7 +1,7 @@
 /* eslint no-bitwise: "off" */
 const request = require('request');
 
-const { getUnicodeSpecUrl, parseUnicodeSpec, logSuccess, logError } = require('./utils');
+const { getUnicodeSpecUrl, parseUnicodeSpec, logSuccess, logError } = require('./utils/log');
 const { codePointToUnicode, unicodeToCodePoint, unicodeToEmoji } = require('../lib/utils');
 const { render, emojiRegex } = require('../lib');
 
