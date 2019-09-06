@@ -4,12 +4,15 @@ const path = require('path');
 const { Trie } = require('regexgen');
 const uniq = require('lodash.uniq');
 const difference = require('lodash.difference');
-const { logResult, logError } = require('./utils/log');
-const { getUnicodeSpec } = require('./utils/files');
+
 const { hexToId, fromCodePoint } = require('../lib/utils');
 
-// Maximum unicode version to show in suggestions
-const SUPPORTED_UNICODE_VERSION = 10;
+const { logResult, logError } = require('./utils/log');
+const { getVersion } = require('./utils/unicode');
+const { getUnicodeSpec } = require('./utils/files');
+
+const { SUGGESTABLE_UNICODE_VERSION } = require('./utils/constants');
+
 
 // These are not to be shown in the suggestions because they are nonsense
 const SKIPPED_CATEGORIES = [
@@ -39,7 +42,7 @@ const isSuggestable = (hash, key) => {
     shapeRegex,
   ].every((regex) => !regex.test(shortname));
 
-  const isSupported = SUPPORTED_UNICODE_VERSION >= unicode_version;
+  const isSupported = SUGGESTABLE_UNICODE_VERSION >= unicode_version;
 
   return isDisplayable && !isOptional && !isSkipped && isDesirable && isSupported;
 };
@@ -97,8 +100,9 @@ const getRegex = (hash) => {
   return `(${trie.toString()})`;
 };
 
-const runTask = async() => {
-  const specArray = await getUnicodeSpec();
+const runTask = async(string) => {
+  const version = getVersion(string);
+  const specArray = await getUnicodeSpec(version);
   const assetHash = require('emojione-assets/emoji');
   const processedHash = getEmojiData(specArray, assetHash);
 
@@ -113,7 +117,7 @@ const runTask = async() => {
   const shortnameRegex = '(:[\\w-]+:)';
   const total = collection.length;
 
-  const json = { collection, emojiRegex, shortnameRegex, total };
+  const json = { collection, emojiRegex, shortnameRegex, total, version };
   const content = `${JSON.stringify(json, null, 2)}\n`;
   fs.writeFileSync(OUTPUT, content);
 

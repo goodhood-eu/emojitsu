@@ -1,6 +1,7 @@
 /* eslint no-bitwise: "off" */
 const { logSuccess, logError } = require('./utils/log');
 const { getUnicodeSpec } = require('./utils/files');
+const { getVersion } = require('./utils/unicode');
 const { codePointToUnicode, unicodeToCodePoint, unicodeToEmoji } = require('../lib/utils');
 const { render, emojiRegex } = require('../lib');
 
@@ -75,7 +76,8 @@ const processEmojis = (list) => {
   if (errors.length) return logError(`Processing failed:\n${errors.join('\n')}`);
 };
 
-const process = async(version) => {
+const process = async(string) => {
+  const version = getVersion(string);
   const spec = await getUnicodeSpec(version);
 
   console.log('Running tests');

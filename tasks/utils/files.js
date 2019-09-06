@@ -6,7 +6,6 @@ const got = require('got');
 const { logError } = require('./log');
 const { parseUnicodeSpec } = require('./unicode');
 
-const DEFAULT_EMOJI_VERSION = '11.0';
 const buildPath = path.resolve(`${__dirname}/../../build`);
 
 mkdirp.sync(buildPath);
@@ -18,9 +17,7 @@ const parseAndSave = (file, data) => {
 };
 
 const utils = {
-  getUnicodeSpec: async(string) => {
-    const version = /\d+\.\d+/.test(string) ? string : DEFAULT_EMOJI_VERSION;
-
+  getUnicodeSpec: async(version) => {
     const parsedFile = `${buildPath}/unicode-${version}.json`;
     const rawFile = `${buildPath}/unicode-${version}.txt`;
     const url = `http://unicode.org/Public/emoji/${version}/emoji-test.txt`;

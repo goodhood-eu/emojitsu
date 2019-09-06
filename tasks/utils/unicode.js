@@ -1,9 +1,13 @@
 const { logError } = require('./log');
+const { CURRENT_UNICODE_VERSION } = require('./constants');
 
 const parseRegex = /^((?:[A-Z0-9]+\s)+)\s*;\s([\w-]+)\s+#\s(\S+)\s([\s\S]+)$/;
 const commentRegex = /^#/;
 
 const utils = {
+  getVersion(string) {
+    return /\d+\.\d+/.test(string) ? string : `${CURRENT_UNICODE_VERSION}.0`;
+  },
   parseUnicodeSpec(data) {
     const errors = [];
     const chunks = data.split('\n').reduce((acc, string) => {

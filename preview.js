@@ -1,13 +1,12 @@
 const express = require('express');
-const request = require('request');
 
-const { shortnameToUnicode, codePointToUnicode } = require('./lib/utils');
+const { shortnameToUnicode, codePointToUnicode, unicodeToShortname } = require('./lib/utils');
 const { render: renderEmoji } = require('./lib');
-const { getUnicodeSpecUrl, parseUnicodeSpec } = require('./tasks/utils');
+const { getVersion } = require('./tasks/utils/unicode');
+const { getUnicodeSpec } = require('./tasks/utils/files');
 const { collection } = require('./vendor/emojis.json');
 
 const PORT = 3000;
-const URL = getUnicodeSpecUrl();
 const app = express();
 const renderOptions = { cdn: '/images', className: 'emoji' };
 const previewSize = 20;
@@ -84,30 +83,28 @@ const renderCollection = () => {
   return renderHTML(renderList(sections));
 };
 
-const handleSpec = (req, res) => {
-  const handleSpecReady = (error, response, body) => {
-    if (error || response.statusCode !== 200) {
-      return res.status(500).send(`Cound't load spec data (${URL}): ${error}`);
-    }
+const handleSpec = async(req, res) => {
+  const spec = await getUnicodeSpec(getVersion());
 
-    const spec = parseUnicodeSpec(body);
-    const specUnicode = spec.map(({ unicode }) => unicode);
-    const specUnicodeImages = specUnicode.map((unicode) => renderEmoji(unicode, renderOptions));
-    const specCodePointsImages = spec.map(({ codePoint }) => (
-      renderEmoji(codePointToUnicode(codePoint), renderOptions)
-    ));
+  const specUnicode = spec.map(({ unicode }) => unicode);
+  const specUnicodeImages = specUnicode.map((unicode) => renderEmoji(unicode, renderOptions));
+  const specCodePointsImages = spec.map(({ codePoint }) => (
+    renderEmoji(codePointToUnicode(codePoint), renderOptions)
+  ));
+  const shortnamesImages = specUnicode
+    .map(unicodeToShortname)
+    .map(shortnameToUnicode)
+    .map((unicode) => renderEmoji(unicode, renderOptions));
 
-    const sections = [
-      ['Unicode output', specUnicode],
-      ['Unicode conversion', specUnicodeImages],
-      ['Codepoints conversion', specCodePointsImages],
-    ];
+  const sections = [
+    ['Unicode output', specUnicode],
+    ['Unicode conversion', specUnicodeImages],
+    ['Codepoints conversion', specCodePointsImages],
+    ['Shortnames conversion', shortnamesImages],
+  ];
 
-    const html = renderHTML(renderList(sections));
-    res.send(html);
-  };
-
-  request(URL, handleSpecReady);
+  const html = renderHTML(renderList(sections));
+  res.send(html);
 };
 
 const pages = `
@@ -119,9 +116,11 @@ const pages = `
 `;
 
 app.get('/', (req, res) => res.send(renderHTML(pages)));
+
 app.get('/suggestable', (req, res) => res.send(renderSuggestables()));
 app.get('/collection', (req, res) => res.send(renderCollection()));
 app.get('/spec', handleSpec);
+
 app.use('/images', express.static('node_modules/emojione-assets/png/128'));
 app.get('*', (req, res) => res.status(404).send('Page doesn\'t exist'));
 app.listen(PORT, () => console.log(`Server is listening on port ${PORT}!`));
