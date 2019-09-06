@@ -1,6 +1,7 @@
 const express = require('express');
 
-const { shortnameToUnicode, codePointToUnicode, unicodeToShortname } = require('./lib/utils');
+const { codePointToUnicode } = require('./lib/conversions');
+const { shortnameToUnicode, unicodeToShortname } = require('./lib/utils');
 const { render: renderEmoji } = require('./lib');
 const { getVersion } = require('./tasks/utils/unicode');
 const { getUnicodeSpec } = require('./tasks/utils/data');

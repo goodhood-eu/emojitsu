@@ -6,7 +6,7 @@ const { Trie } = require('regexgen');
 const uniq = require('lodash.uniq');
 const difference = require('lodash.difference');
 
-const { hexToId, fromCodePoint } = require('../lib/utils');
+const { hexToId, fromCodePoint } = require('../lib/conversions');
 
 const { logResult } = require('./utils/log');
 const { getVersion: getUnicodeVersion } = require('./utils/unicode');

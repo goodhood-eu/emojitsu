@@ -1,8 +1,10 @@
 /* eslint no-bitwise: "off" */
+const { codePointToUnicode, unicodeToCodePoint } = require('../lib/conversions');
+const { unicodeToEmoji } = require('../lib/utils');
+
 const { logSuccess, logError } = require('./utils/log');
 const { getUnicodeSpec } = require('./utils/data');
 const { getVersion } = require('./utils/unicode');
-const { codePointToUnicode, unicodeToCodePoint, unicodeToEmoji } = require('../lib/utils');
 const { render, emojiRegex } = require('../lib');
 
 const renderedRegex = /<img src="[/\w.-]+"\salt="\S+"\sdraggable="false"\s\/>/g;
