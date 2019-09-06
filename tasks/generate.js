@@ -52,7 +52,7 @@ const getEmojiData = (spec, assets) => spec.reduce((acc, item) => {
   const key = hexToId(hex);
 
   if (!assets[key]) {
-    console.error(`Coundn't find ${key} in the assets data`);
+    console.warn(`Coundn't find ${key} in the assets data`);
     return acc;
   }
 
