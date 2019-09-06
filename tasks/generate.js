@@ -52,7 +52,7 @@ const getEmojiData = (spec, assets) => spec.reduce((acc, item) => {
   const key = hexToId(hex);
 
   if (!assets[key]) {
-    console.error(`Coundn't find ${key} in the assets data`);
+    console.warn(`Coundn't find ${key} in the assets data`);
     return acc;
   }
 
@@ -70,7 +70,10 @@ const getCollection = (hash) => {
   return keys.reduce((acc, key) => {
     const { codePoints, data: { category, shortname } } = hash[key];
 
-    const { hex } = codePoints.find(({ qualified }) => qualified === 'fully-qualified');
+    const qualifiedCodePoint = codePoints.find(({ qualified }) => qualified === 'fully-qualified');
+    const codePoint = qualifiedCodePoint || codePoints[0];
+
+    const { hex } = codePoint;
     const suggest = isSuggestable(hash, key);
 
     acc.push({ category, shortname, hex, suggest });
