@@ -9,7 +9,8 @@ const difference = require('lodash.difference');
 const { hexToId, fromCodePoint } = require('../lib/utils');
 
 const { logResult } = require('./utils/log');
-const { getVersion } = require('./utils/unicode');
+const { getVersion: getUnicodeVersion } = require('./utils/unicode');
+const { getVersion: getAssetsVersion } = require('./utils/assets');
 const { getUnicodeSpec } = require('./utils/data');
 
 const { SUGGESTABLE_UNICODE_VERSION } = require('./utils/versions');
@@ -100,8 +101,8 @@ const getRegex = (hash) => {
 };
 
 const runTask = async(string) => {
-  const version = getVersion(string);
-  const specArray = await getUnicodeSpec(version);
+  const unicodeVersion = getUnicodeVersion(string);
+  const specArray = await getUnicodeSpec(unicodeVersion);
   const assetHash = require('emojione-assets/emoji');
   const processedHash = getEmojiData(specArray, assetHash);
 
@@ -115,8 +116,9 @@ const runTask = async(string) => {
 
   const shortnameRegex = '(:[\\w-]+:)';
   const total = collection.length;
+  const assetsVersion = getAssetsVersion();
 
-  const json = { collection, emojiRegex, shortnameRegex, total, version };
+  const json = { collection, emojiRegex, shortnameRegex, total, unicodeVersion, assetsVersion };
   const content = `${JSON.stringify(json, null, 2)}\n`;
   fs.writeFileSync(OUTPUT, content);
 

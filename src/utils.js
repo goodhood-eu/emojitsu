@@ -1,8 +1,7 @@
 /* eslint no-bitwise: "off" */
 import escapeHtml from 'escape-html';
-import { collection } from '../vendor/emojis';
+import { collection, assetsVersion } from '../vendor/emojis';
 
-const imagePath = '/images/emojis-v4.0.0';
 const AVAILABLE_SIZES = {
   32: true,
   64: true,
@@ -22,6 +21,8 @@ const padLeft = (string) => {
   if (string.length >= 4) return string;
   return `000${string}`.slice(-4);
 };
+
+export const imagePath = `/images/emojis-${assetsVersion}`;
 
 export const hexToId = (hex) => hex.replace(regexServiceChar, '');
 
