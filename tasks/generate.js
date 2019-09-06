@@ -28,7 +28,7 @@ const shapeRegex = /_(diamond|square|triangle|circle|sign):$/;
 const sortByLength = (a, b) => b.length - a.length;
 
 const isSuggestable = (hash, key) => {
-  const { shortname, display, diversity, category, unicode_version } = hash[key];
+  const { shortname, display, diversity, category, unicode_version } = hash[key].data;
 
   const isDisplayable = Boolean(display);
   const isOptional = Boolean(diversity);

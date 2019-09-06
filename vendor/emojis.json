@@ -4,259 +4,259 @@
       "category": "symbols",
       "shortname": ":heart:",
       "hex": "2764-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":orange_heart:",
       "hex": "1f9e1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":yellow_heart:",
       "hex": "1f49b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":green_heart:",
       "hex": "1f49a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":blue_heart:",
       "hex": "1f499",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":purple_heart:",
       "hex": "1f49c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":black_heart:",
       "hex": "1f5a4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":broken_heart:",
       "hex": "1f494",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":heart_exclamation:",
       "hex": "2763-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":two_hearts:",
       "hex": "1f495",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":revolving_hearts:",
       "hex": "1f49e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":heartbeat:",
       "hex": "1f493",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":heartpulse:",
       "hex": "1f497",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":sparkling_heart:",
       "hex": "1f496",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":cupid:",
       "hex": "1f498",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":gift_heart:",
       "hex": "1f49d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":heart_decoration:",
       "hex": "1f49f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":peace:",
       "hex": "262e-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":cross:",
       "hex": "271d-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":star_and_crescent:",
       "hex": "262a-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":om_symbol:",
       "hex": "1f549-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":wheel_of_dharma:",
       "hex": "2638-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":star_of_david:",
       "hex": "2721-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":six_pointed_star:",
       "hex": "1f52f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":menorah:",
       "hex": "1f54e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":yin_yang:",
       "hex": "262f-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":orthodox_cross:",
       "hex": "2626-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":place_of_worship:",
       "hex": "1f6d0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":ophiuchus:",
       "hex": "26ce",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":aries:",
       "hex": "2648",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":taurus:",
       "hex": "2649",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":gemini:",
       "hex": "264a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":cancer:",
       "hex": "264b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":leo:",
       "hex": "264c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":virgo:",
       "hex": "264d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":libra:",
       "hex": "264e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":scorpius:",
       "hex": "264f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":sagittarius:",
       "hex": "2650",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":capricorn:",
       "hex": "2651",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":aquarius:",
       "hex": "2652",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":pisces:",
       "hex": "2653",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":id:",
       "hex": "1f194",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":atom:",
       "hex": "269b-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
@@ -268,169 +268,169 @@
       "category": "symbols",
       "shortname": ":accept:",
       "hex": "1f251",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":radioactive:",
       "hex": "2622-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":biohazard:",
       "hex": "2623-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":mobile_phone_off:",
       "hex": "1f4f4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":vibration_mode:",
       "hex": "1f4f3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":u6709:",
       "hex": "1f236",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":u7121:",
       "hex": "1f21a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":u7533:",
       "hex": "1f238",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":u55b6:",
       "hex": "1f23a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":u6708:",
       "hex": "1f237-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":eight_pointed_black_star:",
       "hex": "2734-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":vs:",
       "hex": "1f19a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":white_flower:",
       "hex": "1f4ae",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":ideograph_advantage:",
       "hex": "1f250",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":secret:",
       "hex": "3299-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":congratulations:",
       "hex": "3297-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":u5408:",
       "hex": "1f234",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":u6e80:",
       "hex": "1f235",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":u5272:",
       "hex": "1f239",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":u7981:",
       "hex": "1f232",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":a:",
       "hex": "1f170-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":b:",
       "hex": "1f171-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":ab:",
       "hex": "1f18e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":cl:",
       "hex": "1f191",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":o2:",
       "hex": "1f17e-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":sos:",
       "hex": "1f198",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":x:",
       "hex": "274c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":o:",
       "hex": "2b55",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
@@ -442,13 +442,13 @@
       "category": "symbols",
       "shortname": ":no_entry:",
       "hex": "26d4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":name_badge:",
       "hex": "1f4db",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
@@ -460,691 +460,691 @@
       "category": "symbols",
       "shortname": ":100:",
       "hex": "1f4af",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":anger:",
       "hex": "1f4a2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":hotsprings:",
       "hex": "2668-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":no_pedestrians:",
       "hex": "1f6b7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":do_not_litter:",
       "hex": "1f6af",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":no_bicycles:",
       "hex": "1f6b3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":non-potable_water:",
       "hex": "1f6b1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":underage:",
       "hex": "1f51e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":no_mobile_phones:",
       "hex": "1f4f5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":no_smoking:",
       "hex": "1f6ad",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":exclamation:",
       "hex": "2757",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":grey_exclamation:",
       "hex": "2755",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":question:",
       "hex": "2753",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":grey_question:",
       "hex": "2754",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":bangbang:",
       "hex": "203c-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":interrobang:",
       "hex": "2049-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":low_brightness:",
       "hex": "1f505",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":high_brightness:",
       "hex": "1f506",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":part_alternation_mark:",
       "hex": "303d-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":warning:",
       "hex": "26a0-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":children_crossing:",
       "hex": "1f6b8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":trident:",
       "hex": "1f531",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":fleur-de-lis:",
       "hex": "269c-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":beginner:",
       "hex": "1f530",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":recycle:",
       "hex": "267b-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":white_check_mark:",
       "hex": "2705",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":u6307:",
       "hex": "1f22f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":chart:",
       "hex": "1f4b9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":sparkle:",
       "hex": "2747-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":eight_spoked_asterisk:",
       "hex": "2733-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":negative_squared_cross_mark:",
       "hex": "274e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":globe_with_meridians:",
       "hex": "1f310",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":diamond_shape_with_a_dot_inside:",
       "hex": "1f4a0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":m:",
       "hex": "24c2-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":cyclone:",
       "hex": "1f300",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":zzz:",
       "hex": "1f4a4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":atm:",
       "hex": "1f3e7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":wc:",
       "hex": "1f6be",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":wheelchair:",
       "hex": "267f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":parking:",
       "hex": "1f17f-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":u7a7a:",
       "hex": "1f233",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":sa:",
       "hex": "1f202-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":passport_control:",
       "hex": "1f6c2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":customs:",
       "hex": "1f6c3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":baggage_claim:",
       "hex": "1f6c4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":left_luggage:",
       "hex": "1f6c5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":mens:",
       "hex": "1f6b9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":womens:",
       "hex": "1f6ba",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":baby_symbol:",
       "hex": "1f6bc",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":restroom:",
       "hex": "1f6bb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":put_litter_in_its_place:",
       "hex": "1f6ae",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":cinema:",
       "hex": "1f3a6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":signal_strength:",
       "hex": "1f4f6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":koko:",
       "hex": "1f201",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":symbols:",
       "hex": "1f523",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":information_source:",
       "hex": "2139-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":abc:",
       "hex": "1f524",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":abcd:",
       "hex": "1f521",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":capital_abcd:",
       "hex": "1f520",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":ng:",
       "hex": "1f196",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":ok:",
       "hex": "1f197",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":up:",
       "hex": "1f199",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":cool:",
       "hex": "1f192",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":new:",
       "hex": "1f195",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":free:",
       "hex": "1f193",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":zero:",
       "hex": "0030-fe0f-20e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":one:",
       "hex": "0031-fe0f-20e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":two:",
       "hex": "0032-fe0f-20e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":three:",
       "hex": "0033-fe0f-20e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":four:",
       "hex": "0034-fe0f-20e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":five:",
       "hex": "0035-fe0f-20e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":six:",
       "hex": "0036-fe0f-20e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":seven:",
       "hex": "0037-fe0f-20e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":eight:",
       "hex": "0038-fe0f-20e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":nine:",
       "hex": "0039-fe0f-20e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":keycap_ten:",
       "hex": "1f51f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":1234:",
       "hex": "1f522",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":hash:",
       "hex": "0023-fe0f-20e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":asterisk:",
       "hex": "002a-fe0f-20e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":eject:",
       "hex": "23cf-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_forward:",
       "hex": "25b6-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":pause_button:",
       "hex": "23f8-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":play_pause:",
       "hex": "23ef-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":stop_button:",
       "hex": "23f9-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":record_button:",
       "hex": "23fa-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":track_next:",
       "hex": "23ed-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":track_previous:",
       "hex": "23ee-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":fast_forward:",
       "hex": "23e9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":rewind:",
       "hex": "23ea",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_double_up:",
       "hex": "23eb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_double_down:",
       "hex": "23ec",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_backward:",
       "hex": "25c0-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_up_small:",
       "hex": "1f53c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_down_small:",
       "hex": "1f53d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_right:",
       "hex": "27a1-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_left:",
       "hex": "2b05-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_up:",
       "hex": "2b06-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_down:",
       "hex": "2b07-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_upper_right:",
       "hex": "2197-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_lower_right:",
       "hex": "2198-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_lower_left:",
       "hex": "2199-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_upper_left:",
       "hex": "2196-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_up_down:",
       "hex": "2195-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":left_right_arrow:",
       "hex": "2194-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_right_hook:",
       "hex": "21aa-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":leftwards_arrow_with_hook:",
       "hex": "21a9-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_heading_up:",
       "hex": "2934-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrow_heading_down:",
       "hex": "2935-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":twisted_rightwards_arrows:",
       "hex": "1f500",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":repeat:",
       "hex": "1f501",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":repeat_one:",
       "hex": "1f502",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrows_counterclockwise:",
       "hex": "1f504",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":arrows_clockwise:",
       "hex": "1f503",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":musical_note:",
       "hex": "1f3b5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":notes:",
       "hex": "1f3b6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
@@ -1168,7 +1168,7 @@
       "category": "symbols",
       "shortname": ":heavy_multiplication_x:",
       "hex": "2716-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
@@ -1180,91 +1180,91 @@
       "category": "symbols",
       "shortname": ":currency_exchange:",
       "hex": "1f4b1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":tm:",
       "hex": "2122-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":copyright:",
       "hex": "00a9-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":registered:",
       "hex": "00ae-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":wavy_dash:",
       "hex": "3030-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":curly_loop:",
       "hex": "27b0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":loop:",
       "hex": "27bf",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":end:",
       "hex": "1f51a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":back:",
       "hex": "1f519",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":on:",
       "hex": "1f51b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":top:",
       "hex": "1f51d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":soon:",
       "hex": "1f51c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":heavy_check_mark:",
       "hex": "2714-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":ballot_box_with_check:",
       "hex": "2611-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":radio_button:",
       "hex": "1f518",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
@@ -1300,7 +1300,7 @@
       "category": "symbols",
       "shortname": ":small_red_triangle_down:",
       "hex": "1f53b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
@@ -1330,13 +1330,13 @@
       "category": "symbols",
       "shortname": ":white_square_button:",
       "hex": "1f533",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":black_square_button:",
       "hex": "1f532",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
@@ -1390,121 +1390,121 @@
       "category": "symbols",
       "shortname": ":speaker:",
       "hex": "1f508",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":mute:",
       "hex": "1f507",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":sound:",
       "hex": "1f509",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":loud_sound:",
       "hex": "1f50a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":bell:",
       "hex": "1f514",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":no_bell:",
       "hex": "1f515",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":mega:",
       "hex": "1f4e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":loudspeaker:",
       "hex": "1f4e2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":speech_left:",
       "hex": "1f5e8-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":eye_in_speech_bubble:",
       "hex": "1f441-fe0f-200d-1f5e8-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":speech_balloon:",
       "hex": "1f4ac",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":thought_balloon:",
       "hex": "1f4ad",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":anger_right:",
       "hex": "1f5ef-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":spades:",
       "hex": "2660-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":clubs:",
       "hex": "2663-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":hearts:",
       "hex": "2665-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":diamonds:",
       "hex": "2666-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":black_joker:",
       "hex": "1f0cf",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":flower_playing_cards:",
       "hex": "1f3b4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":mahjong:",
       "hex": "1f004",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
@@ -1672,25 +1672,25 @@
       "category": "activity",
       "shortname": ":soccer:",
       "hex": "26bd",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":basketball:",
       "hex": "1f3c0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":football:",
       "hex": "1f3c8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":baseball:",
       "hex": "26be",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -1702,61 +1702,61 @@
       "category": "activity",
       "shortname": ":tennis:",
       "hex": "1f3be",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":volleyball:",
       "hex": "1f3d0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":rugby_football:",
       "hex": "1f3c9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":8ball:",
       "hex": "1f3b1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":ping_pong:",
       "hex": "1f3d3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":badminton:",
       "hex": "1f3f8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":goal:",
       "hex": "1f945",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":hockey:",
       "hex": "1f3d2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":field_hockey:",
       "hex": "1f3d1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":cricket_game:",
       "hex": "1f3cf",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -1768,7 +1768,7 @@
       "category": "activity",
       "shortname": ":golf:",
       "hex": "26f3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -1780,31 +1780,31 @@
       "category": "activity",
       "shortname": ":bow_and_arrow:",
       "hex": "1f3f9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":fishing_pole_and_fish:",
       "hex": "1f3a3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":boxing_glove:",
       "hex": "1f94a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":martial_arts_uniform:",
       "hex": "1f94b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":running_shirt_with_sash:",
       "hex": "1f3bd",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -1816,37 +1816,37 @@
       "category": "activity",
       "shortname": ":ice_skate:",
       "hex": "26f8-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":curling_stone:",
       "hex": "1f94c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":sled:",
       "hex": "1f6f7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":ski:",
       "hex": "1f3bf",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":skier:",
       "hex": "26f7-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":snowboarder:",
       "hex": "1f3c2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -1882,7 +1882,7 @@
       "category": "activity",
       "shortname": ":person_lifting_weights:",
       "hex": "1f3cb-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -1918,7 +1918,7 @@
       "category": "activity",
       "shortname": ":woman_lifting_weights:",
       "hex": "1f3cb-fe0f-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -1996,13 +1996,13 @@
       "category": "activity",
       "shortname": ":women_wrestling:",
       "hex": "1f93c-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":men_wrestling:",
       "hex": "1f93c-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2044,7 +2044,7 @@
       "category": "activity",
       "shortname": ":woman_cartwheeling:",
       "hex": "1f938-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2080,7 +2080,7 @@
       "category": "activity",
       "shortname": ":man_cartwheeling:",
       "hex": "1f938-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2116,7 +2116,7 @@
       "category": "activity",
       "shortname": ":person_bouncing_ball:",
       "hex": "26f9-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2152,7 +2152,7 @@
       "category": "activity",
       "shortname": ":woman_bouncing_ball:",
       "hex": "26f9-fe0f-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2224,7 +2224,7 @@
       "category": "activity",
       "shortname": ":person_fencing:",
       "hex": "1f93a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2266,7 +2266,7 @@
       "category": "activity",
       "shortname": ":woman_playing_handball:",
       "hex": "1f93e-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2302,7 +2302,7 @@
       "category": "activity",
       "shortname": ":man_playing_handball:",
       "hex": "1f93e-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2338,7 +2338,7 @@
       "category": "activity",
       "shortname": ":person_golfing:",
       "hex": "1f3cc-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2374,7 +2374,7 @@
       "category": "activity",
       "shortname": ":woman_golfing:",
       "hex": "1f3cc-fe0f-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2446,7 +2446,7 @@
       "category": "activity",
       "shortname": ":horse_racing:",
       "hex": "1f3c7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2518,7 +2518,7 @@
       "category": "activity",
       "shortname": ":woman_in_lotus_position:",
       "hex": "1f9d8-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2554,7 +2554,7 @@
       "category": "activity",
       "shortname": ":man_in_lotus_position:",
       "hex": "1f9d8-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2590,7 +2590,7 @@
       "category": "activity",
       "shortname": ":person_surfing:",
       "hex": "1f3c4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2626,7 +2626,7 @@
       "category": "activity",
       "shortname": ":woman_surfing:",
       "hex": "1f3c4-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2698,7 +2698,7 @@
       "category": "activity",
       "shortname": ":person_swimming:",
       "hex": "1f3ca",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2734,7 +2734,7 @@
       "category": "activity",
       "shortname": ":woman_swimming:",
       "hex": "1f3ca-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2842,7 +2842,7 @@
       "category": "activity",
       "shortname": ":woman_playing_water_polo:",
       "hex": "1f93d-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2878,7 +2878,7 @@
       "category": "activity",
       "shortname": ":man_playing_water_polo:",
       "hex": "1f93d-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2914,7 +2914,7 @@
       "category": "activity",
       "shortname": ":person_rowing_boat:",
       "hex": "1f6a3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -2950,7 +2950,7 @@
       "category": "activity",
       "shortname": ":woman_rowing_boat:",
       "hex": "1f6a3-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -3058,7 +3058,7 @@
       "category": "activity",
       "shortname": ":woman_climbing:",
       "hex": "1f9d7-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -3094,7 +3094,7 @@
       "category": "activity",
       "shortname": ":man_climbing:",
       "hex": "1f9d7-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -3130,7 +3130,7 @@
       "category": "activity",
       "shortname": ":person_mountain_biking:",
       "hex": "1f6b5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -3166,7 +3166,7 @@
       "category": "activity",
       "shortname": ":woman_mountain_biking:",
       "hex": "1f6b5-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -3238,7 +3238,7 @@
       "category": "activity",
       "shortname": ":person_biking:",
       "hex": "1f6b4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -3274,7 +3274,7 @@
       "category": "activity",
       "shortname": ":woman_biking:",
       "hex": "1f6b4-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -3346,67 +3346,67 @@
       "category": "activity",
       "shortname": ":trophy:",
       "hex": "1f3c6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":first_place:",
       "hex": "1f947",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":second_place:",
       "hex": "1f948",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":third_place:",
       "hex": "1f949",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":medal:",
       "hex": "1f3c5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":military_medal:",
       "hex": "1f396-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":rosette:",
       "hex": "1f3f5-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":reminder_ribbon:",
       "hex": "1f397-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":ticket:",
       "hex": "1f3ab",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":tickets:",
       "hex": "1f39f-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":circus_tent:",
       "hex": "1f3aa",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -3448,7 +3448,7 @@
       "category": "activity",
       "shortname": ":woman_juggling:",
       "hex": "1f939-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -3484,7 +3484,7 @@
       "category": "activity",
       "shortname": ":man_juggling:",
       "hex": "1f939-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -3520,169 +3520,169 @@
       "category": "activity",
       "shortname": ":performing_arts:",
       "hex": "1f3ad",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":art:",
       "hex": "1f3a8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":clapper:",
       "hex": "1f3ac",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":microphone:",
       "hex": "1f3a4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":headphones:",
       "hex": "1f3a7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":musical_score:",
       "hex": "1f3bc",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":musical_keyboard:",
       "hex": "1f3b9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":drum:",
       "hex": "1f941",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":saxophone:",
       "hex": "1f3b7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":trumpet:",
       "hex": "1f3ba",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":guitar:",
       "hex": "1f3b8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":violin:",
       "hex": "1f3bb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":game_die:",
       "hex": "1f3b2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":dart:",
       "hex": "1f3af",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":bowling:",
       "hex": "1f3b3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":video_game:",
       "hex": "1f3ae",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":slot_machine:",
       "hex": "1f3b0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":watch:",
       "hex": "231a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":iphone:",
       "hex": "1f4f1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":calling:",
       "hex": "1f4f2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":computer:",
       "hex": "1f4bb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":keyboard:",
       "hex": "2328-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":desktop:",
       "hex": "1f5a5-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":printer:",
       "hex": "1f5a8-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":mouse_three_button:",
       "hex": "1f5b1-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":trackball:",
       "hex": "1f5b2-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":joystick:",
       "hex": "1f579-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":chess_pawn:",
       "hex": "265f-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -3694,145 +3694,145 @@
       "category": "objects",
       "shortname": ":compression:",
       "hex": "1f5dc-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":minidisc:",
       "hex": "1f4bd",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":floppy_disk:",
       "hex": "1f4be",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":cd:",
       "hex": "1f4bf",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":dvd:",
       "hex": "1f4c0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":vhs:",
       "hex": "1f4fc",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":camera:",
       "hex": "1f4f7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":camera_with_flash:",
       "hex": "1f4f8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":video_camera:",
       "hex": "1f4f9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":movie_camera:",
       "hex": "1f3a5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":projector:",
       "hex": "1f4fd-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":film_frames:",
       "hex": "1f39e-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":telephone_receiver:",
       "hex": "1f4de",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":telephone:",
       "hex": "260e-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":pager:",
       "hex": "1f4df",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":fax:",
       "hex": "1f4e0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":tv:",
       "hex": "1f4fa",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":radio:",
       "hex": "1f4fb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":microphone2:",
       "hex": "1f399-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":level_slider:",
       "hex": "1f39a-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":control_knobs:",
       "hex": "1f39b-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":stopwatch:",
       "hex": "23f1-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":timer:",
       "hex": "23f2-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":alarm_clock:",
       "hex": "23f0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -3844,19 +3844,19 @@
       "category": "objects",
       "shortname": ":hourglass:",
       "hex": "231b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":hourglass_flowing_sand:",
       "hex": "23f3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":satellite:",
       "hex": "1f4e1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -3868,13 +3868,13 @@
       "category": "objects",
       "shortname": ":battery:",
       "hex": "1f50b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":electric_plug:",
       "hex": "1f50c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -3886,19 +3886,19 @@
       "category": "objects",
       "shortname": ":bulb:",
       "hex": "1f4a1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":flashlight:",
       "hex": "1f526",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":candle:",
       "hex": "1f56f-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -3910,61 +3910,61 @@
       "category": "objects",
       "shortname": ":wastebasket:",
       "hex": "1f5d1-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":oil:",
       "hex": "1f6e2-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":money_with_wings:",
       "hex": "1f4b8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":dollar:",
       "hex": "1f4b5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":yen:",
       "hex": "1f4b4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":euro:",
       "hex": "1f4b6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":pound:",
       "hex": "1f4b7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":moneybag:",
       "hex": "1f4b0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":credit_card:",
       "hex": "1f4b3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":gem:",
       "hex": "1f48e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -3982,7 +3982,7 @@
       "category": "objects",
       "shortname": ":scales:",
       "hex": "2696-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -3994,133 +3994,133 @@
       "category": "objects",
       "shortname": ":wrench:",
       "hex": "1f527",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":hammer:",
       "hex": "1f528",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":hammer_pick:",
       "hex": "2692-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":tools:",
       "hex": "1f6e0-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":pick:",
       "hex": "26cf-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":nut_and_bolt:",
       "hex": "1f529",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":gear:",
       "hex": "2699-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":chains:",
       "hex": "26d3-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":gun:",
       "hex": "1f52b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":bomb:",
       "hex": "1f4a3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":knife:",
       "hex": "1f52a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":dagger:",
       "hex": "1f5e1-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":crossed_swords:",
       "hex": "2694-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":shield:",
       "hex": "1f6e1-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":smoking:",
       "hex": "1f6ac",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":coffin:",
       "hex": "26b0-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":urn:",
       "hex": "26b1-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":amphora:",
       "hex": "1f3fa",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":crystal_ball:",
       "hex": "1f52e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":prayer_beads:",
       "hex": "1f4ff",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":barber:",
       "hex": "1f488",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":alembic:",
       "hex": "2697-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -4150,67 +4150,67 @@
       "category": "objects",
       "shortname": ":telescope:",
       "hex": "1f52d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":microscope:",
       "hex": "1f52c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":hole:",
       "hex": "1f573-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":pill:",
       "hex": "1f48a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":syringe:",
       "hex": "1f489",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":thermometer:",
       "hex": "1f321-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":toilet:",
       "hex": "1f6bd",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":potable_water:",
       "hex": "1f6b0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":shower:",
       "hex": "1f6bf",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":bathtub:",
       "hex": "1f6c1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":bath:",
       "hex": "1f6c0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -4294,43 +4294,43 @@
       "category": "objects",
       "shortname": ":bellhop:",
       "hex": "1f6ce-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":key:",
       "hex": "1f511",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":key2:",
       "hex": "1f5dd-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":door:",
       "hex": "1f6aa",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":couch:",
       "hex": "1f6cb-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":bed:",
       "hex": "1f6cf-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":sleeping_accommodation:",
       "hex": "1f6cc",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -4372,73 +4372,73 @@
       "category": "objects",
       "shortname": ":frame_photo:",
       "hex": "1f5bc-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":shopping_bags:",
       "hex": "1f6cd-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":shopping_cart:",
       "hex": "1f6d2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":gift:",
       "hex": "1f381",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":balloon:",
       "hex": "1f388",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":flags:",
       "hex": "1f38f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":ribbon:",
       "hex": "1f380",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":confetti_ball:",
       "hex": "1f38a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":tada:",
       "hex": "1f389",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":dolls:",
       "hex": "1f38e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":izakaya_lantern:",
       "hex": "1f3ee",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":wind_chime:",
       "hex": "1f390",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -4450,109 +4450,109 @@
       "category": "objects",
       "shortname": ":envelope:",
       "hex": "2709-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":envelope_with_arrow:",
       "hex": "1f4e9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":incoming_envelope:",
       "hex": "1f4e8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":e-mail:",
       "hex": "1f4e7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":love_letter:",
       "hex": "1f48c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":inbox_tray:",
       "hex": "1f4e5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":outbox_tray:",
       "hex": "1f4e4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":package:",
       "hex": "1f4e6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":label:",
       "hex": "1f3f7-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":mailbox_closed:",
       "hex": "1f4ea",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":mailbox:",
       "hex": "1f4eb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":mailbox_with_mail:",
       "hex": "1f4ec",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":mailbox_with_no_mail:",
       "hex": "1f4ed",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":postbox:",
       "hex": "1f4ee",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":postal_horn:",
       "hex": "1f4ef",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":scroll:",
       "hex": "1f4dc",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":page_with_curl:",
       "hex": "1f4c3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":page_facing_up:",
       "hex": "1f4c4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -4564,199 +4564,199 @@
       "category": "objects",
       "shortname": ":bookmark_tabs:",
       "hex": "1f4d1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":bar_chart:",
       "hex": "1f4ca",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":chart_with_upwards_trend:",
       "hex": "1f4c8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":chart_with_downwards_trend:",
       "hex": "1f4c9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":notepad_spiral:",
       "hex": "1f5d2-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":calendar_spiral:",
       "hex": "1f5d3-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":calendar:",
       "hex": "1f4c6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":date:",
       "hex": "1f4c5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":card_index:",
       "hex": "1f4c7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":card_box:",
       "hex": "1f5c3-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":ballot_box:",
       "hex": "1f5f3-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":file_cabinet:",
       "hex": "1f5c4-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":clipboard:",
       "hex": "1f4cb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":file_folder:",
       "hex": "1f4c1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":open_file_folder:",
       "hex": "1f4c2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":dividers:",
       "hex": "1f5c2-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":newspaper2:",
       "hex": "1f5de-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":newspaper:",
       "hex": "1f4f0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":notebook:",
       "hex": "1f4d3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":notebook_with_decorative_cover:",
       "hex": "1f4d4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":ledger:",
       "hex": "1f4d2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":closed_book:",
       "hex": "1f4d5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":green_book:",
       "hex": "1f4d7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":blue_book:",
       "hex": "1f4d8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":orange_book:",
       "hex": "1f4d9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":books:",
       "hex": "1f4da",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":book:",
       "hex": "1f4d6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":bookmark:",
       "hex": "1f516",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":link:",
       "hex": "1f517",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":paperclip:",
       "hex": "1f4ce",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":paperclips:",
       "hex": "1f587-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":triangular_ruler:",
       "hex": "1f4d0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":straight_ruler:",
       "hex": "1f4cf",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -4768,121 +4768,121 @@
       "category": "objects",
       "shortname": ":pushpin:",
       "hex": "1f4cc",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":round_pushpin:",
       "hex": "1f4cd",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":scissors:",
       "hex": "2702-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":pen_ballpoint:",
       "hex": "1f58a-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":pen_fountain:",
       "hex": "1f58b-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":black_nib:",
       "hex": "2712-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":paintbrush:",
       "hex": "1f58c-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":crayon:",
       "hex": "1f58d-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":pencil:",
       "hex": "1f4dd",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":pencil2:",
       "hex": "270f-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":mag:",
       "hex": "1f50d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":mag_right:",
       "hex": "1f50e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":lock_with_ink_pen:",
       "hex": "1f50f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":closed_lock_with_key:",
       "hex": "1f510",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":dog:",
       "hex": "1f436",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cat:",
       "hex": "1f431",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":mouse:",
       "hex": "1f42d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":hamster:",
       "hex": "1f439",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":rabbit:",
       "hex": "1f430",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":fox:",
       "hex": "1f98a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
@@ -4894,13 +4894,13 @@
       "category": "nature",
       "shortname": ":bear:",
       "hex": "1f43b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":panda_face:",
       "hex": "1f43c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
@@ -4918,115 +4918,115 @@
       "category": "nature",
       "shortname": ":koala:",
       "hex": "1f428",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":tiger:",
       "hex": "1f42f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":lion_face:",
       "hex": "1f981",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cow:",
       "hex": "1f42e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":pig:",
       "hex": "1f437",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":pig_nose:",
       "hex": "1f43d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":frog:",
       "hex": "1f438",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":monkey_face:",
       "hex": "1f435",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":see_no_evil:",
       "hex": "1f648",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":hear_no_evil:",
       "hex": "1f649",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":speak_no_evil:",
       "hex": "1f64a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":monkey:",
       "hex": "1f412",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":chicken:",
       "hex": "1f414",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":penguin:",
       "hex": "1f427",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":bird:",
       "hex": "1f426",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":baby_chick:",
       "hex": "1f424",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":hatching_chick:",
       "hex": "1f423",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":hatched_chick:",
       "hex": "1f425",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":duck:",
       "hex": "1f986",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
@@ -5038,13 +5038,13 @@
       "category": "nature",
       "shortname": ":eagle:",
       "hex": "1f985",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":owl:",
       "hex": "1f989",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
@@ -5062,97 +5062,97 @@
       "category": "nature",
       "shortname": ":bat:",
       "hex": "1f987",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":wolf:",
       "hex": "1f43a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":boar:",
       "hex": "1f417",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":horse:",
       "hex": "1f434",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":unicorn:",
       "hex": "1f984",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":bee:",
       "hex": "1f41d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":bug:",
       "hex": "1f41b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":butterfly:",
       "hex": "1f98b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":snail:",
       "hex": "1f40c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":shell:",
       "hex": "1f41a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":beetle:",
       "hex": "1f41e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":ant:",
       "hex": "1f41c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cricket:",
       "hex": "1f997",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":spider:",
       "hex": "1f577-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":spider_web:",
       "hex": "1f578-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":scorpion:",
       "hex": "1f982",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
@@ -5170,55 +5170,55 @@
       "category": "nature",
       "shortname": ":turtle:",
       "hex": "1f422",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":snake:",
       "hex": "1f40d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":lizard:",
       "hex": "1f98e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":t_rex:",
       "hex": "1f996",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":sauropod:",
       "hex": "1f995",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":octopus:",
       "hex": "1f419",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":squid:",
       "hex": "1f991",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":shrimp:",
       "hex": "1f990",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":crab:",
       "hex": "1f980",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
@@ -5230,85 +5230,85 @@
       "category": "nature",
       "shortname": ":blowfish:",
       "hex": "1f421",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":tropical_fish:",
       "hex": "1f420",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":fish:",
       "hex": "1f41f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":dolphin:",
       "hex": "1f42c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":whale:",
       "hex": "1f433",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":whale2:",
       "hex": "1f40b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":shark:",
       "hex": "1f988",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":crocodile:",
       "hex": "1f40a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":tiger2:",
       "hex": "1f405",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":leopard:",
       "hex": "1f406",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":zebra:",
       "hex": "1f993",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":gorilla:",
       "hex": "1f98d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":elephant:",
       "hex": "1f418",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":rhino:",
       "hex": "1f98f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
@@ -5320,19 +5320,19 @@
       "category": "nature",
       "shortname": ":dromedary_camel:",
       "hex": "1f42a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":camel:",
       "hex": "1f42b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":giraffe:",
       "hex": "1f992",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
@@ -5344,643 +5344,643 @@
       "category": "nature",
       "shortname": ":water_buffalo:",
       "hex": "1f403",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":ox:",
       "hex": "1f402",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cow2:",
       "hex": "1f404",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":racehorse:",
       "hex": "1f40e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":pig2:",
       "hex": "1f416",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":ram:",
       "hex": "1f40f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":sheep:",
       "hex": "1f411",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":goat:",
       "hex": "1f410",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":deer:",
       "hex": "1f98c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":dog2:",
       "hex": "1f415",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":poodle:",
       "hex": "1f429",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cat2:",
       "hex": "1f408",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":rooster:",
       "hex": "1f413",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":turkey:",
       "hex": "1f983",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":dove:",
       "hex": "1f54a-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":rabbit2:",
       "hex": "1f407",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":mouse2:",
       "hex": "1f401",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":rat:",
       "hex": "1f400",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":chipmunk:",
       "hex": "1f43f-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":hedgehog:",
       "hex": "1f994",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":feet:",
       "hex": "1f43e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":dragon:",
       "hex": "1f409",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":dragon_face:",
       "hex": "1f432",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cactus:",
       "hex": "1f335",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":christmas_tree:",
       "hex": "1f384",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":evergreen_tree:",
       "hex": "1f332",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":deciduous_tree:",
       "hex": "1f333",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":palm_tree:",
       "hex": "1f334",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":seedling:",
       "hex": "1f331",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":herb:",
       "hex": "1f33f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":shamrock:",
       "hex": "2618-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":four_leaf_clover:",
       "hex": "1f340",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":bamboo:",
       "hex": "1f38d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":tanabata_tree:",
       "hex": "1f38b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":leaves:",
       "hex": "1f343",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":fallen_leaf:",
       "hex": "1f342",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":maple_leaf:",
       "hex": "1f341",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":mushroom:",
       "hex": "1f344",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":ear_of_rice:",
       "hex": "1f33e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":bouquet:",
       "hex": "1f490",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":tulip:",
       "hex": "1f337",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":rose:",
       "hex": "1f339",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":wilted_rose:",
       "hex": "1f940",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":hibiscus:",
       "hex": "1f33a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cherry_blossom:",
       "hex": "1f338",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":blossom:",
       "hex": "1f33c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":sunflower:",
       "hex": "1f33b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":sun_with_face:",
       "hex": "1f31e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":full_moon_with_face:",
       "hex": "1f31d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":first_quarter_moon_with_face:",
       "hex": "1f31b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":last_quarter_moon_with_face:",
       "hex": "1f31c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":new_moon_with_face:",
       "hex": "1f31a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":full_moon:",
       "hex": "1f315",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":waning_gibbous_moon:",
       "hex": "1f316",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":last_quarter_moon:",
       "hex": "1f317",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":waning_crescent_moon:",
       "hex": "1f318",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":new_moon:",
       "hex": "1f311",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":waxing_crescent_moon:",
       "hex": "1f312",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":first_quarter_moon:",
       "hex": "1f313",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":waxing_gibbous_moon:",
       "hex": "1f314",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":crescent_moon:",
       "hex": "1f319",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":earth_americas:",
       "hex": "1f30e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":earth_africa:",
       "hex": "1f30d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":earth_asia:",
       "hex": "1f30f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":dizzy:",
       "hex": "1f4ab",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":star:",
       "hex": "2b50",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":star2:",
       "hex": "1f31f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":sparkles:",
       "hex": "2728",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":zap:",
       "hex": "26a1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":comet:",
       "hex": "2604-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":boom:",
       "hex": "1f4a5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":fire:",
       "hex": "1f525",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cloud_tornado:",
       "hex": "1f32a-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":rainbow:",
       "hex": "1f308",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":sunny:",
       "hex": "2600-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":white_sun_small_cloud:",
       "hex": "1f324-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":partly_sunny:",
       "hex": "26c5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":white_sun_cloud:",
       "hex": "1f325-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cloud:",
       "hex": "2601-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":white_sun_rain_cloud:",
       "hex": "1f326-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cloud_rain:",
       "hex": "1f327-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":thunder_cloud_rain:",
       "hex": "26c8-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cloud_lightning:",
       "hex": "1f329-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cloud_snow:",
       "hex": "1f328-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":snowflake:",
       "hex": "2744-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":snowman2:",
       "hex": "2603-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":snowman:",
       "hex": "26c4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":wind_blowing_face:",
       "hex": "1f32c-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":dash:",
       "hex": "1f4a8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":droplet:",
       "hex": "1f4a7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":sweat_drops:",
       "hex": "1f4a6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":umbrella:",
       "hex": "2614",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":umbrella2:",
       "hex": "2602-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":ocean:",
       "hex": "1f30a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":fog:",
       "hex": "1f32b-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":green_apple:",
       "hex": "1f34f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":apple:",
       "hex": "1f34e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":pear:",
       "hex": "1f350",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":tangerine:",
       "hex": "1f34a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":lemon:",
       "hex": "1f34b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":banana:",
       "hex": "1f34c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":watermelon:",
       "hex": "1f349",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":grapes:",
       "hex": "1f347",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":strawberry:",
       "hex": "1f353",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":melon:",
       "hex": "1f348",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":cherries:",
       "hex": "1f352",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":peach:",
       "hex": "1f351",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
@@ -5992,43 +5992,43 @@
       "category": "food",
       "shortname": ":pineapple:",
       "hex": "1f34d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":coconut:",
       "hex": "1f965",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":kiwi:",
       "hex": "1f95d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":tomato:",
       "hex": "1f345",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":eggplant:",
       "hex": "1f346",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":avocado:",
       "hex": "1f951",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":broccoli:",
       "hex": "1f966",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
@@ -6040,61 +6040,61 @@
       "category": "food",
       "shortname": ":cucumber:",
       "hex": "1f952",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":hot_pepper:",
       "hex": "1f336-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":corn:",
       "hex": "1f33d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":carrot:",
       "hex": "1f955",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":potato:",
       "hex": "1f954",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":sweet_potato:",
       "hex": "1f360",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":croissant:",
       "hex": "1f950",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":bread:",
       "hex": "1f35e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":french_bread:",
       "hex": "1f956",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":pretzel:",
       "hex": "1f968",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
@@ -6106,235 +6106,235 @@
       "category": "food",
       "shortname": ":cheese:",
       "hex": "1f9c0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":egg:",
       "hex": "1f95a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":cooking:",
       "hex": "1f373",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":pancakes:",
       "hex": "1f95e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":bacon:",
       "hex": "1f953",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":cut_of_meat:",
       "hex": "1f969",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":poultry_leg:",
       "hex": "1f357",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":meat_on_bone:",
       "hex": "1f356",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":hotdog:",
       "hex": "1f32d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":hamburger:",
       "hex": "1f354",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":fries:",
       "hex": "1f35f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":pizza:",
       "hex": "1f355",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":sandwich:",
       "hex": "1f96a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":stuffed_flatbread:",
       "hex": "1f959",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":taco:",
       "hex": "1f32e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":burrito:",
       "hex": "1f32f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":salad:",
       "hex": "1f957",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":shallow_pan_of_food:",
       "hex": "1f958",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":canned_food:",
       "hex": "1f96b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":spaghetti:",
       "hex": "1f35d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":ramen:",
       "hex": "1f35c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":stew:",
       "hex": "1f372",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":curry:",
       "hex": "1f35b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":sushi:",
       "hex": "1f363",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":bento:",
       "hex": "1f371",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":fried_shrimp:",
       "hex": "1f364",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":rice_ball:",
       "hex": "1f359",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":rice:",
       "hex": "1f35a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":rice_cracker:",
       "hex": "1f358",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":fish_cake:",
       "hex": "1f365",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":fortune_cookie:",
       "hex": "1f960",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":oden:",
       "hex": "1f362",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":dango:",
       "hex": "1f361",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":shaved_ice:",
       "hex": "1f367",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":ice_cream:",
       "hex": "1f368",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":icecream:",
       "hex": "1f366",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":pie:",
       "hex": "1f967",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":cake:",
       "hex": "1f370",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":birthday:",
       "hex": "1f382",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
@@ -6352,31 +6352,31 @@
       "category": "food",
       "shortname": ":custard:",
       "hex": "1f36e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":lollipop:",
       "hex": "1f36d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":candy:",
       "hex": "1f36c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":chocolate_bar:",
       "hex": "1f36b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":popcorn:",
       "hex": "1f37f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
@@ -6388,259 +6388,259 @@
       "category": "food",
       "shortname": ":doughnut:",
       "hex": "1f369",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":dumpling:",
       "hex": "1f95f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":cookie:",
       "hex": "1f36a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":chestnut:",
       "hex": "1f330",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":peanuts:",
       "hex": "1f95c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":honey_pot:",
       "hex": "1f36f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":milk:",
       "hex": "1f95b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":baby_bottle:",
       "hex": "1f37c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":coffee:",
       "hex": "2615",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":tea:",
       "hex": "1f375",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":cup_with_straw:",
       "hex": "1f964",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":sake:",
       "hex": "1f376",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":beer:",
       "hex": "1f37a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":beers:",
       "hex": "1f37b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":champagne_glass:",
       "hex": "1f942",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":wine_glass:",
       "hex": "1f377",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":tumbler_glass:",
       "hex": "1f943",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":cocktail:",
       "hex": "1f378",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":tropical_drink:",
       "hex": "1f379",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":champagne:",
       "hex": "1f37e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":spoon:",
       "hex": "1f944",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":fork_and_knife:",
       "hex": "1f374",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":fork_knife_plate:",
       "hex": "1f37d-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":bowl_with_spoon:",
       "hex": "1f963",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":takeout_box:",
       "hex": "1f961",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
       "shortname": ":chopsticks:",
       "hex": "1f962",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":grinning:",
       "hex": "1f600",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":smiley:",
       "hex": "1f603",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":smile:",
       "hex": "1f604",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":grin:",
       "hex": "1f601",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":laughing:",
       "hex": "1f606",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":sweat_smile:",
       "hex": "1f605",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":joy:",
       "hex": "1f602",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":rofl:",
       "hex": "1f923",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":relaxed:",
       "hex": "263a-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":blush:",
       "hex": "1f60a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":innocent:",
       "hex": "1f607",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":slight_smile:",
       "hex": "1f642",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":upside_down:",
       "hex": "1f643",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":wink:",
       "hex": "1f609",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":relieved:",
       "hex": "1f60c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":heart_eyes:",
       "hex": "1f60d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":kissing_heart:",
       "hex": "1f618",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -6652,79 +6652,79 @@
       "category": "people",
       "shortname": ":kissing:",
       "hex": "1f617",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":kissing_smiling_eyes:",
       "hex": "1f619",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":kissing_closed_eyes:",
       "hex": "1f61a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":yum:",
       "hex": "1f60b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":stuck_out_tongue:",
       "hex": "1f61b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":stuck_out_tongue_closed_eyes:",
       "hex": "1f61d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":stuck_out_tongue_winking_eye:",
       "hex": "1f61c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":zany_face:",
       "hex": "1f92a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":face_with_raised_eyebrow:",
       "hex": "1f928",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":face_with_monocle:",
       "hex": "1f9d0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":nerd:",
       "hex": "1f913",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":sunglasses:",
       "hex": "1f60e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":star_struck:",
       "hex": "1f929",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -6736,139 +6736,139 @@
       "category": "people",
       "shortname": ":smirk:",
       "hex": "1f60f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":unamused:",
       "hex": "1f612",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":disappointed:",
       "hex": "1f61e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":pensive:",
       "hex": "1f614",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":worried:",
       "hex": "1f61f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":confused:",
       "hex": "1f615",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":slight_frown:",
       "hex": "1f641",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":frowning2:",
       "hex": "2639-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":persevere:",
       "hex": "1f623",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":confounded:",
       "hex": "1f616",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":tired_face:",
       "hex": "1f62b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":weary:",
       "hex": "1f629",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":cry:",
       "hex": "1f622",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":sob:",
       "hex": "1f62d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":triumph:",
       "hex": "1f624",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":angry:",
       "hex": "1f620",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":rage:",
       "hex": "1f621",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":face_with_symbols_over_mouth:",
       "hex": "1f92c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":exploding_head:",
       "hex": "1f92f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":flushed:",
       "hex": "1f633",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":scream:",
       "hex": "1f631",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":fearful:",
       "hex": "1f628",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":cold_sweat:",
       "hex": "1f630",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -6892,133 +6892,133 @@
       "category": "people",
       "shortname": ":disappointed_relieved:",
       "hex": "1f625",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":sweat:",
       "hex": "1f613",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":hugging:",
       "hex": "1f917",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":thinking:",
       "hex": "1f914",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":face_with_hand_over_mouth:",
       "hex": "1f92d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":shushing_face:",
       "hex": "1f92b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":lying_face:",
       "hex": "1f925",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":no_mouth:",
       "hex": "1f636",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":neutral_face:",
       "hex": "1f610",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":expressionless:",
       "hex": "1f611",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":grimacing:",
       "hex": "1f62c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":rolling_eyes:",
       "hex": "1f644",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":hushed:",
       "hex": "1f62f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":frowning:",
       "hex": "1f626",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":anguished:",
       "hex": "1f627",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":open_mouth:",
       "hex": "1f62e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":astonished:",
       "hex": "1f632",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":sleeping:",
       "hex": "1f634",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":drooling_face:",
       "hex": "1f924",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":sleepy:",
       "hex": "1f62a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":dizzy_face:",
       "hex": "1f635",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":zipper_mouth:",
       "hex": "1f910",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7030,187 +7030,187 @@
       "category": "people",
       "shortname": ":nauseated_face:",
       "hex": "1f922",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":face_vomiting:",
       "hex": "1f92e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":sneezing_face:",
       "hex": "1f927",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":mask:",
       "hex": "1f637",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":thermometer_face:",
       "hex": "1f912",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":head_bandage:",
       "hex": "1f915",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":money_mouth:",
       "hex": "1f911",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":cowboy:",
       "hex": "1f920",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":smiling_imp:",
       "hex": "1f608",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":imp:",
       "hex": "1f47f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":japanese_ogre:",
       "hex": "1f479",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":japanese_goblin:",
       "hex": "1f47a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":clown:",
       "hex": "1f921",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":poop:",
       "hex": "1f4a9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":ghost:",
       "hex": "1f47b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":skull:",
       "hex": "1f480",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":skull_crossbones:",
       "hex": "2620-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":alien:",
       "hex": "1f47d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":space_invader:",
       "hex": "1f47e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":robot:",
       "hex": "1f916",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":jack_o_lantern:",
       "hex": "1f383",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":smiley_cat:",
       "hex": "1f63a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":smile_cat:",
       "hex": "1f638",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":joy_cat:",
       "hex": "1f639",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":heart_eyes_cat:",
       "hex": "1f63b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":smirk_cat:",
       "hex": "1f63c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":kissing_cat:",
       "hex": "1f63d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":scream_cat:",
       "hex": "1f640",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":crying_cat_face:",
       "hex": "1f63f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":pouting_cat:",
       "hex": "1f63e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":palms_up_together:",
       "hex": "1f932",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7246,7 +7246,7 @@
       "category": "people",
       "shortname": ":open_hands:",
       "hex": "1f450",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7282,7 +7282,7 @@
       "category": "people",
       "shortname": ":raised_hands:",
       "hex": "1f64c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7318,7 +7318,7 @@
       "category": "people",
       "shortname": ":clap:",
       "hex": "1f44f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7354,13 +7354,13 @@
       "category": "people",
       "shortname": ":handshake:",
       "hex": "1f91d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":thumbsup:",
       "hex": "1f44d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7396,7 +7396,7 @@
       "category": "people",
       "shortname": ":thumbsdown:",
       "hex": "1f44e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7432,7 +7432,7 @@
       "category": "people",
       "shortname": ":punch:",
       "hex": "1f44a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7468,7 +7468,7 @@
       "category": "people",
       "shortname": ":fist:",
       "hex": "270a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7504,7 +7504,7 @@
       "category": "people",
       "shortname": ":left_facing_fist:",
       "hex": "1f91b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7540,7 +7540,7 @@
       "category": "people",
       "shortname": ":right_facing_fist:",
       "hex": "1f91c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7576,7 +7576,7 @@
       "category": "people",
       "shortname": ":fingers_crossed:",
       "hex": "1f91e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7612,7 +7612,7 @@
       "category": "people",
       "shortname": ":v:",
       "hex": "270c-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7648,7 +7648,7 @@
       "category": "people",
       "shortname": ":love_you_gesture:",
       "hex": "1f91f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7684,7 +7684,7 @@
       "category": "people",
       "shortname": ":metal:",
       "hex": "1f918",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7720,7 +7720,7 @@
       "category": "people",
       "shortname": ":ok_hand:",
       "hex": "1f44c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7756,7 +7756,7 @@
       "category": "people",
       "shortname": ":point_left:",
       "hex": "1f448",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7792,7 +7792,7 @@
       "category": "people",
       "shortname": ":point_right:",
       "hex": "1f449",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7828,7 +7828,7 @@
       "category": "people",
       "shortname": ":point_up_2:",
       "hex": "1f446",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7864,7 +7864,7 @@
       "category": "people",
       "shortname": ":point_down:",
       "hex": "1f447",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7900,7 +7900,7 @@
       "category": "people",
       "shortname": ":point_up:",
       "hex": "261d-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7936,7 +7936,7 @@
       "category": "people",
       "shortname": ":raised_hand:",
       "hex": "270b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7972,7 +7972,7 @@
       "category": "people",
       "shortname": ":raised_back_of_hand:",
       "hex": "1f91a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8008,7 +8008,7 @@
       "category": "people",
       "shortname": ":hand_splayed:",
       "hex": "1f590-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8044,7 +8044,7 @@
       "category": "people",
       "shortname": ":vulcan:",
       "hex": "1f596",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8080,7 +8080,7 @@
       "category": "people",
       "shortname": ":wave:",
       "hex": "1f44b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8116,7 +8116,7 @@
       "category": "people",
       "shortname": ":call_me:",
       "hex": "1f919",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8152,7 +8152,7 @@
       "category": "people",
       "shortname": ":muscle:",
       "hex": "1f4aa",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8260,7 +8260,7 @@
       "category": "people",
       "shortname": ":middle_finger:",
       "hex": "1f595",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8296,7 +8296,7 @@
       "category": "people",
       "shortname": ":writing_hand:",
       "hex": "270d-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8332,7 +8332,7 @@
       "category": "people",
       "shortname": ":pray:",
       "hex": "1f64f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8368,37 +8368,37 @@
       "category": "people",
       "shortname": ":ring:",
       "hex": "1f48d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":lipstick:",
       "hex": "1f484",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":kiss:",
       "hex": "1f48b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":lips:",
       "hex": "1f444",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":tongue:",
       "hex": "1f445",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":ear:",
       "hex": "1f442",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8434,7 +8434,7 @@
       "category": "people",
       "shortname": ":nose:",
       "hex": "1f443",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8470,25 +8470,25 @@
       "category": "people",
       "shortname": ":footprints:",
       "hex": "1f463",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":eye:",
       "hex": "1f441-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":eyes:",
       "hex": "1f440",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":brain:",
       "hex": "1f9e0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8506,25 +8506,25 @@
       "category": "people",
       "shortname": ":speaking_head:",
       "hex": "1f5e3-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":bust_in_silhouette:",
       "hex": "1f464",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":busts_in_silhouette:",
       "hex": "1f465",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":baby:",
       "hex": "1f476",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8560,7 +8560,7 @@
       "category": "people",
       "shortname": ":girl:",
       "hex": "1f467",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8596,7 +8596,7 @@
       "category": "people",
       "shortname": ":child:",
       "hex": "1f9d2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8632,7 +8632,7 @@
       "category": "people",
       "shortname": ":boy:",
       "hex": "1f466",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8668,7 +8668,7 @@
       "category": "people",
       "shortname": ":woman:",
       "hex": "1f469",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8704,7 +8704,7 @@
       "category": "people",
       "shortname": ":adult:",
       "hex": "1f9d1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8740,7 +8740,7 @@
       "category": "people",
       "shortname": ":man:",
       "hex": "1f468",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8776,7 +8776,7 @@
       "category": "people",
       "shortname": ":blond_haired_person:",
       "hex": "1f471",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -8812,7 +8812,7 @@
       "category": "people",
       "shortname": ":blond-haired_woman:",
       "hex": "1f471-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9172,7 +9172,7 @@
       "category": "people",
       "shortname": ":bearded_person:",
       "hex": "1f9d4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9208,7 +9208,7 @@
       "category": "people",
       "shortname": ":older_woman:",
       "hex": "1f475",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9244,7 +9244,7 @@
       "category": "people",
       "shortname": ":older_adult:",
       "hex": "1f9d3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9280,7 +9280,7 @@
       "category": "people",
       "shortname": ":older_man:",
       "hex": "1f474",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9316,7 +9316,7 @@
       "category": "people",
       "shortname": ":man_with_chinese_cap:",
       "hex": "1f472",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9352,7 +9352,7 @@
       "category": "people",
       "shortname": ":person_wearing_turban:",
       "hex": "1f473",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9388,7 +9388,7 @@
       "category": "people",
       "shortname": ":woman_wearing_turban:",
       "hex": "1f473-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9460,7 +9460,7 @@
       "category": "people",
       "shortname": ":woman_with_headscarf:",
       "hex": "1f9d5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9496,7 +9496,7 @@
       "category": "people",
       "shortname": ":police_officer:",
       "hex": "1f46e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9532,7 +9532,7 @@
       "category": "people",
       "shortname": ":woman_police_officer:",
       "hex": "1f46e-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9604,7 +9604,7 @@
       "category": "people",
       "shortname": ":construction_worker:",
       "hex": "1f477",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9640,7 +9640,7 @@
       "category": "people",
       "shortname": ":woman_construction_worker:",
       "hex": "1f477-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9712,7 +9712,7 @@
       "category": "people",
       "shortname": ":guard:",
       "hex": "1f482",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9748,7 +9748,7 @@
       "category": "people",
       "shortname": ":woman_guard:",
       "hex": "1f482-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9820,7 +9820,7 @@
       "category": "people",
       "shortname": ":detective:",
       "hex": "1f575-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9856,7 +9856,7 @@
       "category": "people",
       "shortname": ":woman_detective:",
       "hex": "1f575-fe0f-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9928,7 +9928,7 @@
       "category": "people",
       "shortname": ":woman_health_worker:",
       "hex": "1f469-200d-2695-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -9964,7 +9964,7 @@
       "category": "people",
       "shortname": ":man_health_worker:",
       "hex": "1f468-200d-2695-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10000,7 +10000,7 @@
       "category": "people",
       "shortname": ":woman_farmer:",
       "hex": "1f469-200d-1f33e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10036,7 +10036,7 @@
       "category": "people",
       "shortname": ":man_farmer:",
       "hex": "1f468-200d-1f33e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10072,7 +10072,7 @@
       "category": "people",
       "shortname": ":woman_cook:",
       "hex": "1f469-200d-1f373",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10108,7 +10108,7 @@
       "category": "people",
       "shortname": ":man_cook:",
       "hex": "1f468-200d-1f373",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10144,7 +10144,7 @@
       "category": "people",
       "shortname": ":woman_student:",
       "hex": "1f469-200d-1f393",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10180,7 +10180,7 @@
       "category": "people",
       "shortname": ":man_student:",
       "hex": "1f468-200d-1f393",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10216,7 +10216,7 @@
       "category": "people",
       "shortname": ":woman_singer:",
       "hex": "1f469-200d-1f3a4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10252,7 +10252,7 @@
       "category": "people",
       "shortname": ":man_singer:",
       "hex": "1f468-200d-1f3a4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10288,7 +10288,7 @@
       "category": "people",
       "shortname": ":woman_teacher:",
       "hex": "1f469-200d-1f3eb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10324,7 +10324,7 @@
       "category": "people",
       "shortname": ":man_teacher:",
       "hex": "1f468-200d-1f3eb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10360,7 +10360,7 @@
       "category": "people",
       "shortname": ":woman_factory_worker:",
       "hex": "1f469-200d-1f3ed",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10396,7 +10396,7 @@
       "category": "people",
       "shortname": ":man_factory_worker:",
       "hex": "1f468-200d-1f3ed",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10432,7 +10432,7 @@
       "category": "people",
       "shortname": ":woman_technologist:",
       "hex": "1f469-200d-1f4bb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10468,7 +10468,7 @@
       "category": "people",
       "shortname": ":man_technologist:",
       "hex": "1f468-200d-1f4bb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10504,7 +10504,7 @@
       "category": "people",
       "shortname": ":woman_office_worker:",
       "hex": "1f469-200d-1f4bc",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10540,7 +10540,7 @@
       "category": "people",
       "shortname": ":man_office_worker:",
       "hex": "1f468-200d-1f4bc",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10576,7 +10576,7 @@
       "category": "people",
       "shortname": ":woman_mechanic:",
       "hex": "1f469-200d-1f527",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10612,7 +10612,7 @@
       "category": "people",
       "shortname": ":man_mechanic:",
       "hex": "1f468-200d-1f527",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10648,7 +10648,7 @@
       "category": "people",
       "shortname": ":woman_scientist:",
       "hex": "1f469-200d-1f52c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10684,7 +10684,7 @@
       "category": "people",
       "shortname": ":man_scientist:",
       "hex": "1f468-200d-1f52c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10720,7 +10720,7 @@
       "category": "people",
       "shortname": ":woman_artist:",
       "hex": "1f469-200d-1f3a8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10756,7 +10756,7 @@
       "category": "people",
       "shortname": ":man_artist:",
       "hex": "1f468-200d-1f3a8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10792,7 +10792,7 @@
       "category": "people",
       "shortname": ":woman_firefighter:",
       "hex": "1f469-200d-1f692",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10828,7 +10828,7 @@
       "category": "people",
       "shortname": ":man_firefighter:",
       "hex": "1f468-200d-1f692",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10864,7 +10864,7 @@
       "category": "people",
       "shortname": ":woman_pilot:",
       "hex": "1f469-200d-2708-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10900,7 +10900,7 @@
       "category": "people",
       "shortname": ":man_pilot:",
       "hex": "1f468-200d-2708-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10936,7 +10936,7 @@
       "category": "people",
       "shortname": ":woman_astronaut:",
       "hex": "1f469-200d-1f680",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -10972,7 +10972,7 @@
       "category": "people",
       "shortname": ":man_astronaut:",
       "hex": "1f468-200d-1f680",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11008,7 +11008,7 @@
       "category": "people",
       "shortname": ":woman_judge:",
       "hex": "1f469-200d-2696-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11044,7 +11044,7 @@
       "category": "people",
       "shortname": ":man_judge:",
       "hex": "1f468-200d-2696-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11080,7 +11080,7 @@
       "category": "people",
       "shortname": ":bride_with_veil:",
       "hex": "1f470",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11116,7 +11116,7 @@
       "category": "people",
       "shortname": ":man_in_tuxedo:",
       "hex": "1f935",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11152,7 +11152,7 @@
       "category": "people",
       "shortname": ":princess:",
       "hex": "1f478",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11188,7 +11188,7 @@
       "category": "people",
       "shortname": ":prince:",
       "hex": "1f934",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11224,7 +11224,7 @@
       "category": "people",
       "shortname": ":mrs_claus:",
       "hex": "1f936",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11260,7 +11260,7 @@
       "category": "people",
       "shortname": ":santa:",
       "hex": "1f385",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11548,7 +11548,7 @@
       "category": "people",
       "shortname": ":woman_mage:",
       "hex": "1f9d9-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11584,7 +11584,7 @@
       "category": "people",
       "shortname": ":man_mage:",
       "hex": "1f9d9-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11656,7 +11656,7 @@
       "category": "people",
       "shortname": ":woman_elf:",
       "hex": "1f9dd-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11692,7 +11692,7 @@
       "category": "people",
       "shortname": ":man_elf:",
       "hex": "1f9dd-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11764,7 +11764,7 @@
       "category": "people",
       "shortname": ":woman_vampire:",
       "hex": "1f9db-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11800,7 +11800,7 @@
       "category": "people",
       "shortname": ":man_vampire:",
       "hex": "1f9db-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11842,13 +11842,13 @@
       "category": "people",
       "shortname": ":woman_zombie:",
       "hex": "1f9df-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":man_zombie:",
       "hex": "1f9df-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11860,13 +11860,13 @@
       "category": "people",
       "shortname": ":woman_genie:",
       "hex": "1f9de-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":man_genie:",
       "hex": "1f9de-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11908,7 +11908,7 @@
       "category": "people",
       "shortname": ":mermaid:",
       "hex": "1f9dc-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -11944,7 +11944,7 @@
       "category": "people",
       "shortname": ":merman:",
       "hex": "1f9dc-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12016,7 +12016,7 @@
       "category": "people",
       "shortname": ":woman_fairy:",
       "hex": "1f9da-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12052,7 +12052,7 @@
       "category": "people",
       "shortname": ":man_fairy:",
       "hex": "1f9da-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12088,7 +12088,7 @@
       "category": "people",
       "shortname": ":angel:",
       "hex": "1f47c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12124,7 +12124,7 @@
       "category": "people",
       "shortname": ":pregnant_woman:",
       "hex": "1f930",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12160,7 +12160,7 @@
       "category": "people",
       "shortname": ":breast_feeding:",
       "hex": "1f931",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12196,7 +12196,7 @@
       "category": "people",
       "shortname": ":person_bowing:",
       "hex": "1f647",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12232,7 +12232,7 @@
       "category": "people",
       "shortname": ":woman_bowing:",
       "hex": "1f647-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12304,7 +12304,7 @@
       "category": "people",
       "shortname": ":person_tipping_hand:",
       "hex": "1f481",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12376,7 +12376,7 @@
       "category": "people",
       "shortname": ":man_tipping_hand:",
       "hex": "1f481-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12412,7 +12412,7 @@
       "category": "people",
       "shortname": ":person_gesturing_no:",
       "hex": "1f645",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12484,7 +12484,7 @@
       "category": "people",
       "shortname": ":man_gesturing_no:",
       "hex": "1f645-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12520,7 +12520,7 @@
       "category": "people",
       "shortname": ":person_gesturing_ok:",
       "hex": "1f646",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12592,7 +12592,7 @@
       "category": "people",
       "shortname": ":man_gesturing_ok:",
       "hex": "1f646-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12628,7 +12628,7 @@
       "category": "people",
       "shortname": ":person_raising_hand:",
       "hex": "1f64b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12700,7 +12700,7 @@
       "category": "people",
       "shortname": ":man_raising_hand:",
       "hex": "1f64b-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12772,7 +12772,7 @@
       "category": "people",
       "shortname": ":woman_facepalming:",
       "hex": "1f926-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12808,7 +12808,7 @@
       "category": "people",
       "shortname": ":man_facepalming:",
       "hex": "1f926-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12880,7 +12880,7 @@
       "category": "people",
       "shortname": ":woman_shrugging:",
       "hex": "1f937-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12916,7 +12916,7 @@
       "category": "people",
       "shortname": ":man_shrugging:",
       "hex": "1f937-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -12952,7 +12952,7 @@
       "category": "people",
       "shortname": ":person_pouting:",
       "hex": "1f64e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13024,7 +13024,7 @@
       "category": "people",
       "shortname": ":man_pouting:",
       "hex": "1f64e-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13060,7 +13060,7 @@
       "category": "people",
       "shortname": ":person_frowning:",
       "hex": "1f64d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13132,7 +13132,7 @@
       "category": "people",
       "shortname": ":man_frowning:",
       "hex": "1f64d-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13168,7 +13168,7 @@
       "category": "people",
       "shortname": ":person_getting_haircut:",
       "hex": "1f487",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13240,7 +13240,7 @@
       "category": "people",
       "shortname": ":man_getting_haircut:",
       "hex": "1f487-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13276,7 +13276,7 @@
       "category": "people",
       "shortname": ":person_getting_massage:",
       "hex": "1f486",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13348,7 +13348,7 @@
       "category": "people",
       "shortname": ":man_getting_face_massage:",
       "hex": "1f486-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13420,7 +13420,7 @@
       "category": "people",
       "shortname": ":woman_in_steamy_room:",
       "hex": "1f9d6-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13456,7 +13456,7 @@
       "category": "people",
       "shortname": ":man_in_steamy_room:",
       "hex": "1f9d6-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13492,7 +13492,7 @@
       "category": "people",
       "shortname": ":nail_care:",
       "hex": "1f485",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13528,7 +13528,7 @@
       "category": "people",
       "shortname": ":selfie:",
       "hex": "1f933",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13564,7 +13564,7 @@
       "category": "people",
       "shortname": ":dancer:",
       "hex": "1f483",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13600,7 +13600,7 @@
       "category": "people",
       "shortname": ":man_dancing:",
       "hex": "1f57a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13636,7 +13636,7 @@
       "category": "people",
       "shortname": ":people_with_bunny_ears_partying:",
       "hex": "1f46f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13648,13 +13648,13 @@
       "category": "people",
       "shortname": ":men_with_bunny_ears_partying:",
       "hex": "1f46f-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":levitate:",
       "hex": "1f574-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13690,7 +13690,7 @@
       "category": "people",
       "shortname": ":person_walking:",
       "hex": "1f6b6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13726,7 +13726,7 @@
       "category": "people",
       "shortname": ":woman_walking:",
       "hex": "1f6b6-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13798,7 +13798,7 @@
       "category": "people",
       "shortname": ":person_running:",
       "hex": "1f3c3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13834,7 +13834,7 @@
       "category": "people",
       "shortname": ":woman_running:",
       "hex": "1f3c3-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13906,25 +13906,25 @@
       "category": "people",
       "shortname": ":couple:",
       "hex": "1f46b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":two_women_holding_hands:",
       "hex": "1f46d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":two_men_holding_hands:",
       "hex": "1f46c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":couple_with_heart:",
       "hex": "1f491",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13936,19 +13936,19 @@
       "category": "people",
       "shortname": ":couple_ww:",
       "hex": "1f469-200d-2764-fe0f-200d-1f469",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":couple_mm:",
       "hex": "1f468-200d-2764-fe0f-200d-1f468",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":couplekiss:",
       "hex": "1f48f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13960,19 +13960,19 @@
       "category": "people",
       "shortname": ":kiss_ww:",
       "hex": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f469",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":kiss_mm:",
       "hex": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":family:",
       "hex": "1f46a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -14128,49 +14128,49 @@
       "category": "people",
       "shortname": ":coat:",
       "hex": "1f9e5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":womans_clothes:",
       "hex": "1f45a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":shirt:",
       "hex": "1f455",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":jeans:",
       "hex": "1f456",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":necktie:",
       "hex": "1f454",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":dress:",
       "hex": "1f457",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":bikini:",
       "hex": "1f459",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":kimono:",
       "hex": "1f458",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -14182,31 +14182,31 @@
       "category": "people",
       "shortname": ":high_heel:",
       "hex": "1f460",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":sandal:",
       "hex": "1f461",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":boot:",
       "hex": "1f462",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":mans_shoe:",
       "hex": "1f45e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":athletic_shoe:",
       "hex": "1f45f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -14224,97 +14224,97 @@
       "category": "people",
       "shortname": ":socks:",
       "hex": "1f9e6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":gloves:",
       "hex": "1f9e4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":scarf:",
       "hex": "1f9e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":tophat:",
       "hex": "1f3a9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":billed_cap:",
       "hex": "1f9e2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":womans_hat:",
       "hex": "1f452",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":mortar_board:",
       "hex": "1f393",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":helmet_with_cross:",
       "hex": "26d1-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":crown:",
       "hex": "1f451",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":pouch:",
       "hex": "1f45d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":purse:",
       "hex": "1f45b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":handbag:",
       "hex": "1f45c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":briefcase:",
       "hex": "1f4bc",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":school_satchel:",
       "hex": "1f392",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":eyeglasses:",
       "hex": "1f453",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":dark_sunglasses:",
       "hex": "1f576-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -14326,7 +14326,7 @@
       "category": "people",
       "shortname": ":closed_umbrella:",
       "hex": "1f302",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -14356,253 +14356,253 @@
       "category": "travel",
       "shortname": ":red_car:",
       "hex": "1f697",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":taxi:",
       "hex": "1f695",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":blue_car:",
       "hex": "1f699",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":bus:",
       "hex": "1f68c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":trolleybus:",
       "hex": "1f68e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":race_car:",
       "hex": "1f3ce-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":police_car:",
       "hex": "1f693",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":ambulance:",
       "hex": "1f691",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":fire_engine:",
       "hex": "1f692",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":minibus:",
       "hex": "1f690",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":truck:",
       "hex": "1f69a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":articulated_lorry:",
       "hex": "1f69b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":tractor:",
       "hex": "1f69c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":scooter:",
       "hex": "1f6f4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":bike:",
       "hex": "1f6b2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":motor_scooter:",
       "hex": "1f6f5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":motorcycle:",
       "hex": "1f3cd-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":rotating_light:",
       "hex": "1f6a8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":oncoming_police_car:",
       "hex": "1f694",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":oncoming_bus:",
       "hex": "1f68d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":oncoming_automobile:",
       "hex": "1f698",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":oncoming_taxi:",
       "hex": "1f696",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":aerial_tramway:",
       "hex": "1f6a1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":mountain_cableway:",
       "hex": "1f6a0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":suspension_railway:",
       "hex": "1f69f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":railway_car:",
       "hex": "1f683",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":train:",
       "hex": "1f68b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":mountain_railway:",
       "hex": "1f69e",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":monorail:",
       "hex": "1f69d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":bullettrain_side:",
       "hex": "1f684",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":bullettrain_front:",
       "hex": "1f685",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":light_rail:",
       "hex": "1f688",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":steam_locomotive:",
       "hex": "1f682",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":train2:",
       "hex": "1f686",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":metro:",
       "hex": "1f687",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":tram:",
       "hex": "1f68a",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":station:",
       "hex": "1f689",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":airplane:",
       "hex": "2708-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":airplane_departure:",
       "hex": "1f6eb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":airplane_arriving:",
       "hex": "1f6ec",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":airplane_small:",
       "hex": "1f6e9-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":seat:",
       "hex": "1f4ba",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
@@ -14614,427 +14614,427 @@
       "category": "travel",
       "shortname": ":satellite_orbital:",
       "hex": "1f6f0-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":rocket:",
       "hex": "1f680",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":flying_saucer:",
       "hex": "1f6f8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":helicopter:",
       "hex": "1f681",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":canoe:",
       "hex": "1f6f6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":sailboat:",
       "hex": "26f5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":speedboat:",
       "hex": "1f6a4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":motorboat:",
       "hex": "1f6e5-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":cruise_ship:",
       "hex": "1f6f3-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":ferry:",
       "hex": "26f4-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":ship:",
       "hex": "1f6a2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":anchor:",
       "hex": "2693",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":fuelpump:",
       "hex": "26fd",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":construction:",
       "hex": "1f6a7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":vertical_traffic_light:",
       "hex": "1f6a6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":traffic_light:",
       "hex": "1f6a5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":busstop:",
       "hex": "1f68f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":map:",
       "hex": "1f5fa-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":moyai:",
       "hex": "1f5ff",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":statue_of_liberty:",
       "hex": "1f5fd",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":tokyo_tower:",
       "hex": "1f5fc",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":european_castle:",
       "hex": "1f3f0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":japanese_castle:",
       "hex": "1f3ef",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":stadium:",
       "hex": "1f3df-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":ferris_wheel:",
       "hex": "1f3a1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":roller_coaster:",
       "hex": "1f3a2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":carousel_horse:",
       "hex": "1f3a0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":fountain:",
       "hex": "26f2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":beach_umbrella:",
       "hex": "26f1-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":beach:",
       "hex": "1f3d6-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":island:",
       "hex": "1f3dd-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":desert:",
       "hex": "1f3dc-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":volcano:",
       "hex": "1f30b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":mountain:",
       "hex": "26f0-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":mountain_snow:",
       "hex": "1f3d4-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":mount_fuji:",
       "hex": "1f5fb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":camping:",
       "hex": "1f3d5-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":tent:",
       "hex": "26fa",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":house:",
       "hex": "1f3e0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":house_with_garden:",
       "hex": "1f3e1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":homes:",
       "hex": "1f3d8-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":house_abandoned:",
       "hex": "1f3da-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":construction_site:",
       "hex": "1f3d7-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":factory:",
       "hex": "1f3ed",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":office:",
       "hex": "1f3e2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":department_store:",
       "hex": "1f3ec",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":post_office:",
       "hex": "1f3e3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":european_post_office:",
       "hex": "1f3e4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":hospital:",
       "hex": "1f3e5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":bank:",
       "hex": "1f3e6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":hotel:",
       "hex": "1f3e8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":convenience_store:",
       "hex": "1f3ea",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":school:",
       "hex": "1f3eb",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":love_hotel:",
       "hex": "1f3e9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":wedding:",
       "hex": "1f492",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":classical_building:",
       "hex": "1f3db-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":church:",
       "hex": "26ea",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":mosque:",
       "hex": "1f54c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":synagogue:",
       "hex": "1f54d",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":kaaba:",
       "hex": "1f54b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":shinto_shrine:",
       "hex": "26e9-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":railway_track:",
       "hex": "1f6e4-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":motorway:",
       "hex": "1f6e3-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":japan:",
       "hex": "1f5fe",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":rice_scene:",
       "hex": "1f391",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":park:",
       "hex": "1f3de-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":sunrise:",
       "hex": "1f305",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":sunrise_over_mountains:",
       "hex": "1f304",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":stars:",
       "hex": "1f320",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":sparkler:",
       "hex": "1f387",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":fireworks:",
       "hex": "1f386",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
@@ -15046,55 +15046,55 @@
       "category": "travel",
       "shortname": ":city_sunset:",
       "hex": "1f307",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":city_dusk:",
       "hex": "1f306",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":cityscape:",
       "hex": "1f3d9-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":night_with_stars:",
       "hex": "1f303",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":milky_way:",
       "hex": "1f30c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":bridge_at_night:",
       "hex": "1f309",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":lock:",
       "hex": "1f512",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":unlock:",
       "hex": "1f513",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":foggy:",
       "hex": "1f301",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "flags",
