@@ -1,7 +1,6 @@
 /* eslint no-bitwise: "off" */
-const request = require('request');
-
-const { getUnicodeSpecUrl, parseUnicodeSpec, logSuccess, logError } = require('./utils/log');
+const { logSuccess, logError } = require('./utils/log');
+const { getUnicodeSpec } = require('./utils/files');
 const { codePointToUnicode, unicodeToCodePoint, unicodeToEmoji } = require('../lib/utils');
 const { render, emojiRegex } = require('../lib');
 
@@ -76,19 +75,12 @@ const processEmojis = (list) => {
   if (errors.length) return logError(`Processing failed:\n${errors.join('\n')}`);
 };
 
-const process = (version) => {
-  const url = getUnicodeSpecUrl(version);
+const process = async(version) => {
+  const spec = await getUnicodeSpec(version);
 
-  const handleRequest = (error, response, body) => {
-    if (error || response.statusCode !== 200) return logError(`Cound't load test data: ${error}`);
-    console.log('Running tests');
-    const parsed = parseUnicodeSpec(body);
-    processEmojis(parsed);
-    logSuccess(`${parsed.length} emoji matched OK`);
-  };
-
-  console.log(`Requesting data from ${url}`);
-  request(url, handleRequest);
+  console.log('Running tests');
+  processEmojis(spec);
+  logSuccess(`${spec.length} emoji matched OK`);
 };
 
 module.exports = process;

@@ -25,13 +25,13 @@ const utils = {
     const rawFile = `${buildPath}/unicode-${version}.txt`;
     const url = `http://unicode.org/Public/emoji/${version}/emoji-test.txt`;
 
-    if (fs.existsSync(parsedFile)) return fs.readFileSync(parsedFile);
-    if (fs.existsSync(parsedFile)) return parseAndSave(fs.readFileSync(rawFile));
+    if (fs.existsSync(parsedFile)) return JSON.parse(fs.readFileSync(parsedFile, 'utf8'));
+    if (fs.existsSync(rawFile)) return parseAndSave(parsedFile, fs.readFileSync(rawFile, 'utf8'));
 
     try {
       const { body } = await got(url);
       fs.writeFileSync(rawFile, body);
-      return parseAndSave(body);
+      return parseAndSave(parsedFile, body);
     } catch (error) {
       logError(`Wasn't able to fetch unicode data for url: ${url}, error: ${error}`);
     }
