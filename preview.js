@@ -3,7 +3,7 @@ const express = require('express');
 const { shortnameToUnicode, codePointToUnicode, unicodeToShortname } = require('./lib/utils');
 const { render: renderEmoji } = require('./lib');
 const { getVersion } = require('./tasks/utils/unicode');
-const { getUnicodeSpec } = require('./tasks/utils/files');
+const { getUnicodeSpec } = require('./tasks/utils/data');
 const { collection } = require('./vendor/emojis.json');
 
 const PORT = 3000;

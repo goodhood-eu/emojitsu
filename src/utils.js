@@ -37,7 +37,7 @@ export const shortnamesHash = collection.reduce((acc, item) => {
 // Converts unicode to a hex string.
 // A combination of fixed charCodeAt and converting number to base 16
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt
-// https://github.com/twitter/twemoji/blob/gh-pages/twemoji-generator.js#L849
+// https://github.com/twitter/twemoji/blob/c9a665abb2f2bbea66013df9c545b387e64b2217/twemoji-generator.js#L849
 export const unicodeToCodePoint = (unicode, separator = '-') => {
   const result = [];
   let pair = 0;
@@ -60,7 +60,7 @@ export const unicodeToCodePoint = (unicode, separator = '-') => {
 
 // Converts codepoint string to a unicode character
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCodePoint
-// https://github.com/twitter/twemoji/blob/gh-pages/twemoji-generator.js#L807
+// https://github.com/twitter/twemoji/blob/c9a665abb2f2bbea66013df9c545b387e64b2217/twemoji-generator.js#L807
 export const fromCodePoint = (codepoint) => {
   const code = parseInt(codepoint, 16);
   if (code < 0x10000) return String.fromCharCode(code);

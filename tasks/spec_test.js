@@ -1,6 +1,6 @@
 /* eslint no-bitwise: "off" */
 const { logSuccess, logError } = require('./utils/log');
-const { getUnicodeSpec } = require('./utils/files');
+const { getUnicodeSpec } = require('./utils/data');
 const { getVersion } = require('./utils/unicode');
 const { codePointToUnicode, unicodeToCodePoint, unicodeToEmoji } = require('../lib/utils');
 const { render, emojiRegex } = require('../lib');

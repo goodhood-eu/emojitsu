@@ -9,7 +9,7 @@ const { hexToId, fromCodePoint } = require('../lib/utils');
 
 const { logResult, logError } = require('./utils/log');
 const { getVersion } = require('./utils/unicode');
-const { getUnicodeSpec } = require('./utils/files');
+const { getUnicodeSpec } = require('./utils/data');
 
 const { SUGGESTABLE_UNICODE_VERSION } = require('./utils/constants');
 
