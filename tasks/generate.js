@@ -44,20 +44,16 @@ const isSuggestable = (hash, key) => {
 };
 
 const getEmojiData = (spec, assets) => spec.reduce((acc, item) => {
-  const { codePoint, unicode, qualified } = item;
-  const key = hexToId(codePoint);
+  const { codePoint: hex, unicode, qualified } = item;
+  const key = hexToId(hex);
 
   if (!assets[key]) {
     logError(`Coundn't find ${key} in the assets data`);
     return acc;
   }
 
-  if (!acc[key]) {
-    const { shortname, display, diversity, category, unicode_version } = assets[key];
-    acc[key] = { shortname, display, diversity, category, unicode_version, codePoints: [] };
-  }
-
-  acc[key].codePoints.push({ unicode, qualified, hex: codePoint });
+  if (!acc[key]) acc[key] = { codePoints: [], data: assets[key] };
+  acc[key].codePoints.push({ hex, unicode, qualified });
 
   return acc;
 }, {});
@@ -65,15 +61,15 @@ const getEmojiData = (spec, assets) => spec.reduce((acc, item) => {
 const getCollection = (hash) => {
   const keys = Object.keys(hash);
 
-  keys.sort((keyA, keyB) => hash[keyA].order - hash[keyB].order);
+  keys.sort((keyA, keyB) => hash[keyA].data.order - hash[keyB].data.order);
 
   return keys.reduce((acc, key) => {
-    const { category, shortname, codePoints } = hash[key];
+    const { codePoints, data: { category, shortname } } = hash[key];
 
     const { hex } = codePoints.find(({ qualified }) => qualified === 'fully-qualified');
     const suggest = isSuggestable(hash, key);
 
-    acc.push({ category, hex, shortname, suggest });
+    acc.push({ category, shortname, hex, suggest });
 
     return acc;
   }, []);
