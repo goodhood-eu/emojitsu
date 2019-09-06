@@ -3,6 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const { Trie } = require('regexgen');
 const uniq = require('lodash.uniq');
+const difference = require('lodash.difference');
 const { logResult, logError } = require('./utils/log');
 const { getUnicodeSpec } = require('./utils/files');
 const { hexToId, fromCodePoint } = require('../lib/utils');
@@ -98,7 +99,13 @@ const getRegex = (hash) => {
 
 const runTask = async() => {
   const specArray = await getUnicodeSpec();
-  const processedHash = getEmojiData(specArray, require('emojione-assets/emoji'));
+  const assetHash = require('emojione-assets/emoji');
+  const processedHash = getEmojiData(specArray, assetHash);
+
+  const resultsDiff = difference(Object.keys(assetHash), Object.keys(processedHash));
+  if (resultsDiff.length) {
+    console.log(`${resultsDiff.length} keys were omitted by the spec:`, resultsDiff.join(', '));
+  }
 
   const collection = getCollection(processedHash);
   const emojiRegex = getRegex(processedHash);

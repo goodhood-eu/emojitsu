@@ -29,6 +29,7 @@ const utils = {
     if (fs.existsSync(rawFile)) return parseAndSave(parsedFile, fs.readFileSync(rawFile, 'utf8'));
 
     try {
+      console.log(`Fetching data from ${url} and saving locally`);
       const { body } = await got(url);
       fs.writeFileSync(rawFile, body);
       return parseAndSave(parsedFile, body);
