@@ -1,17 +1,18 @@
 /* eslint no-bitwise: "off" */
 const fs = require('fs');
 const path = require('path');
+
 const { Trie } = require('regexgen');
 const uniq = require('lodash.uniq');
 const difference = require('lodash.difference');
 
 const { hexToId, fromCodePoint } = require('../lib/utils');
 
-const { logResult, logError } = require('./utils/log');
+const { logResult } = require('./utils/log');
 const { getVersion } = require('./utils/unicode');
 const { getUnicodeSpec } = require('./utils/data');
 
-const { SUGGESTABLE_UNICODE_VERSION } = require('./utils/constants');
+const { SUGGESTABLE_UNICODE_VERSION } = require('./utils/versions');
 
 
 // These are not to be shown in the suggestions because they are nonsense
@@ -27,8 +28,6 @@ const OUTPUT = path.resolve(`${__dirname}/../vendor/emojis.json`);
 const familyRegex = /^:family_/;
 const clockRegex = /^:clock/;
 const shapeRegex = /_(diamond|square|triangle|circle|sign):$/;
-
-const sortByLength = (a, b) => b.length - a.length;
 
 const isSuggestable = (hash, key) => {
   const { shortname, display, diversity, category, unicode_version } = hash[key].data;
@@ -52,7 +51,7 @@ const getEmojiData = (spec, assets) => spec.reduce((acc, item) => {
   const key = hexToId(hex);
 
   if (!assets[key]) {
-    logError(`Coundn't find ${key} in the assets data`);
+    console.error(`Coundn't find ${key} in the assets data`);
     return acc;
   }
 
@@ -82,14 +81,14 @@ const getCollection = (hash) => {
 const getRegex = (hash) => {
   const keys = Object.keys(hash);
 
-  const codes = keys.reduce((acc, key) => {
-    const codePoints = hash[key].codePoints.map(({ hex }) => hex);
-    const filtered = uniq(codePoints);
-    return acc.concat(filtered);
-  }, []);
+  const allCodes = keys.reduce((acc, key) => (
+    acc.concat(hash[key].codePoints.map(({ hex }) => hex))
+  ), []);
+
+  const codes = uniq(allCodes);
 
   // Sort by length (longest first) to avoid partial matches
-  codes.sort(sortByLength);
+  codes.sort((a, b) => b.length - a.length);
 
   // Important to sort before converting, JS engine can't sort unicode sequences properly
   const sequences = codes.map((hex) => hex.split('-').map(fromCodePoint).join(''));

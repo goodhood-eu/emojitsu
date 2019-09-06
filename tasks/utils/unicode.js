@@ -1,5 +1,5 @@
 const { logError } = require('./log');
-const { CURRENT_UNICODE_VERSION } = require('./constants');
+const { CURRENT_UNICODE_VERSION } = require('./versions');
 
 const parseRegex = /^((?:[A-Z0-9]+\s)+)\s*;\s([\w-]+)\s+#\s(\S+)\s([\s\S]+)$/;
 const commentRegex = /^#/;
