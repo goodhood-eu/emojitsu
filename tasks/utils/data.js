@@ -6,9 +6,9 @@ const got = require('got');
 const { logError } = require('./log');
 const { parseUnicodeSpec } = require('./unicode');
 
-const buildPath = path.resolve(`${__dirname}/../../build`);
+const OUTPUT = path.resolve(`${__dirname}/../../build`);
 
-mkdirp.sync(buildPath);
+mkdirp.sync(OUTPUT);
 
 const parseAndSave = (file, data) => {
   const parsedData = parseUnicodeSpec(data);
@@ -18,8 +18,8 @@ const parseAndSave = (file, data) => {
 
 const utils = {
   getUnicodeSpec: async(version) => {
-    const parsedFile = `${buildPath}/unicode-${version}.json`;
-    const rawFile = `${buildPath}/unicode-${version}.txt`;
+    const parsedFile = `${OUTPUT}/unicode-${version}.json`;
+    const rawFile = `${OUTPUT}/unicode-${version}.txt`;
     const url = `http://unicode.org/Public/emoji/${version}/emoji-test.txt`;
 
     if (fs.existsSync(parsedFile)) return JSON.parse(fs.readFileSync(parsedFile, 'utf8'));
