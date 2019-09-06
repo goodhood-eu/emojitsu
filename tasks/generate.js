@@ -88,7 +88,7 @@ const getCollection = () => {
     const hex = code_points.output;
     const suggest = isSuggestable(key);
 
-    acc.push({ category, hex, shortname, suggest });
+    acc.push({ category, shortname, hex, suggest });
 
     return acc;
   }, []);
