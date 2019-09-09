@@ -99,7 +99,8 @@ const getRegex = (hash) => {
   const trie = new Trie();
   trie.addAll(sequences);
 
-  return `(${trie.toString()})`;
+  // Some systems add extra FE0F, we match that here
+  return `(${trie.toString()})\\uFE0F?`;
 };
 
 const runTask = async(string) => {
