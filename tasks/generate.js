@@ -15,6 +15,8 @@ const { getUnicodeSpec } = require('./utils/data');
 
 const { SUGGESTABLE_UNICODE_VERSION } = require('./utils/versions');
 
+const FULL_REPRESENTATION = 'fully-qualified';
+
 
 // These are not to be shown in the suggestions because they are nonsense
 const SKIPPED_CATEGORIES = [
@@ -69,8 +71,8 @@ const getCollection = (hash) => {
 
   return keys.reduce((acc, key) => {
     const { codePoints, data: { category, shortname } } = hash[key];
-
-    const { hex } = codePoints.find(({ qualified }) => qualified === 'fully-qualified');
+    const fullyQualified = codePoints.find(({ qualified }) => qualified === FULL_REPRESENTATION);
+    const { hex } = fullyQualified || codePoints[0];
     const suggest = isSuggestable(hash, key);
 
     acc.push({ category, shortname, hex, suggest });
