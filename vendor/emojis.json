@@ -105,7 +105,7 @@
     {
       "category": "symbols",
       "shortname": ":peace:",
-      "hex": "262e",
+      "hex": "262e-fe0f",
       "suggest": true
     },
     {
@@ -117,19 +117,19 @@
     {
       "category": "symbols",
       "shortname": ":star_and_crescent:",
-      "hex": "262a",
+      "hex": "262a-fe0f",
       "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":om_symbol:",
-      "hex": "1f549",
+      "hex": "1f549-fe0f",
       "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":wheel_of_dharma:",
-      "hex": "2638",
+      "hex": "2638-fe0f",
       "suggest": true
     },
     {
@@ -159,7 +159,7 @@
     {
       "category": "symbols",
       "shortname": ":orthodox_cross:",
-      "hex": "2626",
+      "hex": "2626-fe0f",
       "suggest": true
     },
     {
@@ -255,7 +255,7 @@
     {
       "category": "symbols",
       "shortname": ":atom:",
-      "hex": "269b",
+      "hex": "269b-fe0f",
       "suggest": true
     },
     {
@@ -273,13 +273,13 @@
     {
       "category": "symbols",
       "shortname": ":radioactive:",
-      "hex": "2622",
+      "hex": "2622-fe0f",
       "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":biohazard:",
-      "hex": "2623",
+      "hex": "2623-fe0f",
       "suggest": true
     },
     {
@@ -591,7 +591,7 @@
     {
       "category": "symbols",
       "shortname": ":fleur-de-lis:",
-      "hex": "269c",
+      "hex": "269c-fe0f",
       "suggest": true
     },
     {
@@ -945,37 +945,37 @@
     {
       "category": "symbols",
       "shortname": ":pause_button:",
-      "hex": "23f8",
+      "hex": "23f8-fe0f",
       "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":play_pause:",
-      "hex": "23ef",
+      "hex": "23ef-fe0f",
       "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":stop_button:",
-      "hex": "23f9",
+      "hex": "23f9-fe0f",
       "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":record_button:",
-      "hex": "23fa",
+      "hex": "23fa-fe0f",
       "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":track_next:",
-      "hex": "23ed",
+      "hex": "23ed-fe0f",
       "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":track_previous:",
-      "hex": "23ee",
+      "hex": "23ee-fe0f",
       "suggest": true
     },
     {
@@ -1437,7 +1437,7 @@
     {
       "category": "symbols",
       "shortname": ":speech_left:",
-      "hex": "1f5e8",
+      "hex": "1f5e8-fe0f",
       "suggest": true
     },
     {
@@ -1461,7 +1461,7 @@
     {
       "category": "symbols",
       "shortname": ":anger_right:",
-      "hex": "1f5ef",
+      "hex": "1f5ef-fe0f",
       "suggest": true
     },
     {
@@ -1652,78 +1652,6 @@
     },
     {
       "category": "symbols",
-      "shortname": ":digit_zero:",
-      "hex": "0030-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "symbols",
-      "shortname": ":digit_one:",
-      "hex": "0031-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "symbols",
-      "shortname": ":digit_two:",
-      "hex": "0032-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "symbols",
-      "shortname": ":digit_three:",
-      "hex": "0033-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "symbols",
-      "shortname": ":digit_four:",
-      "hex": "0034-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "symbols",
-      "shortname": ":digit_five:",
-      "hex": "0035-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "symbols",
-      "shortname": ":digit_six:",
-      "hex": "0036-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "symbols",
-      "shortname": ":digit_seven:",
-      "hex": "0037-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "symbols",
-      "shortname": ":digit_eight:",
-      "hex": "0038-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "symbols",
-      "shortname": ":digit_nine:",
-      "hex": "0039-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "symbols",
-      "shortname": ":pound_symbol:",
-      "hex": "0023-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "symbols",
-      "shortname": ":asterisk_symbol:",
-      "hex": "002a-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "symbols",
       "shortname": ":female_sign:",
       "hex": "2640-fe0f",
       "suggest": false
@@ -1887,7 +1815,7 @@
     {
       "category": "activity",
       "shortname": ":ice_skate:",
-      "hex": "26f8",
+      "hex": "26f8-fe0f",
       "suggest": true
     },
     {
@@ -1911,7 +1839,7 @@
     {
       "category": "activity",
       "shortname": ":skier:",
-      "hex": "26f7",
+      "hex": "26f7-fe0f",
       "suggest": true
     },
     {
@@ -1953,7 +1881,7 @@
     {
       "category": "activity",
       "shortname": ":person_lifting_weights:",
-      "hex": "1f3cb",
+      "hex": "1f3cb-fe0f",
       "suggest": true
     },
     {
@@ -2187,7 +2115,7 @@
     {
       "category": "activity",
       "shortname": ":person_bouncing_ball:",
-      "hex": "26f9",
+      "hex": "26f9-fe0f",
       "suggest": true
     },
     {
@@ -2409,7 +2337,7 @@
     {
       "category": "activity",
       "shortname": ":person_golfing:",
-      "hex": "1f3cc",
+      "hex": "1f3cc-fe0f",
       "suggest": true
     },
     {
@@ -3447,19 +3375,19 @@
     {
       "category": "activity",
       "shortname": ":military_medal:",
-      "hex": "1f396",
+      "hex": "1f396-fe0f",
       "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":rosette:",
-      "hex": "1f3f5",
+      "hex": "1f3f5-fe0f",
       "suggest": true
     },
     {
       "category": "activity",
       "shortname": ":reminder_ribbon:",
-      "hex": "1f397",
+      "hex": "1f397-fe0f",
       "suggest": true
     },
     {
@@ -3471,7 +3399,7 @@
     {
       "category": "activity",
       "shortname": ":tickets:",
-      "hex": "1f39f",
+      "hex": "1f39f-fe0f",
       "suggest": true
     },
     {
@@ -3717,37 +3645,37 @@
     {
       "category": "objects",
       "shortname": ":keyboard:",
-      "hex": "2328",
+      "hex": "2328-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":desktop:",
-      "hex": "1f5a5",
+      "hex": "1f5a5-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":printer:",
-      "hex": "1f5a8",
+      "hex": "1f5a8-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":mouse_three_button:",
-      "hex": "1f5b1",
+      "hex": "1f5b1-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":trackball:",
-      "hex": "1f5b2",
+      "hex": "1f5b2-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":joystick:",
-      "hex": "1f579",
+      "hex": "1f579-fe0f",
       "suggest": true
     },
     {
@@ -3765,7 +3693,7 @@
     {
       "category": "objects",
       "shortname": ":compression:",
-      "hex": "1f5dc",
+      "hex": "1f5dc-fe0f",
       "suggest": true
     },
     {
@@ -3825,13 +3753,13 @@
     {
       "category": "objects",
       "shortname": ":projector:",
-      "hex": "1f4fd",
+      "hex": "1f4fd-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":film_frames:",
-      "hex": "1f39e",
+      "hex": "1f39e-fe0f",
       "suggest": true
     },
     {
@@ -3873,31 +3801,31 @@
     {
       "category": "objects",
       "shortname": ":microphone2:",
-      "hex": "1f399",
+      "hex": "1f399-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":level_slider:",
-      "hex": "1f39a",
+      "hex": "1f39a-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":control_knobs:",
-      "hex": "1f39b",
+      "hex": "1f39b-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":stopwatch:",
-      "hex": "23f1",
+      "hex": "23f1-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":timer:",
-      "hex": "23f2",
+      "hex": "23f2-fe0f",
       "suggest": true
     },
     {
@@ -3909,7 +3837,7 @@
     {
       "category": "objects",
       "shortname": ":clock:",
-      "hex": "1f570",
+      "hex": "1f570-fe0f",
       "suggest": false
     },
     {
@@ -3969,7 +3897,7 @@
     {
       "category": "objects",
       "shortname": ":candle:",
-      "hex": "1f56f",
+      "hex": "1f56f-fe0f",
       "suggest": true
     },
     {
@@ -3981,13 +3909,13 @@
     {
       "category": "objects",
       "shortname": ":wastebasket:",
-      "hex": "1f5d1",
+      "hex": "1f5d1-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":oil:",
-      "hex": "1f6e2",
+      "hex": "1f6e2-fe0f",
       "suggest": true
     },
     {
@@ -4053,7 +3981,7 @@
     {
       "category": "objects",
       "shortname": ":scales:",
-      "hex": "2696",
+      "hex": "2696-fe0f",
       "suggest": true
     },
     {
@@ -4077,19 +4005,19 @@
     {
       "category": "objects",
       "shortname": ":hammer_pick:",
-      "hex": "2692",
+      "hex": "2692-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":tools:",
-      "hex": "1f6e0",
+      "hex": "1f6e0-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":pick:",
-      "hex": "26cf",
+      "hex": "26cf-fe0f",
       "suggest": true
     },
     {
@@ -4101,13 +4029,13 @@
     {
       "category": "objects",
       "shortname": ":gear:",
-      "hex": "2699",
+      "hex": "2699-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":chains:",
-      "hex": "26d3",
+      "hex": "26d3-fe0f",
       "suggest": true
     },
     {
@@ -4131,19 +4059,19 @@
     {
       "category": "objects",
       "shortname": ":dagger:",
-      "hex": "1f5e1",
+      "hex": "1f5e1-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":crossed_swords:",
-      "hex": "2694",
+      "hex": "2694-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":shield:",
-      "hex": "1f6e1",
+      "hex": "1f6e1-fe0f",
       "suggest": true
     },
     {
@@ -4155,13 +4083,13 @@
     {
       "category": "objects",
       "shortname": ":coffin:",
-      "hex": "26b0",
+      "hex": "26b0-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":urn:",
-      "hex": "26b1",
+      "hex": "26b1-fe0f",
       "suggest": true
     },
     {
@@ -4191,7 +4119,7 @@
     {
       "category": "objects",
       "shortname": ":alembic:",
-      "hex": "2697",
+      "hex": "2697-fe0f",
       "suggest": true
     },
     {
@@ -4233,7 +4161,7 @@
     {
       "category": "objects",
       "shortname": ":hole:",
-      "hex": "1f573",
+      "hex": "1f573-fe0f",
       "suggest": true
     },
     {
@@ -4251,7 +4179,7 @@
     {
       "category": "objects",
       "shortname": ":thermometer:",
-      "hex": "1f321",
+      "hex": "1f321-fe0f",
       "suggest": true
     },
     {
@@ -4365,7 +4293,7 @@
     {
       "category": "objects",
       "shortname": ":bellhop:",
-      "hex": "1f6ce",
+      "hex": "1f6ce-fe0f",
       "suggest": true
     },
     {
@@ -4377,7 +4305,7 @@
     {
       "category": "objects",
       "shortname": ":key2:",
-      "hex": "1f5dd",
+      "hex": "1f5dd-fe0f",
       "suggest": true
     },
     {
@@ -4389,13 +4317,13 @@
     {
       "category": "objects",
       "shortname": ":couch:",
-      "hex": "1f6cb",
+      "hex": "1f6cb-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":bed:",
-      "hex": "1f6cf",
+      "hex": "1f6cf-fe0f",
       "suggest": true
     },
     {
@@ -4443,13 +4371,13 @@
     {
       "category": "objects",
       "shortname": ":frame_photo:",
-      "hex": "1f5bc",
+      "hex": "1f5bc-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":shopping_bags:",
-      "hex": "1f6cd",
+      "hex": "1f6cd-fe0f",
       "suggest": true
     },
     {
@@ -4569,7 +4497,7 @@
     {
       "category": "objects",
       "shortname": ":label:",
-      "hex": "1f3f7",
+      "hex": "1f3f7-fe0f",
       "suggest": true
     },
     {
@@ -4659,13 +4587,13 @@
     {
       "category": "objects",
       "shortname": ":notepad_spiral:",
-      "hex": "1f5d2",
+      "hex": "1f5d2-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":calendar_spiral:",
-      "hex": "1f5d3",
+      "hex": "1f5d3-fe0f",
       "suggest": true
     },
     {
@@ -4689,19 +4617,19 @@
     {
       "category": "objects",
       "shortname": ":card_box:",
-      "hex": "1f5c3",
+      "hex": "1f5c3-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":ballot_box:",
-      "hex": "1f5f3",
+      "hex": "1f5f3-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":file_cabinet:",
-      "hex": "1f5c4",
+      "hex": "1f5c4-fe0f",
       "suggest": true
     },
     {
@@ -4725,13 +4653,13 @@
     {
       "category": "objects",
       "shortname": ":dividers:",
-      "hex": "1f5c2",
+      "hex": "1f5c2-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":newspaper2:",
-      "hex": "1f5de",
+      "hex": "1f5de-fe0f",
       "suggest": true
     },
     {
@@ -4815,7 +4743,7 @@
     {
       "category": "objects",
       "shortname": ":paperclips:",
-      "hex": "1f587",
+      "hex": "1f587-fe0f",
       "suggest": true
     },
     {
@@ -4857,13 +4785,13 @@
     {
       "category": "objects",
       "shortname": ":pen_ballpoint:",
-      "hex": "1f58a",
+      "hex": "1f58a-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":pen_fountain:",
-      "hex": "1f58b",
+      "hex": "1f58b-fe0f",
       "suggest": true
     },
     {
@@ -4875,13 +4803,13 @@
     {
       "category": "objects",
       "shortname": ":paintbrush:",
-      "hex": "1f58c",
+      "hex": "1f58c-fe0f",
       "suggest": true
     },
     {
       "category": "objects",
       "shortname": ":crayon:",
-      "hex": "1f58d",
+      "hex": "1f58d-fe0f",
       "suggest": true
     },
     {
@@ -5211,13 +5139,13 @@
     {
       "category": "nature",
       "shortname": ":spider:",
-      "hex": "1f577",
+      "hex": "1f577-fe0f",
       "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":spider_web:",
-      "hex": "1f578",
+      "hex": "1f578-fe0f",
       "suggest": true
     },
     {
@@ -5499,7 +5427,7 @@
     {
       "category": "nature",
       "shortname": ":dove:",
-      "hex": "1f54a",
+      "hex": "1f54a-fe0f",
       "suggest": true
     },
     {
@@ -5523,7 +5451,7 @@
     {
       "category": "nature",
       "shortname": ":chipmunk:",
-      "hex": "1f43f",
+      "hex": "1f43f-fe0f",
       "suggest": true
     },
     {
@@ -5595,7 +5523,7 @@
     {
       "category": "nature",
       "shortname": ":shamrock:",
-      "hex": "2618",
+      "hex": "2618-fe0f",
       "suggest": true
     },
     {
@@ -5829,7 +5757,7 @@
     {
       "category": "nature",
       "shortname": ":comet:",
-      "hex": "2604",
+      "hex": "2604-fe0f",
       "suggest": true
     },
     {
@@ -5847,7 +5775,7 @@
     {
       "category": "nature",
       "shortname": ":cloud_tornado:",
-      "hex": "1f32a",
+      "hex": "1f32a-fe0f",
       "suggest": true
     },
     {
@@ -5865,7 +5793,7 @@
     {
       "category": "nature",
       "shortname": ":white_sun_small_cloud:",
-      "hex": "1f324",
+      "hex": "1f324-fe0f",
       "suggest": true
     },
     {
@@ -5877,7 +5805,7 @@
     {
       "category": "nature",
       "shortname": ":white_sun_cloud:",
-      "hex": "1f325",
+      "hex": "1f325-fe0f",
       "suggest": true
     },
     {
@@ -5889,31 +5817,31 @@
     {
       "category": "nature",
       "shortname": ":white_sun_rain_cloud:",
-      "hex": "1f326",
+      "hex": "1f326-fe0f",
       "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cloud_rain:",
-      "hex": "1f327",
+      "hex": "1f327-fe0f",
       "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":thunder_cloud_rain:",
-      "hex": "26c8",
+      "hex": "26c8-fe0f",
       "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cloud_lightning:",
-      "hex": "1f329",
+      "hex": "1f329-fe0f",
       "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":cloud_snow:",
-      "hex": "1f328",
+      "hex": "1f328-fe0f",
       "suggest": true
     },
     {
@@ -5937,7 +5865,7 @@
     {
       "category": "nature",
       "shortname": ":wind_blowing_face:",
-      "hex": "1f32c",
+      "hex": "1f32c-fe0f",
       "suggest": true
     },
     {
@@ -5979,7 +5907,7 @@
     {
       "category": "nature",
       "shortname": ":fog:",
-      "hex": "1f32b",
+      "hex": "1f32b-fe0f",
       "suggest": true
     },
     {
@@ -6117,7 +6045,7 @@
     {
       "category": "food",
       "shortname": ":hot_pepper:",
-      "hex": "1f336",
+      "hex": "1f336-fe0f",
       "suggest": true
     },
     {
@@ -6591,7 +6519,7 @@
     {
       "category": "food",
       "shortname": ":fork_knife_plate:",
-      "hex": "1f37d",
+      "hex": "1f37d-fe0f",
       "suggest": true
     },
     {
@@ -6849,7 +6777,7 @@
     {
       "category": "people",
       "shortname": ":frowning2:",
-      "hex": "2639",
+      "hex": "2639-fe0f",
       "suggest": true
     },
     {
@@ -7197,7 +7125,7 @@
     {
       "category": "people",
       "shortname": ":skull_crossbones:",
-      "hex": "2620",
+      "hex": "2620-fe0f",
       "suggest": true
     },
     {
@@ -7683,7 +7611,7 @@
     {
       "category": "people",
       "shortname": ":v:",
-      "hex": "270c",
+      "hex": "270c-fe0f",
       "suggest": true
     },
     {
@@ -7971,7 +7899,7 @@
     {
       "category": "people",
       "shortname": ":point_up:",
-      "hex": "261d",
+      "hex": "261d-fe0f",
       "suggest": true
     },
     {
@@ -8079,7 +8007,7 @@
     {
       "category": "people",
       "shortname": ":hand_splayed:",
-      "hex": "1f590",
+      "hex": "1f590-fe0f",
       "suggest": true
     },
     {
@@ -8367,7 +8295,7 @@
     {
       "category": "people",
       "shortname": ":writing_hand:",
-      "hex": "270d",
+      "hex": "270d-fe0f",
       "suggest": true
     },
     {
@@ -8547,7 +8475,7 @@
     {
       "category": "people",
       "shortname": ":eye:",
-      "hex": "1f441",
+      "hex": "1f441-fe0f",
       "suggest": true
     },
     {
@@ -8577,7 +8505,7 @@
     {
       "category": "people",
       "shortname": ":speaking_head:",
-      "hex": "1f5e3",
+      "hex": "1f5e3-fe0f",
       "suggest": true
     },
     {
@@ -9891,7 +9819,7 @@
     {
       "category": "people",
       "shortname": ":detective:",
-      "hex": "1f575",
+      "hex": "1f575-fe0f",
       "suggest": true
     },
     {
@@ -13725,7 +13653,7 @@
     {
       "category": "people",
       "shortname": ":levitate:",
-      "hex": "1f574",
+      "hex": "1f574-fe0f",
       "suggest": true
     },
     {
@@ -14337,7 +14265,7 @@
     {
       "category": "people",
       "shortname": ":helmet_with_cross:",
-      "hex": "26d1",
+      "hex": "26d1-fe0f",
       "suggest": true
     },
     {
@@ -14385,7 +14313,7 @@
     {
       "category": "people",
       "shortname": ":dark_sunglasses:",
-      "hex": "1f576",
+      "hex": "1f576-fe0f",
       "suggest": true
     },
     {
@@ -14425,162 +14353,6 @@
       "suggest": false
     },
     {
-      "category": "regional",
-      "shortname": ":regional_indicator_z:",
-      "hex": "1f1ff",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_y:",
-      "hex": "1f1fe",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_x:",
-      "hex": "1f1fd",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_w:",
-      "hex": "1f1fc",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_v:",
-      "hex": "1f1fb",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_u:",
-      "hex": "1f1fa",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_t:",
-      "hex": "1f1f9",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_s:",
-      "hex": "1f1f8",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_r:",
-      "hex": "1f1f7",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_q:",
-      "hex": "1f1f6",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_p:",
-      "hex": "1f1f5",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_o:",
-      "hex": "1f1f4",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_n:",
-      "hex": "1f1f3",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_m:",
-      "hex": "1f1f2",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_l:",
-      "hex": "1f1f1",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_k:",
-      "hex": "1f1f0",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_j:",
-      "hex": "1f1ef",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_i:",
-      "hex": "1f1ee",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_h:",
-      "hex": "1f1ed",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_g:",
-      "hex": "1f1ec",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_f:",
-      "hex": "1f1eb",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_e:",
-      "hex": "1f1ea",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_d:",
-      "hex": "1f1e9",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_c:",
-      "hex": "1f1e8",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_b:",
-      "hex": "1f1e7",
-      "suggest": false
-    },
-    {
-      "category": "regional",
-      "shortname": ":regional_indicator_a:",
-      "hex": "1f1e6",
-      "suggest": false
-    },
-    {
       "category": "travel",
       "shortname": ":red_car:",
       "hex": "1f697",
@@ -14613,7 +14385,7 @@
     {
       "category": "travel",
       "shortname": ":race_car:",
-      "hex": "1f3ce",
+      "hex": "1f3ce-fe0f",
       "suggest": true
     },
     {
@@ -14679,7 +14451,7 @@
     {
       "category": "travel",
       "shortname": ":motorcycle:",
-      "hex": "1f3cd",
+      "hex": "1f3cd-fe0f",
       "suggest": true
     },
     {
@@ -14823,7 +14595,7 @@
     {
       "category": "travel",
       "shortname": ":airplane_small:",
-      "hex": "1f6e9",
+      "hex": "1f6e9-fe0f",
       "suggest": true
     },
     {
@@ -14841,7 +14613,7 @@
     {
       "category": "travel",
       "shortname": ":satellite_orbital:",
-      "hex": "1f6f0",
+      "hex": "1f6f0-fe0f",
       "suggest": true
     },
     {
@@ -14883,19 +14655,19 @@
     {
       "category": "travel",
       "shortname": ":motorboat:",
-      "hex": "1f6e5",
+      "hex": "1f6e5-fe0f",
       "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":cruise_ship:",
-      "hex": "1f6f3",
+      "hex": "1f6f3-fe0f",
       "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":ferry:",
-      "hex": "26f4",
+      "hex": "26f4-fe0f",
       "suggest": true
     },
     {
@@ -14943,7 +14715,7 @@
     {
       "category": "travel",
       "shortname": ":map:",
-      "hex": "1f5fa",
+      "hex": "1f5fa-fe0f",
       "suggest": true
     },
     {
@@ -14979,7 +14751,7 @@
     {
       "category": "travel",
       "shortname": ":stadium:",
-      "hex": "1f3df",
+      "hex": "1f3df-fe0f",
       "suggest": true
     },
     {
@@ -15009,25 +14781,25 @@
     {
       "category": "travel",
       "shortname": ":beach_umbrella:",
-      "hex": "26f1",
+      "hex": "26f1-fe0f",
       "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":beach:",
-      "hex": "1f3d6",
+      "hex": "1f3d6-fe0f",
       "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":island:",
-      "hex": "1f3dd",
+      "hex": "1f3dd-fe0f",
       "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":desert:",
-      "hex": "1f3dc",
+      "hex": "1f3dc-fe0f",
       "suggest": true
     },
     {
@@ -15039,13 +14811,13 @@
     {
       "category": "travel",
       "shortname": ":mountain:",
-      "hex": "26f0",
+      "hex": "26f0-fe0f",
       "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":mountain_snow:",
-      "hex": "1f3d4",
+      "hex": "1f3d4-fe0f",
       "suggest": true
     },
     {
@@ -15057,7 +14829,7 @@
     {
       "category": "travel",
       "shortname": ":camping:",
-      "hex": "1f3d5",
+      "hex": "1f3d5-fe0f",
       "suggest": true
     },
     {
@@ -15081,19 +14853,19 @@
     {
       "category": "travel",
       "shortname": ":homes:",
-      "hex": "1f3d8",
+      "hex": "1f3d8-fe0f",
       "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":house_abandoned:",
-      "hex": "1f3da",
+      "hex": "1f3da-fe0f",
       "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":construction_site:",
-      "hex": "1f3d7",
+      "hex": "1f3d7-fe0f",
       "suggest": true
     },
     {
@@ -15171,7 +14943,7 @@
     {
       "category": "travel",
       "shortname": ":classical_building:",
-      "hex": "1f3db",
+      "hex": "1f3db-fe0f",
       "suggest": true
     },
     {
@@ -15201,19 +14973,19 @@
     {
       "category": "travel",
       "shortname": ":shinto_shrine:",
-      "hex": "26e9",
+      "hex": "26e9-fe0f",
       "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":railway_track:",
-      "hex": "1f6e4",
+      "hex": "1f6e4-fe0f",
       "suggest": true
     },
     {
       "category": "travel",
       "shortname": ":motorway:",
-      "hex": "1f6e3",
+      "hex": "1f6e3-fe0f",
       "suggest": true
     },
     {
@@ -15231,7 +15003,7 @@
     {
       "category": "travel",
       "shortname": ":park:",
-      "hex": "1f3de",
+      "hex": "1f3de-fe0f",
       "suggest": true
     },
     {
@@ -15285,7 +15057,7 @@
     {
       "category": "travel",
       "shortname": ":cityscape:",
-      "hex": "1f3d9",
+      "hex": "1f3d9-fe0f",
       "suggest": true
     },
     {
@@ -15327,7 +15099,7 @@
     {
       "category": "flags",
       "shortname": ":flag_white:",
-      "hex": "1f3f3",
+      "hex": "1f3f3-fe0f",
       "suggest": false
     },
     {
@@ -16963,7 +16735,9 @@
       "suggest": false
     }
   ],
-  "emojiRegex": "(\\uD83C\\uDFF4\\uDB40\\uDC67\\uDB40\\uDC62(?:\\uDB40\\uDC73\\uDB40\\uDC63\\uDB40\\uDC74|\\uDB40\\uDC77\\uDB40\\uDC6C\\uDB40\\uDC73|\\uDB40\\uDC65\\uDB40\\uDC6E\\uDB40\\uDC67)\\uDB40\\uDC7F|\\uD83D\\uDC69(?:\\u200D(?:\\uD83D\\uDC69\\u200D(?:\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67]))|\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D[\\uDC68\\uDC69])|\\u200D(?:\\uD83D\\uDC8B\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D[\\uDC68\\uDC69]))|\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC69\\u200D(?:\\uD83D[\\uDC66\\uDC67])|\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67])|[\\u2695\\u2696\\u2708]\\uFE0F|[\\u2695\\u2696\\u2708]|\\uD83D[\\uDC66\\uDC67]|\\uD83C[\\uDF3E\\uDF73\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDB0-\\uDDB3])|\\uD83D\\uDC69(?:\\uD83D\\uDC66\\uD83D\\uDC66|\\uD83D\\uDC67(?:\\uD83D[\\uDC66\\uDC67]))|\\u2764\\uFE0F\\uD83D\\uDC8B(?:\\uD83D[\\uDC68\\uDC69])|(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2695\\u2696\\u2708]\\uFE0F|\\uD83D\\uDC66\\uD83D\\uDC66|\\uD83D\\uDC69(?:\\uD83D[\\uDC66\\uDC67])|(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2695\\u2696\\u2708]|\\u2764\\uFE0F(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D\\uDC67(?:\\uD83D[\\uDC66\\uDC67])|(?:\\uD83C[\\uDFFB-\\uDFFF])(?:[\\u2695\\u2696\\u2708]\\uFE0F|\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDB0-\\uDDB3])|\\uD83C[\\uDF3E\\uDF73\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDB0-\\uDDB3])|\\uD83D\\uDC66|[\\u2695\\u2696\\u2708]\\uFE0F|\\uD83D\\uDC67|\\uD83C[\\uDFFB-\\uDFFF]|\\uD83C[\\uDF3E\\uDF73\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDB0-\\uDDB3])?|\\uD83D\\uDC68(?:\\u200D(?:\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D)?|\\u200D(?:\\uD83D\\uDC8B\\u200D)?)\\uD83D\\uDC68|\\uD83C[\\uDF3E\\uDF73\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDB0-\\uDDB3])|\\u2764\\uFE0F\\uD83D\\uDC8B\\uD83D\\uDC68|\\u2764\\uFE0F\\uD83D\\uDC68|\\uD83C[\\uDF3E\\uDF73\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDB0-\\uDDB3])|\\uD83D\\uDC68\\u200D(?:\\uD83D[\\uDC68\\uDC69])\\u200D(?:\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67]))|\\uD83D\\uDC68\\u200D\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|(?:\\uD83D\\uDC41\\uFE0F?\\u200D\\uD83D\\uDDE8|\\uD83D\\uDC68(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2695\\u2696\\u2708]|(?:(?:\\uD83C[\\uDFC4\\uDFCA])(?:\\uD83C[\\uDFFB-\\uDFFF])|(?:\\uD83C\\uDFC3|\\uD83D[\\uDC6E\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDD6-\\uDDDD])(?:\\uD83C[\\uDFFB-\\uDFFF])?|\\uD83C[\\uDFC4\\uDFCA]|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF])\\u200D[\\u2640\\u2642]|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)(?:(?:\\uD83C[\\uDFFB-\\uDFFF])?\\u200D[\\u2640\\u2642]|\\uFE0F\\u200D[\\u2640\\u2642])|\\uD83C\\uDFF4\\u200D\\u2620|\\uD83D\\uDC68\\u200D[\\u2695\\u2696\\u2708]|[\\xA9\\xAE\\u203C\\u2049\\u2122\\u2139\\u2194-\\u2199\\u21A9\\u21AA\\u231A\\u231B\\u2328\\u23CF\\u23E9\\u23EA\\u23ED-\\u23EF\\u23F1-\\u23F3\\u23F8-\\u23FA\\u24C2\\u25AA\\u25AB\\u25B6\\u25C0\\u25FB-\\u25FE\\u2600-\\u2604\\u260E\\u2611\\u2614\\u2615\\u2618\\u2620\\u2622\\u2623\\u2626\\u262A\\u262E\\u262F\\u2638-\\u263A\\u2640\\u2642\\u2648-\\u2653\\u265F\\u2660\\u2663\\u2665\\u2666\\u2668\\u267B\\u267E\\u267F\\u2692-\\u2697\\u2699\\u269B\\u269C\\u26A0\\u26A1\\u26AA\\u26AB\\u26B0\\u26B1\\u26BD\\u26BE\\u26C4\\u26C5\\u26C8\\u26CF\\u26D1\\u26D3\\u26D4\\u26E9\\u26EA\\u26F0-\\u26F5\\u26F7\\u26F8\\u26FA\\u26FD\\u2702\\u2708\\u2709\\u270F\\u2712\\u2714\\u2716\\u271D\\u2721\\u2733\\u2734\\u2744\\u2747\\u2753\\u2757\\u2763\\u2764\\u27A1\\u2934\\u2935\\u2B05-\\u2B07\\u2B1B\\u2B1C\\u2B50\\u2B55\\u3030\\u303D\\u3297\\u3299]|\\uD83C[\\uDC04\\uDD70\\uDD71\\uDD7E\\uDD7F\\uDE02\\uDE1A\\uDE2F\\uDE37\\uDF0D-\\uDF0F\\uDF15\\uDF1C\\uDF21\\uDF24-\\uDF2C\\uDF36\\uDF78\\uDF7D\\uDF93\\uDF96\\uDF97\\uDF99-\\uDF9B\\uDF9E\\uDF9F\\uDFA7\\uDFAC-\\uDFAE\\uDFC6\\uDFCD\\uDFCE\\uDFD4-\\uDFE0\\uDFED\\uDFF5\\uDFF7]|\\uD83D[\\uDC08\\uDC15\\uDC1F\\uDC26\\uDC3F\\uDC53\\uDC6A\\uDC7D\\uDCA3\\uDCB0\\uDCB3\\uDCBB\\uDCBF\\uDCCB\\uDCDA\\uDCDF\\uDCE4-\\uDCE6\\uDCEA-\\uDCED\\uDCF7\\uDCF9-\\uDCFB\\uDCFD\\uDD08\\uDD0D\\uDD12\\uDD13\\uDD49\\uDD4A\\uDD50-\\uDD67\\uDD6F\\uDD70\\uDD73\\uDD76-\\uDD79\\uDD87\\uDD8A-\\uDD8D\\uDDA5\\uDDA8\\uDDB1\\uDDB2\\uDDBC\\uDDC2-\\uDDC4\\uDDD1-\\uDDD3\\uDDDC-\\uDDDE\\uDDE1\\uDDE3\\uDDE8\\uDDEF\\uDDF3\\uDDFA\\uDE10\\uDE87\\uDE8D\\uDE91\\uDE94\\uDE98\\uDEAD\\uDEB2\\uDEB9\\uDEBA\\uDEBC\\uDECB\\uDECD-\\uDECF\\uDEE0-\\uDEE5\\uDEE9\\uDEF0\\uDEF3])\\uFE0F|\\uD83D\\uDC68\\u200D\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67])|\\uD83D\\uDC68(?:\\uD83D[\\uDC68\\uDC69])(?:\\uD83D\\uDC66\\uD83D\\uDC66|\\uD83D\\uDC67(?:\\uD83D[\\uDC66\\uDC67]))|\\uD83D\\uDC41\\uFE0F?\\u200D\\uD83D\\uDDE8|\\uD83D\\uDC68\\u200D(?:\\uD83D[\\uDC68\\uDC69])\\u200D(?:\\uD83D[\\uDC66\\uDC67])|\\uD83C\\uDFF3(?:\\uFE0F\\u200D?|\\u200D)\\uD83C\\uDF08|\\uD83D\\uDC68\\uD83D\\uDC66\\uD83D\\uDC66|(?:\\uD83D\\uDC41\\uFE0F\\uD83D\\uDDE8|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)\\uFE0F(?:(?:\\uD83C[\\uDFFB-\\uDFFF])(?:\\u200D[\\u2640\\u2642]|[\\u2640\\u2642])|[\\u2640\\u2642])|(?:(?:\\uD83C[\\uDFC4\\uDFCA])(?:\\uD83C[\\uDFFB-\\uDFFF])|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF])[\\u2640\\u2642]|(?:\\uD83C\\uDFC3|\\uD83D[\\uDC6E\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDD6-\\uDDDD])(?:(?:\\uD83C[\\uDFFB-\\uDFFF])[\\u2640\\u2642]|[\\u2640\\u2642])|\\uD83C\\uDFF4\\u2620|\\uD83D\\uDC68[\\u2695\\u2696\\u2708]|(?:\\uD83C[\\uDFC4\\uDFCA])[\\u2640\\u2642])\\uFE0F|\\uD83D\\uDC68(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2695\\u2696\\u2708]|\\uD83D\\uDC68\\uD83D\\uDC67(?:\\uD83D[\\uDC66\\uDC67])|\\uD83D\\uDC68(?:\\uD83C[\\uDFFB-\\uDFFF])(?:[\\u2695\\u2696\\u2708]\\uFE0F|\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDB0-\\uDDB3])|\\uD83C[\\uDF3E\\uDF73\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDB0-\\uDDB3])|\\uD83D\\uDC68\\u200D\\uD83D\\uDC66|\\uD83D\\uDC68\\u200D\\uD83D\\uDC67|\\uD83D\\uDC68\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDDFD\\uD83C\\uDDF0|(?:(?:\\uD83C[\\uDFC4\\uDFCA])(?:\\uD83C[\\uDFFB-\\uDFFF])|(?:\\uD83C\\uDFC3|\\uD83D[\\uDC6E\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDD6-\\uDDDD])(?:\\uD83C[\\uDFFB-\\uDFFF])?|\\uD83C[\\uDFC4\\uDFCA]|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF])\\u200D[\\u2640\\u2642]|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)(?:(?:\\uD83C[\\uDFFB-\\uDFFF])?\\u200D[\\u2640\\u2642]|\\uFE0F\\u200D[\\u2640\\u2642])|\\uD83D\\uDC68\\uD83D\\uDC66|\\uD83D\\uDC68\\uD83D\\uDC67|\\uD83C\\uDDF4\\uD83C\\uDDF2|\\uD83C\\uDDF6\\uD83C\\uDDE6|\\uD83C\\uDFF4\\u200D\\u2620|\\uD83D\\uDC68(?:\\uD83D[\\uDC68\\uDC69])(?:\\uD83D[\\uDC66\\uDC67])|\\uD83D\\uDC41\\uFE0F?|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)(?:\\uFE0F(?:\\uD83C[\\uDFFB-\\uDFFF])?|\\uD83C[\\uDFFB-\\uDFFF])?|\\uD83C\\uDDFB(?:\\uD83C[\\uDDE6\\uDDE8\\uDDEA\\uDDEC\\uDDEE\\uDDF3\\uDDFA])|\\uD83C\\uDDF5(?:\\uD83C[\\uDDE6\\uDDEA-\\uDDED\\uDDF0-\\uDDF3\\uDDF7-\\uDDF9\\uDDFC\\uDDFE])|\\uD83C\\uDDF8(?:\\uD83C[\\uDDE6-\\uDDEA\\uDDEC-\\uDDF4\\uDDF7-\\uDDF9\\uDDFB\\uDDFD-\\uDDFF])|\\uD83C\\uDDF0(?:\\uD83C[\\uDDEA\\uDDEC-\\uDDEE\\uDDF2\\uDDF3\\uDDF5\\uDDF7\\uDDFC\\uDDFE\\uDDFF])|\\uD83C\\uDDFC(?:\\uD83C[\\uDDEB\\uDDF8])|\\uD83C\\uDDE6(?:\\uD83C[\\uDDE8-\\uDDEC\\uDDEE\\uDDF1\\uDDF2\\uDDF4\\uDDF6-\\uDDFA\\uDDFC\\uDDFD\\uDDFF])|\\uD83C\\uDDED(?:\\uD83C[\\uDDF0\\uDDF2\\uDDF3\\uDDF7\\uDDF9\\uDDFA])|\\uD83C\\uDFF3\\uFE0F?|\\uD83C\\uDDF3(?:\\uD83C[\\uDDE6\\uDDE8\\uDDEA-\\uDDEC\\uDDEE\\uDDF1\\uDDF4\\uDDF5\\uDDF7\\uDDFA\\uDDFF])|\\uD83C\\uDDFE(?:\\uD83C[\\uDDEA\\uDDF9])|\\uD83C\\uDDE9(?:\\uD83C[\\uDDEA\\uDDEC\\uDDEF\\uDDF0\\uDDF2\\uDDF4\\uDDFF])|\\uD83D\\uDC68(?:\\uD83C[\\uDFFB-\\uDFFF])|(?:[\\u261D\\u270C\\u270D]|\\uD83D[\\uDD74\\uDD90])(?:\\uFE0F(?:\\uD83C[\\uDFFB-\\uDFFF])|\\uD83C[\\uDFFB-\\uDFFF])|\\uD83C\\uDDEE(?:\\uD83C[\\uDDE8-\\uDDEA\\uDDF1-\\uDDF4\\uDDF6-\\uDDF9])|\\uD83C\\uDDE7(?:\\uD83C[\\uDDE6\\uDDE7\\uDDE9-\\uDDEF\\uDDF1-\\uDDF4\\uDDF6-\\uDDF9\\uDDFB\\uDDFC\\uDDFE\\uDDFF])|\\uD83C\\uDDEF(?:\\uD83C[\\uDDEA\\uDDF2\\uDDF4\\uDDF5])|\\uD83C\\uDDF1(?:\\uD83C[\\uDDE6-\\uDDE8\\uDDEE\\uDDF0\\uDDF7-\\uDDFB\\uDDFE])|\\uD83C\\uDDEA(?:\\uD83C[\\uDDE6\\uDDE8\\uDDEA\\uDDEC\\uDDED\\uDDF7-\\uDDFA])|\\uD83C\\uDDF7(?:\\uD83C[\\uDDEA\\uDDF4\\uDDF8\\uDDFA\\uDDFC])|\\uD83C\\uDDF9(?:\\uD83C[\\uDDE6\\uDDE8\\uDDE9\\uDDEB-\\uDDED\\uDDEF-\\uDDF4\\uDDF7\\uDDF9\\uDDFB\\uDDFC\\uDDFF])|[#\\*0-9]\\uFE0F?\\u20E3|\\uD83C\\uDDFA(?:\\uD83C[\\uDDE6\\uDDEC\\uDDF2\\uDDF3\\uDDF8\\uDDFE\\uDDFF])|\\uD83C\\uDDF2(?:\\uD83C[\\uDDE6\\uDDE8-\\uDDED\\uDDF0-\\uDDFF])|\\uD83C\\uDDEC(?:\\uD83C[\\uDDE6\\uDDE7\\uDDE9-\\uDDEE\\uDDF1-\\uDDF3\\uDDF5-\\uDDFA\\uDDFC\\uDDFE])|\\uD83C\\uDDFF(?:\\uD83C[\\uDDE6\\uDDF2\\uDDFC])|\\uD83C\\uDDEB(?:\\uD83C[\\uDDEE-\\uDDF0\\uDDF2\\uDDF4\\uDDF7])|\\uD83C\\uDDE8(?:\\uD83C[\\uDDE6\\uDDE8\\uDDE9\\uDDEB-\\uDDEE\\uDDF0-\\uDDF5\\uDDF7\\uDDFA-\\uDDFF])|[#\\*0-9]\\uFE0F|\\uD83C\\uDFF4|(?:\\uD83C[\\uDFC4\\uDFCA])(?:\\uD83C[\\uDFFB-\\uDFFF])|(?:\\uD83C\\uDFC3|\\uD83D[\\uDC6E\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDD6-\\uDDDD])(?:\\uD83C[\\uDFFB-\\uDFFF])?|(?:[\\u261D\\u270C\\u270D]|\\uD83D[\\uDD74\\uDD90])\\uFE0F?|(?:\\uD83C\\uDFC2|\\uD83D[\\uDC42\\uDC46-\\uDC49\\uDC4D\\uDC4E])(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|(?:[\\u270A\\u270B]|\\uD83C[\\uDF85\\uDFC7]|\\uD83D[\\uDC43\\uDC4A-\\uDC4C\\uDC4F\\uDC50\\uDC66\\uDC67\\uDC70\\uDC72\\uDC74-\\uDC76\\uDC78\\uDC7C\\uDC83\\uDC85\\uDCAA\\uDD7A\\uDD95\\uDD96\\uDE4C\\uDE4F\\uDEC0\\uDECC]|\\uD83E[\\uDD18-\\uDD1C\\uDD1E\\uDD1F\\uDD30-\\uDD36\\uDDB5\\uDDB6\\uDDD1-\\uDDD5])(?:\\uD83C[\\uDFFB-\\uDFFF])|\\uD83D\\uDC68|(?:\\uD83C[\\uDFC4\\uDFCA])\\uFE0F|\\uD83C[\\uDDE6-\\uDDFF\\uDFC2]|\\uD83D[\\uDC42\\uDC46-\\uDC49\\uDC4D\\uDC4E]|[\\u270A\\u270B]|\\uD83C[\\uDF85\\uDFC7]|\\uD83D[\\uDC43\\uDC4A-\\uDC4C\\uDC4F\\uDC50\\uDC66\\uDC67\\uDC70\\uDC72\\uDC74-\\uDC76\\uDC78\\uDC7C\\uDC83\\uDC85\\uDCAA\\uDD7A\\uDD95\\uDD96\\uDE4C\\uDE4F\\uDEC0\\uDECC]|\\uD83E[\\uDD18-\\uDD1C\\uDD1E\\uDD1F\\uDD30-\\uDD36\\uDDB5\\uDDB6\\uDDD1-\\uDDD5]|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF]|\\uD83C[\\uDFC4\\uDFCA]|[\\xA9\\xAE\\u203C\\u2049\\u2122\\u2139\\u2194-\\u2199\\u21A9\\u21AA\\u231A\\u231B\\u2328\\u23CF\\u23E9\\u23EA\\u23ED-\\u23EF\\u23F1-\\u23F3\\u23F8-\\u23FA\\u24C2\\u25AA\\u25AB\\u25B6\\u25C0\\u25FB-\\u25FE\\u2600-\\u2604\\u260E\\u2611\\u2614\\u2615\\u2618\\u2620\\u2622\\u2623\\u2626\\u262A\\u262E\\u262F\\u2638-\\u263A\\u2640\\u2642\\u2648-\\u2653\\u265F\\u2660\\u2663\\u2665\\u2666\\u2668\\u267B\\u267E\\u267F\\u2692-\\u2697\\u2699\\u269B\\u269C\\u26A0\\u26A1\\u26AA\\u26AB\\u26B0\\u26B1\\u26BD\\u26BE\\u26C4\\u26C5\\u26C8\\u26CF\\u26D1\\u26D3\\u26D4\\u26E9\\u26EA\\u26F0-\\u26F5\\u26F7\\u26F8\\u26FA\\u26FD\\u2702\\u2708\\u2709\\u270F\\u2712\\u2714\\u2716\\u271D\\u2721\\u2733\\u2734\\u2744\\u2747\\u2753\\u2757\\u2763\\u2764\\u27A1\\u2934\\u2935\\u2B05-\\u2B07\\u2B1B\\u2B1C\\u2B50\\u2B55\\u3030\\u303D\\u3297\\u3299]|\\uD83C[\\uDC04\\uDD70\\uDD71\\uDD7E\\uDD7F\\uDE02\\uDE1A\\uDE2F\\uDE37\\uDF0D-\\uDF0F\\uDF15\\uDF1C\\uDF21\\uDF24-\\uDF2C\\uDF36\\uDF78\\uDF7D\\uDF93\\uDF96\\uDF97\\uDF99-\\uDF9B\\uDF9E\\uDF9F\\uDFA7\\uDFAC-\\uDFAE\\uDFC6\\uDFCD\\uDFCE\\uDFD4-\\uDFE0\\uDFED\\uDFF5\\uDFF7]|\\uD83D[\\uDC08\\uDC15\\uDC1F\\uDC26\\uDC3F\\uDC53\\uDC6A\\uDC7D\\uDCA3\\uDCB0\\uDCB3\\uDCBB\\uDCBF\\uDCCB\\uDCDA\\uDCDF\\uDCE4-\\uDCE6\\uDCEA-\\uDCED\\uDCF7\\uDCF9-\\uDCFB\\uDCFD\\uDD08\\uDD0D\\uDD12\\uDD13\\uDD49\\uDD4A\\uDD50-\\uDD67\\uDD6F\\uDD70\\uDD73\\uDD76-\\uDD79\\uDD87\\uDD8A-\\uDD8D\\uDDA5\\uDDA8\\uDDB1\\uDDB2\\uDDBC\\uDDC2-\\uDDC4\\uDDD1-\\uDDD3\\uDDDC-\\uDDDE\\uDDE1\\uDDE3\\uDDE8\\uDDEF\\uDDF3\\uDDFA\\uDE10\\uDE87\\uDE8D\\uDE91\\uDE94\\uDE98\\uDEAD\\uDEB2\\uDEB9\\uDEBA\\uDEBC\\uDECB\\uDECD-\\uDECF\\uDEE0-\\uDEE5\\uDEE9\\uDEF0\\uDEF3]|[\\u23EB\\u23EC\\u23F0\\u26CE\\u2705\\u2728\\u274C\\u274E\\u2754\\u2755\\u2795-\\u2797\\u27B0\\u27BF]|\\uD83C[\\uDCCF\\uDD8E\\uDD91-\\uDD9A\\uDE01\\uDE32-\\uDE36\\uDE38-\\uDE3A\\uDE50\\uDE51\\uDF00-\\uDF0C\\uDF10-\\uDF14\\uDF16-\\uDF1B\\uDF1D-\\uDF20\\uDF2D-\\uDF35\\uDF37-\\uDF77\\uDF79-\\uDF7C\\uDF7E-\\uDF84\\uDF86-\\uDF92\\uDFA0-\\uDFA6\\uDFA8-\\uDFAB\\uDFAF-\\uDFC1\\uDFC5\\uDFC8\\uDFC9\\uDFCF-\\uDFD3\\uDFE1-\\uDFEC\\uDFEE-\\uDFF0\\uDFF8-\\uDFFF]|\\uD83D[\\uDC00-\\uDC07\\uDC09-\\uDC14\\uDC16-\\uDC1E\\uDC20-\\uDC25\\uDC27-\\uDC3E\\uDC40\\uDC44\\uDC45\\uDC51\\uDC52\\uDC54-\\uDC65\\uDC6B-\\uDC6D\\uDC79-\\uDC7B\\uDC7E-\\uDC80\\uDC84\\uDC88-\\uDCA2\\uDCA4-\\uDCA9\\uDCAB-\\uDCAF\\uDCB1\\uDCB2\\uDCB4-\\uDCBA\\uDCBC-\\uDCBE\\uDCC0-\\uDCCA\\uDCCC-\\uDCD9\\uDCDB-\\uDCDE\\uDCE0-\\uDCE3\\uDCE7-\\uDCE9\\uDCEE-\\uDCF6\\uDCF8\\uDCFC\\uDCFF-\\uDD07\\uDD09-\\uDD0C\\uDD0E-\\uDD11\\uDD14-\\uDD3D\\uDD4B-\\uDD4E\\uDDA4\\uDDFB-\\uDE0F\\uDE11-\\uDE44\\uDE48-\\uDE4A\\uDE80-\\uDE86\\uDE88-\\uDE8C\\uDE8E-\\uDE90\\uDE92\\uDE93\\uDE95-\\uDE97\\uDE99-\\uDEA2\\uDEA4-\\uDEAC\\uDEAE-\\uDEB1\\uDEB3\\uDEB7\\uDEB8\\uDEBB\\uDEBD-\\uDEBF\\uDEC1-\\uDEC5\\uDED0-\\uDED2\\uDEEB\\uDEEC\\uDEF4-\\uDEF9]|\\uD83E[\\uDD10-\\uDD17\\uDD1D\\uDD20-\\uDD25\\uDD27-\\uDD2F\\uDD3A\\uDD40-\\uDD45\\uDD47-\\uDD70\\uDD73-\\uDD76\\uDD7A\\uDD7C-\\uDDA2\\uDDB0-\\uDDB4\\uDDB7\\uDDC0-\\uDDC2\\uDDD0\\uDDE0-\\uDDFF])",
+  "emojiRegex": "(\\uD83C\\uDFF4\\uDB40\\uDC67\\uDB40\\uDC62(?:\\uDB40\\uDC65\\uDB40\\uDC6E\\uDB40\\uDC67|\\uDB40\\uDC73\\uDB40\\uDC63\\uDB40\\uDC74|\\uDB40\\uDC77\\uDB40\\uDC6C\\uDB40\\uDC73)\\uDB40\\uDC7F|\\uD83D\\uDC69(?:\\u200D(?:\\uD83D\\uDC69\\u200D(?:\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67]))|\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D[\\uDC68\\uDC69])|\\u200D(?:\\uD83D\\uDC8B\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D[\\uDC68\\uDC69]))|\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC69\\u200D(?:\\uD83D[\\uDC66\\uDC67])|\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67])|[\\u2695\\u2696\\u2708]\\uFE0F|[\\u2695\\u2696\\u2708]|\\uD83D[\\uDC66\\uDC67]|\\uD83C[\\uDF3E\\uDF73\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDB0-\\uDDB3])|(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2695\\u2696\\u2708]\\uFE0F|(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2695\\u2696\\u2708]|(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDB0-\\uDDB3])|\\uD83C[\\uDFFB-\\uDFFF])?|\\uD83D\\uDC68\\u200D(?:\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D)?|\\u200D(?:\\uD83D\\uDC8B\\u200D)?)\\uD83D\\uDC68|\\uD83C[\\uDF3E\\uDF73\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDB0-\\uDDB3])|\\uD83D\\uDC68\\u200D(?:\\uD83D[\\uDC68\\uDC69])\\u200D(?:\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67]))|\\uD83D\\uDC68\\u200D\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|(?:\\uD83D\\uDC41\\uFE0F?\\u200D\\uD83D\\uDDE8|\\uD83D\\uDC68(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2695\\u2696\\u2708]|(?:(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF])\\u200D[\\u2640\\u2642]|(?:\\uD83C[\\uDFC3\\uDFC4\\uDFCA]|\\uD83D[\\uDC6E\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDD6-\\uDDDD])(?:(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2640\\u2642]|\\u200D[\\u2640\\u2642])|\\uD83C\\uDFF4\\u200D\\u2620|\\uD83D\\uDC68\\u200D[\\u2695\\u2696\\u2708]|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)\\u200D[\\u2640\\u2642]|[\\xA9\\xAE\\u203C\\u2049\\u2122\\u2139\\u2194-\\u2199\\u21A9\\u21AA\\u2328\\u23CF\\u23ED-\\u23EF\\u23F1\\u23F2\\u23F8-\\u23FA\\u24C2\\u25AA\\u25AB\\u25B6\\u25C0\\u25FB\\u25FC\\u2600-\\u2604\\u260E\\u2611\\u2618\\u2620\\u2622\\u2623\\u2626\\u262A\\u262E\\u262F\\u2638-\\u263A\\u2640\\u2642\\u265F\\u2660\\u2663\\u2665\\u2666\\u2668\\u267B\\u267E\\u2692\\u2694-\\u2697\\u2699\\u269B\\u269C\\u26A0\\u26B0\\u26B1\\u26C8\\u26CF\\u26D1\\u26D3\\u26E9\\u26F0\\u26F1\\u26F4\\u26F7\\u26F8\\u2702\\u2708\\u2709\\u270F\\u2712\\u2714\\u2716\\u271D\\u2721\\u2733\\u2734\\u2744\\u2747\\u2763\\u2764\\u27A1\\u2934\\u2935\\u2B05-\\u2B07\\u3030\\u303D\\u3297\\u3299]|\\uD83C[\\uDD70\\uDD71\\uDD7E\\uDD7F\\uDE02\\uDE37\\uDF21\\uDF24-\\uDF2C\\uDF36\\uDF7D\\uDF96\\uDF97\\uDF99-\\uDF9B\\uDF9E\\uDF9F\\uDFCD\\uDFCE\\uDFD4-\\uDFDF\\uDFF5\\uDFF7]|\\uD83D[\\uDC3F\\uDCFD\\uDD49\\uDD4A\\uDD6F\\uDD70\\uDD73\\uDD76-\\uDD79\\uDD87\\uDD8A-\\uDD8D\\uDDA5\\uDDA8\\uDDB1\\uDDB2\\uDDBC\\uDDC2-\\uDDC4\\uDDD1-\\uDDD3\\uDDDC-\\uDDDE\\uDDE1\\uDDE3\\uDDE8\\uDDEF\\uDDF3\\uDDFA\\uDECB\\uDECD-\\uDECF\\uDEE0-\\uDEE5\\uDEE9\\uDEF0\\uDEF3])\\uFE0F|\\uD83D\\uDC68\\u200D\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67])|\\uD83C\\uDFF3\\uFE0F?\\u200D\\uD83C\\uDF08|\\uD83D\\uDC41\\uFE0F?\\u200D\\uD83D\\uDDE8|\\uD83D\\uDC68\\u200D(?:\\uD83D[\\uDC68\\uDC69])\\u200D(?:\\uD83D[\\uDC66\\uDC67])|\\uD83D\\uDC68(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDB0-\\uDDB3])|\\uD83D\\uDC68\\u200D\\uD83D\\uDC66|\\uD83D\\uDC68\\u200D\\uD83D\\uDC67|\\uD83D\\uDC68(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2695\\u2696\\u2708]|(?:\\uD83C[\\uDFC3\\uDFC4\\uDFCA]|\\uD83D[\\uDC6E\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDD6-\\uDDDD])(?:(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2640\\u2642]|\\u200D[\\u2640\\u2642])|\\uD83C\\uDDF6\\uD83C\\uDDE6|\\uD83C\\uDDFD\\uD83C\\uDDF0|\\uD83C\\uDDF4\\uD83C\\uDDF2|(?:(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF])\\u200D[\\u2640\\u2642]|\\uD83C\\uDFF4\\u200D\\u2620|\\uD83D\\uDC68\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDDE6(?:\\uD83C[\\uDDE8-\\uDDEC\\uDDEE\\uDDF1\\uDDF2\\uDDF4\\uDDF6-\\uDDFA\\uDDFC\\uDDFD\\uDDFF])|\\uD83C\\uDDE8(?:\\uD83C[\\uDDE6\\uDDE8\\uDDE9\\uDDEB-\\uDDEE\\uDDF0-\\uDDF5\\uDDF7\\uDDFA-\\uDDFF])|\\uD83C\\uDDF5(?:\\uD83C[\\uDDE6\\uDDEA-\\uDDED\\uDDF0-\\uDDF3\\uDDF7-\\uDDF9\\uDDFC\\uDDFE])|\\uD83C\\uDDFC(?:\\uD83C[\\uDDEB\\uDDF8])|\\uD83D\\uDC68(?:\\uD83C[\\uDFFB-\\uDFFF])|\\uD83C\\uDFF3\\uFE0F?|\\uD83D\\uDC41\\uFE0F?|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)\\u200D[\\u2640\\u2642]|\\uD83C\\uDDE9(?:\\uD83C[\\uDDEA\\uDDEC\\uDDEF\\uDDF0\\uDDF2\\uDDF4\\uDDFF])|\\uD83C\\uDDEB(?:\\uD83C[\\uDDEE-\\uDDF0\\uDDF2\\uDDF4\\uDDF7])|\\uD83C\\uDDE7(?:\\uD83C[\\uDDE6\\uDDE7\\uDDE9-\\uDDEF\\uDDF1-\\uDDF4\\uDDF6-\\uDDF9\\uDDFB\\uDDFC\\uDDFE\\uDDFF])|\\uD83C\\uDDEE(?:\\uD83C[\\uDDE8-\\uDDEA\\uDDF1-\\uDDF4\\uDDF6-\\uDDF9])|\\uD83C\\uDDF2(?:\\uD83C[\\uDDE6\\uDDE8-\\uDDED\\uDDF0-\\uDDFF])|\\uD83C\\uDDF1(?:\\uD83C[\\uDDE6-\\uDDE8\\uDDEE\\uDDF0\\uDDF7-\\uDDFB\\uDDFE])|\\uD83C\\uDDF0(?:\\uD83C[\\uDDEA\\uDDEC-\\uDDEE\\uDDF2\\uDDF3\\uDDF5\\uDDF7\\uDDFC\\uDDFE\\uDDFF])|\\uD83C\\uDDFE(?:\\uD83C[\\uDDEA\\uDDF9])|\\uD83C\\uDDFA(?:\\uD83C[\\uDDE6\\uDDEC\\uDDF2\\uDDF3\\uDDF8\\uDDFE\\uDDFF])|\\uD83C\\uDDFF(?:\\uD83C[\\uDDE6\\uDDF2\\uDDFC])|\\uD83C\\uDDEA(?:\\uD83C[\\uDDE6\\uDDE8\\uDDEA\\uDDEC\\uDDED\\uDDF7-\\uDDFA])|\\uD83C\\uDDFB(?:\\uD83C[\\uDDE6\\uDDE8\\uDDEA\\uDDEC\\uDDEE\\uDDF3\\uDDFA])|\\uD83C\\uDDF7(?:\\uD83C[\\uDDEA\\uDDF4\\uDDF8\\uDDFA\\uDDFC])|\\uD83C\\uDDED(?:\\uD83C[\\uDDF0\\uDDF2\\uDDF3\\uDDF7\\uDDF9\\uDDFA])|\\uD83C\\uDDEF(?:\\uD83C[\\uDDEA\\uDDF2\\uDDF4\\uDDF5])|[#\\*0-9]\\uFE0F?\\u20E3|\\uD83C\\uDDF8(?:\\uD83C[\\uDDE6-\\uDDEA\\uDDEC-\\uDDF4\\uDDF7-\\uDDF9\\uDDFB\\uDDFD-\\uDDFF])|\\uD83C\\uDDF3(?:\\uD83C[\\uDDE6\\uDDE8\\uDDEA-\\uDDEC\\uDDEE\\uDDF1\\uDDF4\\uDDF5\\uDDF7\\uDDFA\\uDDFF])|\\uD83C\\uDDF9(?:\\uD83C[\\uDDE6\\uDDE8\\uDDE9\\uDDEB-\\uDDED\\uDDEF-\\uDDF4\\uDDF7\\uDDF9\\uDDFB\\uDDFC\\uDDFF])|\\uD83C\\uDDEC(?:\\uD83C[\\uDDE6\\uDDE7\\uDDE9-\\uDDEE\\uDDF1-\\uDDF3\\uDDF5-\\uDDFA\\uDDFC\\uDDFE])|(?:\\uD83C[\\uDFC3\\uDFC4\\uDFCA]|\\uD83D[\\uDC6E\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDD6-\\uDDDD])(?:\\uD83C[\\uDFFB-\\uDFFF])?|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|\\uD83C\\uDFF4|(?:[\\u261D\\u270C\\u270D]|\\uD83D[\\uDD74\\uDD90])(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|(?:[\\u270A\\u270B]|\\uD83C[\\uDF85\\uDFC2\\uDFC7]|\\uD83D[\\uDC42\\uDC43\\uDC46-\\uDC50\\uDC66\\uDC67\\uDC70\\uDC72\\uDC74-\\uDC76\\uDC78\\uDC7C\\uDC83\\uDC85\\uDCAA\\uDD7A\\uDD95\\uDD96\\uDE4C\\uDE4F\\uDEC0\\uDECC]|\\uD83E[\\uDD18-\\uDD1C\\uDD1E\\uDD1F\\uDD30-\\uDD36\\uDDB5\\uDDB6\\uDDD1-\\uDDD5])(?:\\uD83C[\\uDFFB-\\uDFFF])|\\uD83D\\uDC68|[\\u261D\\u270A-\\u270D]|\\uD83C[\\uDF85\\uDFC2\\uDFC7]|\\uD83D[\\uDC42\\uDC43\\uDC46-\\uDC50\\uDC66\\uDC67\\uDC70\\uDC72\\uDC74-\\uDC76\\uDC78\\uDC7C\\uDC83\\uDC85\\uDCAA\\uDD74\\uDD7A\\uDD90\\uDD95\\uDD96\\uDE4C\\uDE4F\\uDEC0\\uDECC]|\\uD83E[\\uDD18-\\uDD1C\\uDD1E\\uDD1F\\uDD30-\\uDD36\\uDDB5\\uDDB6\\uDDD1-\\uDDD5]|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF]|[\\xA9\\xAE\\u203C\\u2049\\u2122\\u2139\\u2194-\\u2199\\u21A9\\u21AA\\u2328\\u23CF\\u23ED-\\u23EF\\u23F1\\u23F2\\u23F8-\\u23FA\\u24C2\\u25AA\\u25AB\\u25B6\\u25C0\\u25FB\\u25FC\\u2600-\\u2604\\u260E\\u2611\\u2618\\u2620\\u2622\\u2623\\u2626\\u262A\\u262E\\u262F\\u2638-\\u263A\\u2640\\u2642\\u265F\\u2660\\u2663\\u2665\\u2666\\u2668\\u267B\\u267E\\u2692\\u2694-\\u2697\\u2699\\u269B\\u269C\\u26A0\\u26B0\\u26B1\\u26C8\\u26CF\\u26D1\\u26D3\\u26E9\\u26F0\\u26F1\\u26F4\\u26F7\\u26F8\\u2702\\u2708\\u2709\\u270F\\u2712\\u2714\\u2716\\u271D\\u2721\\u2733\\u2734\\u2744\\u2747\\u2763\\u2764\\u27A1\\u2934\\u2935\\u2B05-\\u2B07\\u3030\\u303D\\u3297\\u3299]|\\uD83C[\\uDD70\\uDD71\\uDD7E\\uDD7F\\uDE02\\uDE37\\uDF21\\uDF24-\\uDF2C\\uDF36\\uDF7D\\uDF96\\uDF97\\uDF99-\\uDF9B\\uDF9E\\uDF9F\\uDFCD\\uDFCE\\uDFD4-\\uDFDF\\uDFF5\\uDFF7]|\\uD83D[\\uDC3F\\uDCFD\\uDD49\\uDD4A\\uDD6F\\uDD70\\uDD73\\uDD76-\\uDD79\\uDD87\\uDD8A-\\uDD8D\\uDDA5\\uDDA8\\uDDB1\\uDDB2\\uDDBC\\uDDC2-\\uDDC4\\uDDD1-\\uDDD3\\uDDDC-\\uDDDE\\uDDE1\\uDDE3\\uDDE8\\uDDEF\\uDDF3\\uDDFA\\uDECB\\uDECD-\\uDECF\\uDEE0-\\uDEE5\\uDEE9\\uDEF0\\uDEF3]|[\\u231A\\u231B\\u23E9-\\u23EC\\u23F0\\u23F3\\u25FD\\u25FE\\u2614\\u2615\\u2648-\\u2653\\u267F\\u2693\\u26A1\\u26AA\\u26AB\\u26BD\\u26BE\\u26C4\\u26C5\\u26CE\\u26D4\\u26EA\\u26F2\\u26F3\\u26F5\\u26FA\\u26FD\\u2705\\u2728\\u274C\\u274E\\u2753-\\u2755\\u2757\\u2795-\\u2797\\u27B0\\u27BF\\u2B1B\\u2B1C\\u2B50\\u2B55]|\\uD83C[\\uDC04\\uDCCF\\uDD8E\\uDD91-\\uDD9A\\uDE01\\uDE1A\\uDE2F\\uDE32-\\uDE36\\uDE38-\\uDE3A\\uDE50\\uDE51\\uDF00-\\uDF20\\uDF2D-\\uDF35\\uDF37-\\uDF7C\\uDF7E-\\uDF84\\uDF86-\\uDF93\\uDFA0-\\uDFC1\\uDFC5\\uDFC6\\uDFC8\\uDFC9\\uDFCF-\\uDFD3\\uDFE0-\\uDFF0\\uDFF8-\\uDFFF]|\\uD83D[\\uDC00-\\uDC3E\\uDC40\\uDC44\\uDC45\\uDC51-\\uDC65\\uDC6A-\\uDC6D\\uDC79-\\uDC7B\\uDC7D-\\uDC80\\uDC84\\uDC88-\\uDCA9\\uDCAB-\\uDCFC\\uDCFF-\\uDD3D\\uDD4B-\\uDD4E\\uDD50-\\uDD67\\uDDA4\\uDDFB-\\uDE44\\uDE48-\\uDE4A\\uDE80-\\uDEA2\\uDEA4-\\uDEB3\\uDEB7-\\uDEBF\\uDEC1-\\uDEC5\\uDED0-\\uDED2\\uDEEB\\uDEEC\\uDEF4-\\uDEF9]|\\uD83E[\\uDD10-\\uDD17\\uDD1D\\uDD20-\\uDD25\\uDD27-\\uDD2F\\uDD3A\\uDD40-\\uDD45\\uDD47-\\uDD70\\uDD73-\\uDD76\\uDD7A\\uDD7C-\\uDDA2\\uDDB0-\\uDDB4\\uDDB7\\uDDC0-\\uDDC2\\uDDD0\\uDDE0-\\uDDFF]|\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)",
   "shortnameRegex": "(:[\\w-]+:)",
-  "total": 2827
+  "total": 2789,
+  "unicodeVersion": "11.0",
+  "assetsVersion": "4.5.0"
 }

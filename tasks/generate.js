@@ -1,13 +1,22 @@
 /* eslint no-bitwise: "off" */
 const fs = require('fs');
 const path = require('path');
-const { Trie } = require('regexgen');
-const emojis = require('emojione-assets/emoji');
-const uniq = require('lodash.uniq');
-const { logResult } = require('./utils');
 
-// Maximum unicode version to show in suggestions
-const SUPPORTED_UNICODE_VERSION = 10;
+const { Trie } = require('regexgen');
+const uniq = require('lodash.uniq');
+const difference = require('lodash.difference');
+
+const { hexToId, fromCodePoint } = require('../lib/conversions');
+
+const { logResult } = require('./utils/log');
+const { getVersion: getUnicodeVersion } = require('./utils/unicode');
+const { getVersion: getAssetsVersion } = require('./utils/assets');
+const { getUnicodeSpec } = require('./utils/data');
+
+const { SUGGESTABLE_UNICODE_VERSION } = require('./utils/versions');
+
+const FULL_REPRESENTATION = 'fully-qualified';
+
 
 // These are not to be shown in the suggestions because they are nonsense
 const SKIPPED_CATEGORIES = [
@@ -23,45 +32,8 @@ const familyRegex = /^:family_/;
 const clockRegex = /^:clock/;
 const shapeRegex = /_(diamond|square|triangle|circle|sign):$/;
 
-const patchEmojioneSource = (object) => {
-  // EmojiOne™ decided to break these by removing correct `fully-qualified` sequence
-  // Patching needed to avoid matching numbers and # * characters
-  [
-    '0023', '002a', '0030', '0031', '0032', '0033', '0034', '0035', '0036', '0037', '0038', '0039',
-  ].forEach((key) => {
-    const item = object[key].code_points;
-    const correct = `${key}-fe0f`;
-    item.output = correct;
-    item.fully_qualified = correct;
-    item.non_fully_qualified = correct;
-    item.default_matches = [correct];
-  });
-
-  // EmojiOne™ decided to break these by removing correct `fully-qualified` sequence
-  // Patching needed to avoid sending incorrect characters to the server and to match proper emojis
-  [
-    '00a9', '00ae', '1f170', '1f171', '1f17e', '1f17f', '1f202', '1f237', '203c', '2049', '2122',
-    '2139', '2194', '2195', '2196', '2197', '2198', '2199', '21a9', '21aa', '23cf', '24c2', '25aa',
-    '25ab', '25b6', '25c0', '25fb', '25fc', '2600', '2601', '2602', '2603', '260e', '2611', '262f',
-    '263a', '2640', '2642', '265f', '2660', '2663', '2665', '2666', '2668', '267b', '267e', '2695',
-    '26a0', '2702', '2708', '2709', '270f', '2712', '2714', '2716', '271d', '2721', '2733', '2734',
-    '2744', '2747', '2763', '2764', '27a1', '2934', '2935', '2b05', '2b06', '2b07', '3030', '303d',
-    '3297', '3299',
-  ].forEach((key) => {
-    const item = object[key].code_points;
-    const correct = `${key}-fe0f`;
-    item.output = correct;
-    item.fully_qualified = correct;
-    item.non_fully_qualified = key;
-    item.default_matches = [key, correct];
-  });
-};
-
-const getKeys = () => Object.keys(emojis);
-const sortByLength = (a, b) => b.length - a.length;
-
-const isSuggestable = (key) => {
-  const { shortname, display, diversity, category, unicode_version } = emojis[key];
+const isSuggestable = (hash, key) => {
+  const { shortname, display, diversity, category, unicode_version } = hash[key].data;
 
   const isDisplayable = Boolean(display);
   const isOptional = Boolean(diversity);
@@ -72,21 +44,36 @@ const isSuggestable = (key) => {
     shapeRegex,
   ].every((regex) => !regex.test(shortname));
 
-  const isSupported = SUPPORTED_UNICODE_VERSION >= unicode_version;
+  const isSupported = SUGGESTABLE_UNICODE_VERSION >= unicode_version;
 
   return isDisplayable && !isOptional && !isSkipped && isDesirable && isSupported;
 };
 
-const getCollection = () => {
-  const keys = getKeys();
+const getEmojiData = (spec, assets) => spec.reduce((acc, item) => {
+  const { codePoint: hex, qualified } = item;
+  const key = hexToId(hex);
 
-  keys.sort((keyA, keyB) => emojis[keyA].order - emojis[keyB].order);
+  if (!assets[key]) {
+    console.warn(`Coundn't find ${key} in the assets data`);
+    return acc;
+  }
+
+  if (!acc[key]) acc[key] = { codePoints: [], data: assets[key] };
+  acc[key].codePoints.push({ hex, qualified });
+
+  return acc;
+}, {});
+
+const getCollection = (hash) => {
+  const keys = Object.keys(hash);
+
+  keys.sort((keyA, keyB) => hash[keyA].data.order - hash[keyB].data.order);
 
   return keys.reduce((acc, key) => {
-    const { category, shortname, code_points } = emojis[key];
-
-    const hex = code_points.output;
-    const suggest = isSuggestable(key);
+    const { codePoints, data: { category, shortname } } = hash[key];
+    const fullyQualified = codePoints.find(({ qualified }) => qualified === FULL_REPRESENTATION);
+    const { hex } = fullyQualified || codePoints[0];
+    const suggest = isSuggestable(hash, key);
 
     acc.push({ category, shortname, hex, suggest });
 
@@ -94,33 +81,17 @@ const getCollection = () => {
   }, []);
 };
 
-const getRegex = () => {
-  const keys = getKeys();
+const getRegex = (hash) => {
+  const keys = Object.keys(hash);
 
-  const fromCodePoint = (codepoint) => {
-    const code = parseInt(codepoint, 16);
-    if (code < 0x10000) return String.fromCharCode(code);
+  const allCodes = keys.reduce((acc, key) => (
+    acc.concat(hash[key].codePoints.map(({ hex }) => hex))
+  ), []);
 
-    const base = code - 0x10000;
-    return String.fromCharCode(0xD800 + (base >> 10), 0xDC00 + (base & 0x3FF));
-  };
-
-  const codes = keys.reduce((acc, key) => {
-    const {
-      output,
-      fully_qualified,
-      non_fully_qualified,
-      default_matches,
-    } = emojis[key].code_points;
-
-    const matchable = [output, fully_qualified, non_fully_qualified].concat(default_matches);
-    const filtered = uniq(matchable);
-
-    return acc.concat(filtered);
-  }, []);
+  const codes = uniq(allCodes);
 
   // Sort by length (longest first) to avoid partial matches
-  codes.sort(sortByLength);
+  codes.sort((a, b) => b.length - a.length);
 
   // Important to sort before converting, JS engine can't sort unicode sequences properly
   const sequences = codes.map((hex) => hex.split('-').map(fromCodePoint).join(''));
@@ -131,14 +102,25 @@ const getRegex = () => {
   return `(${trie.toString()})`;
 };
 
-const runTask = () => {
-  patchEmojioneSource(emojis);
-  const collection = getCollection();
-  const emojiRegex = getRegex();
+const runTask = async(string) => {
+  const unicodeVersion = getUnicodeVersion(string);
+  const specArray = await getUnicodeSpec(unicodeVersion);
+  const assetHash = require('emojione-assets/emoji');
+  const processedHash = getEmojiData(specArray, assetHash);
+
+  const resultsDiff = difference(Object.keys(assetHash), Object.keys(processedHash));
+  if (resultsDiff.length) {
+    console.log(`${resultsDiff.length} keys were omitted by the spec:`, resultsDiff.join(', '));
+  }
+
+  const collection = getCollection(processedHash);
+  const emojiRegex = getRegex(processedHash);
+
   const shortnameRegex = '(:[\\w-]+:)';
   const total = collection.length;
+  const assetsVersion = getAssetsVersion();
 
-  const json = { collection, emojiRegex, shortnameRegex, total };
+  const json = { collection, emojiRegex, shortnameRegex, total, unicodeVersion, assetsVersion };
   const content = `${JSON.stringify(json, null, 2)}\n`;
   fs.writeFileSync(OUTPUT, content);
 

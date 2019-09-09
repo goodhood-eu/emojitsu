@@ -1,5 +1,5 @@
-const { logResult } = require('./utils');
-const { codePointToUnicode } = require('../lib/utils');
+const { logResult } = require('./utils/log');
+const { codePointToUnicode } = require('../lib/conversions');
 
 const process = (style) => {
   const { collection } = require('../vendor/emojis');

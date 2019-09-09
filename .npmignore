@@ -1,4 +1,5 @@
 !lib/
+build/
 scaffolding/
 src/
 tasks/

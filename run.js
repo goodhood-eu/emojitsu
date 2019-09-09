@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const { logError } = require('./tasks/utils');
+const { logError } = require('./tasks/utils/log');
 
 const taskName = process.argv[2];
 if (!taskName) { logError('Specify a task to run, e.g.: sitemap'); }

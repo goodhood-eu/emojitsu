@@ -35,5 +35,8 @@ node_modules/*
 # Compiled files
 lib/
 
+# Build files
+build/
+
 # Test files
 raw-emoji-*.json
