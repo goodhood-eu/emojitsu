@@ -6,10 +6,11 @@
   "readmeFilename": "README.md",
   "repository": "goodhood-eu/emojitsu",
   "bugs": "https://github.com/goodhood-eu/emojitsu/issues",
-  "version": "2.5.0",
+  "version": "3.0.0",
   "keywords": [
     "emoji",
     "emojione",
+    "joypixels",
     "emojify"
   ],
   "main": "lib/index.js",
@@ -38,7 +39,7 @@
     "babel-plugin-add-module-exports": "^1.0.2",
     "chai": "^4.2.0",
     "chalk": "^2.4.2",
-    "emojione-assets": "4.5.0",
+    "emoji-assets": "5.0.2",
     "eslint": "^6.1.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",

@@ -105,7 +105,7 @@ const getRegex = (hash) => {
 const runTask = async(string) => {
   const unicodeVersion = getUnicodeVersion(string);
   const specArray = await getUnicodeSpec(unicodeVersion);
-  const assetHash = require('emojione-assets/emoji');
+  const assetHash = require('emoji-assets/emoji');
   const processedHash = getEmojiData(specArray, assetHash);
 
   const resultsDiff = difference(Object.keys(assetHash), Object.keys(processedHash));

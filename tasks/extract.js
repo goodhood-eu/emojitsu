@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const emojis = require('emojione-assets/emoji');
+const emojis = require('emoji-assets/emoji');
 const { logResult } = require('./utils/log');
 const { getVersion } = require('./utils/assets');
 
