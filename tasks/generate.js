@@ -15,6 +15,8 @@ const { getUnicodeSpec } = require('./utils/data');
 
 const { SUGGESTABLE_UNICODE_VERSION } = require('./utils/versions');
 
+const FULL_REPRESENTATION = 'fully-qualified';
+
 
 // These are not to be shown in the suggestions because they are nonsense
 const SKIPPED_CATEGORIES = [
@@ -48,7 +50,7 @@ const isSuggestable = (hash, key) => {
 };
 
 const getEmojiData = (spec, assets) => spec.reduce((acc, item) => {
-  const { codePoint: hex, unicode, qualified } = item;
+  const { codePoint: hex, qualified } = item;
   const key = hexToId(hex);
 
   if (!assets[key]) {
@@ -57,7 +59,7 @@ const getEmojiData = (spec, assets) => spec.reduce((acc, item) => {
   }
 
   if (!acc[key]) acc[key] = { codePoints: [], data: assets[key] };
-  acc[key].codePoints.push({ hex, unicode, qualified });
+  acc[key].codePoints.push({ hex, qualified });
 
   return acc;
 }, {});
@@ -69,11 +71,8 @@ const getCollection = (hash) => {
 
   return keys.reduce((acc, key) => {
     const { codePoints, data: { category, shortname } } = hash[key];
-
-    const qualifiedCodePoint = codePoints.find(({ qualified }) => qualified === 'fully-qualified');
-    const codePoint = qualifiedCodePoint || codePoints[0];
-
-    const { hex } = codePoint;
+    const fullyQualified = codePoints.find(({ qualified }) => qualified === FULL_REPRESENTATION);
+    const { hex } = fullyQualified || codePoints[0];
     const suggest = isSuggestable(hash, key);
 
     acc.push({ category, shortname, hex, suggest });
