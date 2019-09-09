@@ -50,7 +50,7 @@ const isSuggestable = (hash, key) => {
 };
 
 const getEmojiData = (spec, assets) => spec.reduce((acc, item) => {
-  const { codePoint: hex, unicode, qualified } = item;
+  const { codePoint: hex, qualified } = item;
   const key = hexToId(hex);
 
   if (!assets[key]) {
@@ -59,7 +59,7 @@ const getEmojiData = (spec, assets) => spec.reduce((acc, item) => {
   }
 
   if (!acc[key]) acc[key] = { codePoints: [], data: assets[key] };
-  acc[key].codePoints.push({ hex, unicode, qualified });
+  acc[key].codePoints.push({ hex, qualified });
 
   return acc;
 }, {});
