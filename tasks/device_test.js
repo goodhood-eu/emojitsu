@@ -62,7 +62,7 @@ const processEmojis = (list) => {
 const process = async(type = 'ios') => {
   const file = path.resolve(`${__dirname}/../scaffolding/emojis_${type}.txt`);
   const raw = fs.readFileSync(file, 'utf8');
-  const spec = raw.split(/\s+/).map((string) => string.trim());
+  const spec = raw.split(/\s+/).map((string) => string.trim()).filter((item) => item.length);
 
   console.log(`Running ${type} tests`);
   processEmojis(spec);
