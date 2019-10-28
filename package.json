@@ -6,7 +6,7 @@
   "readmeFilename": "README.md",
   "repository": "goodhood-eu/emojitsu",
   "bugs": "https://github.com/goodhood-eu/emojitsu/issues",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "keywords": [
     "emoji",
     "emojione",
@@ -38,8 +38,7 @@
     "chalk": "^2.4.2",
     "emoji-assets": "5.0.2",
     "eslint": "^6.6.0",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.18.2",
+    "eslint-config-nebenan-base": "^1.0.2",
     "express": "^4.17.1",
     "got": "^9.6.0",
     "lodash.difference": "^4.5.0",
