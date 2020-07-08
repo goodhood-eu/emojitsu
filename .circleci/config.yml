@@ -5,7 +5,7 @@ jobs:
       ignore:
         - master # only test new branches
     docker:
-      - image: circleci/node:8
+      - image: circleci/node:12
     steps:
       - checkout
 

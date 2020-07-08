@@ -5,11 +5,11 @@ In a given string convert unicode and `:shortcode:` emojis to `<img />` tags.
 
 ## Unicode version
 
-Currently supported Unicode version: `12.0`. Minimum supported `emoji-assets` version: `5.0.2`.
+Currently supported Unicode version: `13.0`. Minimum supported `emoji-assets` version: `6.0.0`.
 
 ## Usage:
 
-This package is a collection of utility functions loosely based to `twemoji` and `joypixels` javascript libraries. It aims to completely replace those with a modern ES implementation, full unicode spec support and flexible image collection support. SVG sprites are not supported for performance reasons. For best results pair with https://github.com/joypixels/emoji-assets.
+This package is a collection of utility functions loosely based on `twemoji` and `joypixels` javascript libraries. It aims to completely replace those with a modern ES implementation, full unicode spec support and flexible image collection support. SVG sprites are not supported for performance reasons. For best results pair with https://github.com/joypixels/emoji-assets.
 
 ## Functions:
 
@@ -54,7 +54,7 @@ Render functions and some helper functions support these options. This list cont
   size: 64, // size of emojis to use when the default CDN is used
   className: null, // CSS class to use when rendering image tags
   unsafe: false, // when set to true, render will NOT sanitize the string, e.g. it forces "unsafe" output
-  single: false, // when a string contains just a single emoji this speeds render a bit
+  single: false, // when a string contains just a single emoji this speeds up render a bit
   cdn: undefined, // a CDN to use for image paths
 }
 ```
