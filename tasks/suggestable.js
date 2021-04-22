@@ -1,7 +1,7 @@
 const { logResult } = require('./utils/log');
 const { codePointToUnicode } = require('../lib/conversions');
 
-const process = (style) => {
+const run = (style) => {
   const { collection } = require('../vendor/emojis');
   const suggested = collection.reduce((acc, { hex, shortname, suggest }) => {
     if (suggest) acc.push([shortname, codePointToUnicode(hex)]);
@@ -23,4 +23,4 @@ const process = (style) => {
   logResult(result);
 };
 
-module.exports = process;
+module.exports = run;

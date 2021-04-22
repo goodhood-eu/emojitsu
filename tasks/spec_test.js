@@ -78,7 +78,7 @@ const processEmojis = (list) => {
   if (errors.length) return logError(`Processing failed:\n${errors.join('\n')}`);
 };
 
-const process = async(string) => {
+const run = async(string) => {
   const version = getVersion(string);
   const spec = await getUnicodeSpec(version);
 
@@ -87,4 +87,4 @@ const process = async(string) => {
   logSuccess(`${spec.length} emoji matched OK`);
 };
 
-module.exports = process;
+module.exports = run;

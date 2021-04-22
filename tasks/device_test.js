@@ -59,7 +59,7 @@ const processEmojis = (list) => {
   if (errors.length) return logError(`Processing failed:\n${errors.join('\n')}`);
 };
 
-const process = async(type = 'ios') => {
+const run = async(type = 'ios') => {
   const file = path.resolve(`${__dirname}/../scaffolding/emojis_${type}.txt`);
   const raw = fs.readFileSync(file, 'utf8');
   const spec = raw.split(/\s+/).map((string) => string.trim()).filter((item) => item.length);
@@ -69,4 +69,4 @@ const process = async(type = 'ios') => {
   logSuccess(`${spec.length} ${type} emoji matched OK`);
 };
 
-module.exports = process;
+module.exports = run;
