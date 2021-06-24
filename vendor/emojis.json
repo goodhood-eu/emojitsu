@@ -1952,12 +1952,6 @@
     },
     {
       "category": "people",
-      "shortname": ":bone:",
-      "hex": "1f9b4",
-      "suggest": true
-    },
-    {
-      "category": "people",
       "shortname": ":tongue:",
       "hex": "1f445",
       "suggest": true
@@ -2105,6 +2099,12 @@
       "shortname": ":lungs:",
       "hex": "1fac1",
       "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":bone:",
+      "hex": "1f9b4",
+      "suggest": true
     },
     {
       "category": "people",
@@ -5840,15 +5840,15 @@
     },
     {
       "category": "people",
-      "shortname": ":woman_supervillain_tone1:",
-      "hex": "1f9b9-1f3fb-200d-2640-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "people",
       "shortname": ":woman_supervillain:",
       "hex": "1f9b9-200d-2640-fe0f",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":woman_supervillain_tone1:",
+      "hex": "1f9b9-1f3fb-200d-2640-fe0f",
+      "suggest": false
     },
     {
       "category": "people",
@@ -8774,14 +8774,14 @@
     },
     {
       "category": "people",
-      "shortname": ":person_with_probing_cane_tone1:",
-      "hex": "1f9d1-1f3fb-200d-1f9af",
+      "shortname": ":person_with_probing_cane:",
+      "hex": "1f9d1-200d-1f9af",
       "suggest": false
     },
     {
       "category": "people",
-      "shortname": ":person_with_probing_cane:",
-      "hex": "1f9d1-200d-1f9af",
+      "shortname": ":person_with_probing_cane_tone1:",
+      "hex": "1f9d1-1f3fb-200d-1f9af",
       "suggest": false
     },
     {
@@ -19829,5 +19829,5 @@
   "shortnameRegex": "(:[\\w-]+:)",
   "total": 3304,
   "unicodeVersion": "13.0",
-  "assetsVersion": "6.0.0"
+  "assetsVersion": "6.5.0"
 }
