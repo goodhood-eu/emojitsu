@@ -32,6 +32,12 @@
     },
     {
       "category": "people",
+      "shortname": ":face_holding_back_tears:",
+      "hex": "1f979",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":sweat_smile:",
       "hex": "1f605",
       "suggest": true
@@ -47,6 +53,12 @@
       "shortname": ":rofl:",
       "hex": "1f923",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":smiling_face_with_tear:",
+      "hex": "1f972",
+      "suggest": false
     },
     {
       "category": "people",
@@ -89,12 +101,6 @@
       "shortname": ":relieved:",
       "hex": "1f60c",
       "suggest": true
-    },
-    {
-      "category": "people",
-      "shortname": ":smiling_face_with_tear:",
-      "hex": "1f972",
-      "suggest": false
     },
     {
       "category": "people",
@@ -185,6 +191,12 @@
       "shortname": ":sunglasses:",
       "hex": "1f60e",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":disguised_face:",
+      "hex": "1f978",
+      "suggest": false
     },
     {
       "category": "people",
@@ -338,6 +350,12 @@
     },
     {
       "category": "people",
+      "shortname": ":face_in_clouds:",
+      "hex": "1f636-200d-1f32b-fe0f",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":scream:",
       "hex": "1f631",
       "suggest": true
@@ -380,21 +398,39 @@
     },
     {
       "category": "people",
+      "shortname": ":face_with_peeking_eye:",
+      "hex": "1fae3",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":face_with_hand_over_mouth:",
       "hex": "1f92d",
       "suggest": true
     },
     {
       "category": "people",
-      "shortname": ":yawning_face:",
-      "hex": "1f971",
-      "suggest": true
+      "shortname": ":face_with_open_eyes_and_hand_over_mouth:",
+      "hex": "1fae2",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":saluting_face:",
+      "hex": "1fae1",
+      "suggest": false
     },
     {
       "category": "people",
       "shortname": ":shushing_face:",
       "hex": "1f92b",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":melting_face:",
+      "hex": "1fae0",
+      "suggest": false
     },
     {
       "category": "people",
@@ -410,9 +446,21 @@
     },
     {
       "category": "people",
+      "shortname": ":dotted_line_face:",
+      "hex": "1fae5",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":neutral_face:",
       "hex": "1f610",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":face_with_diagonal_mouth:",
+      "hex": "1fae4",
+      "suggest": false
     },
     {
       "category": "people",
@@ -464,6 +512,12 @@
     },
     {
       "category": "people",
+      "shortname": ":yawning_face:",
+      "hex": "1f971",
+      "suggest": true
+    },
+    {
+      "category": "people",
       "shortname": ":sleeping:",
       "hex": "1f634",
       "suggest": true
@@ -482,9 +536,21 @@
     },
     {
       "category": "people",
+      "shortname": ":face_exhaling:",
+      "hex": "1f62e-200d-1f4a8",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":dizzy_face:",
       "hex": "1f635",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":face_with_spiral_eyes:",
+      "hex": "1f635-200d-1f4ab",
+      "suggest": false
     },
     {
       "category": "people",
@@ -545,12 +611,6 @@
       "shortname": ":cowboy:",
       "hex": "1f920",
       "suggest": true
-    },
-    {
-      "category": "people",
-      "shortname": ":disguised_face:",
-      "hex": "1f978",
-      "suggest": false
     },
     {
       "category": "people",
@@ -683,6 +743,42 @@
       "shortname": ":pouting_cat:",
       "hex": "1f63e",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":heart_hands:",
+      "hex": "1faf6",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":heart_hands_tone1:",
+      "hex": "1faf6-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":heart_hands_tone2:",
+      "hex": "1faf6-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":heart_hands_tone3:",
+      "hex": "1faf6-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":heart_hands_tone4:",
+      "hex": "1faf6-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":heart_hands_tone5:",
+      "hex": "1faf6-1f3ff",
+      "suggest": false
     },
     {
       "category": "people",
@@ -833,6 +929,156 @@
       "shortname": ":handshake:",
       "hex": "1f91d",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":no_name:",
+      "hex": "1f91d-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone1_tone2:",
+      "hex": "1faf1-1f3fb-200d-1faf2-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone1_tone3:",
+      "hex": "1faf1-1f3fb-200d-1faf2-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone1_tone4:",
+      "hex": "1faf1-1f3fb-200d-1faf2-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone1_tone5:",
+      "hex": "1faf1-1f3fb-200d-1faf2-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone2_tone1:",
+      "hex": "1faf1-1f3fc-200d-1faf2-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":no_name:",
+      "hex": "1f91d-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone2_tone3:",
+      "hex": "1faf1-1f3fc-200d-1faf2-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone2_tone4:",
+      "hex": "1faf1-1f3fc-200d-1faf2-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone2_tone5:",
+      "hex": "1faf1-1f3fc-200d-1faf2-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone3_tone1:",
+      "hex": "1faf1-1f3fd-200d-1faf2-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone3_tone2:",
+      "hex": "1faf1-1f3fd-200d-1faf2-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":no_name:",
+      "hex": "1f91d-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone3_tone4:",
+      "hex": "1faf1-1f3fd-200d-1faf2-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone3_tone5:",
+      "hex": "1faf1-1f3fd-200d-1faf2-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone4_tone1:",
+      "hex": "1faf1-1f3fe-200d-1faf2-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone4_tone2:",
+      "hex": "1faf1-1f3fe-200d-1faf2-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone4_tone3:",
+      "hex": "1faf1-1f3fe-200d-1faf2-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":no_name:",
+      "hex": "1f91d-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone4_tone5:",
+      "hex": "1faf1-1f3fe-200d-1faf2-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone5_tone1:",
+      "hex": "1faf1-1f3ff-200d-1faf2-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone5_tone2:",
+      "hex": "1faf1-1f3ff-200d-1faf2-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone5_tone3:",
+      "hex": "1faf1-1f3ff-200d-1faf2-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":handshake_tone5_tone4:",
+      "hex": "1faf1-1f3ff-200d-1faf2-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":no_name:",
+      "hex": "1f91d-1f3ff",
+      "suggest": false
     },
     {
       "category": "people",
@@ -1124,6 +1370,42 @@
     },
     {
       "category": "people",
+      "shortname": ":hand_with_index_finger_and_thumb_crossed:",
+      "hex": "1faf0",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":hand_with_index_finger_and_thumb_crossed_tone1:",
+      "hex": "1faf0-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":hand_with_index_finger_and_thumb_crossed_tone2:",
+      "hex": "1faf0-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":hand_with_index_finger_and_thumb_crossed_tone3:",
+      "hex": "1faf0-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":hand_with_index_finger_and_thumb_crossed_tone4:",
+      "hex": "1faf0-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":hand_with_index_finger_and_thumb_crossed_tone5:",
+      "hex": "1faf0-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":love_you_gesture:",
       "hex": "1f91f",
       "suggest": true
@@ -1232,6 +1514,42 @@
     },
     {
       "category": "people",
+      "shortname": ":pinched_fingers:",
+      "hex": "1f90c",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pinched_fingers_tone2:",
+      "hex": "1f90c-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pinched_fingers_tone1:",
+      "hex": "1f90c-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pinched_fingers_tone3:",
+      "hex": "1f90c-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pinched_fingers_tone4:",
+      "hex": "1f90c-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pinched_fingers_tone5:",
+      "hex": "1f90c-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":pinching_hand:",
       "hex": "1f90f",
       "suggest": true
@@ -1268,38 +1586,74 @@
     },
     {
       "category": "people",
-      "shortname": ":pinched_fingers:",
-      "hex": "1f90c",
+      "shortname": ":palm_down_hand:",
+      "hex": "1faf3",
       "suggest": false
     },
     {
       "category": "people",
-      "shortname": ":pinched_fingers_tone2:",
-      "hex": "1f90c-1f3fc",
+      "shortname": ":palm_down_hand_tone1:",
+      "hex": "1faf3-1f3fb",
       "suggest": false
     },
     {
       "category": "people",
-      "shortname": ":pinched_fingers_tone1:",
-      "hex": "1f90c-1f3fb",
+      "shortname": ":palm_down_hand_tone2:",
+      "hex": "1faf3-1f3fc",
       "suggest": false
     },
     {
       "category": "people",
-      "shortname": ":pinched_fingers_tone3:",
-      "hex": "1f90c-1f3fd",
+      "shortname": ":palm_down_hand_tone3:",
+      "hex": "1faf3-1f3fd",
       "suggest": false
     },
     {
       "category": "people",
-      "shortname": ":pinched_fingers_tone4:",
-      "hex": "1f90c-1f3fe",
+      "shortname": ":palm_down_hand_tone4:",
+      "hex": "1faf3-1f3fe",
       "suggest": false
     },
     {
       "category": "people",
-      "shortname": ":pinched_fingers_tone5:",
-      "hex": "1f90c-1f3ff",
+      "shortname": ":palm_down_hand_tone5:",
+      "hex": "1faf3-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":palm_up_hand:",
+      "hex": "1faf4",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":palm_up_hand_tone1:",
+      "hex": "1faf4-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":palm_up_hand_tone2:",
+      "hex": "1faf4-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":palm_up_hand_tone3:",
+      "hex": "1faf4-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":palm_up_hand_tone4:",
+      "hex": "1faf4-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":palm_up_hand_tone5:",
+      "hex": "1faf4-1f3ff",
       "suggest": false
     },
     {
@@ -1700,6 +2054,78 @@
     },
     {
       "category": "people",
+      "shortname": ":leftwards_hand:",
+      "hex": "1faf2",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":leftwards_hand_tone1:",
+      "hex": "1faf2-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":leftwards_hand_tone2:",
+      "hex": "1faf2-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":leftwards_hand_tone3:",
+      "hex": "1faf2-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":leftwards_hand_tone4:",
+      "hex": "1faf2-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":leftwards_hand_tone5:",
+      "hex": "1faf2-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":rightwards_hand:",
+      "hex": "1faf1",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":rightwards_hand_tone1:",
+      "hex": "1faf1-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":rightwards_hand_tone2:",
+      "hex": "1faf1-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":rightwards_hand_tone3:",
+      "hex": "1faf1-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":rightwards_hand_tone4:",
+      "hex": "1faf1-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":rightwards_hand_tone5:",
+      "hex": "1faf1-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":muscle:",
       "hex": "1f4aa",
       "suggest": true
@@ -1850,6 +2276,42 @@
     },
     {
       "category": "people",
+      "shortname": ":index_pointing_at_the_viewer:",
+      "hex": "1faf5",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":index_pointing_at_the_viewer_tone1:",
+      "hex": "1faf5-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":index_pointing_at_the_viewer_tone2:",
+      "hex": "1faf5-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":index_pointing_at_the_viewer_tone3:",
+      "hex": "1faf5-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":index_pointing_at_the_viewer_tone4:",
+      "hex": "1faf5-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":index_pointing_at_the_viewer_tone5:",
+      "hex": "1faf5-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":foot:",
       "hex": "1f9b6",
       "suggest": true
@@ -1943,6 +2405,12 @@
       "shortname": ":lips:",
       "hex": "1f444",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":biting_lip:",
+      "hex": "1fae6",
+      "suggest": false
     },
     {
       "category": "people",
@@ -2084,12 +2552,6 @@
     },
     {
       "category": "people",
-      "shortname": ":brain:",
-      "hex": "1f9e0",
-      "suggest": true
-    },
-    {
-      "category": "people",
       "shortname": ":anatomical_heart:",
       "hex": "1fac0",
       "suggest": false
@@ -2102,8 +2564,8 @@
     },
     {
       "category": "people",
-      "shortname": ":bone:",
-      "hex": "1f9b4",
+      "shortname": ":brain:",
+      "hex": "1f9e0",
       "suggest": true
     },
     {
@@ -2168,42 +2630,6 @@
     },
     {
       "category": "people",
-      "shortname": ":girl:",
-      "hex": "1f467",
-      "suggest": true
-    },
-    {
-      "category": "people",
-      "shortname": ":girl_tone1:",
-      "hex": "1f467-1f3fb",
-      "suggest": false
-    },
-    {
-      "category": "people",
-      "shortname": ":girl_tone2:",
-      "hex": "1f467-1f3fc",
-      "suggest": false
-    },
-    {
-      "category": "people",
-      "shortname": ":girl_tone3:",
-      "hex": "1f467-1f3fd",
-      "suggest": false
-    },
-    {
-      "category": "people",
-      "shortname": ":girl_tone4:",
-      "hex": "1f467-1f3fe",
-      "suggest": false
-    },
-    {
-      "category": "people",
-      "shortname": ":girl_tone5:",
-      "hex": "1f467-1f3ff",
-      "suggest": false
-    },
-    {
-      "category": "people",
       "shortname": ":child:",
       "hex": "1f9d2",
       "suggest": true
@@ -2236,6 +2662,42 @@
       "category": "people",
       "shortname": ":child_tone5:",
       "hex": "1f9d2-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":girl:",
+      "hex": "1f467",
+      "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":girl_tone1:",
+      "hex": "1f467-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":girl_tone2:",
+      "hex": "1f467-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":girl_tone3:",
+      "hex": "1f467-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":girl_tone4:",
+      "hex": "1f467-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":girl_tone5:",
+      "hex": "1f467-1f3ff",
       "suggest": false
     },
     {
@@ -2276,42 +2738,6 @@
     },
     {
       "category": "people",
-      "shortname": ":woman:",
-      "hex": "1f469",
-      "suggest": true
-    },
-    {
-      "category": "people",
-      "shortname": ":woman_tone1:",
-      "hex": "1f469-1f3fb",
-      "suggest": false
-    },
-    {
-      "category": "people",
-      "shortname": ":woman_tone2:",
-      "hex": "1f469-1f3fc",
-      "suggest": false
-    },
-    {
-      "category": "people",
-      "shortname": ":woman_tone3:",
-      "hex": "1f469-1f3fd",
-      "suggest": false
-    },
-    {
-      "category": "people",
-      "shortname": ":woman_tone4:",
-      "hex": "1f469-1f3fe",
-      "suggest": false
-    },
-    {
-      "category": "people",
-      "shortname": ":woman_tone5:",
-      "hex": "1f469-1f3ff",
-      "suggest": false
-    },
-    {
-      "category": "people",
       "shortname": ":adult:",
       "hex": "1f9d1",
       "suggest": true
@@ -2344,6 +2770,42 @@
       "category": "people",
       "shortname": ":adult_tone5:",
       "hex": "1f9d1-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":woman:",
+      "hex": "1f469",
+      "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":woman_tone1:",
+      "hex": "1f469-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":woman_tone2:",
+      "hex": "1f469-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":woman_tone3:",
+      "hex": "1f469-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":woman_tone4:",
+      "hex": "1f469-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":woman_tone5:",
+      "hex": "1f469-1f3ff",
       "suggest": false
     },
     {
@@ -2600,42 +3062,6 @@
     },
     {
       "category": "people",
-      "shortname": ":blond-haired_woman:",
-      "hex": "1f471-200d-2640-fe0f",
-      "suggest": true
-    },
-    {
-      "category": "people",
-      "shortname": ":blond-haired_woman_tone1:",
-      "hex": "1f471-1f3fb-200d-2640-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "people",
-      "shortname": ":blond-haired_woman_tone2:",
-      "hex": "1f471-1f3fc-200d-2640-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "people",
-      "shortname": ":blond-haired_woman_tone3:",
-      "hex": "1f471-1f3fd-200d-2640-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "people",
-      "shortname": ":blond-haired_woman_tone4:",
-      "hex": "1f471-1f3fe-200d-2640-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "people",
-      "shortname": ":blond-haired_woman_tone5:",
-      "hex": "1f471-1f3ff-200d-2640-fe0f",
-      "suggest": false
-    },
-    {
-      "category": "people",
       "shortname": ":blond_haired_person:",
       "hex": "1f471",
       "suggest": true
@@ -2668,6 +3094,42 @@
       "category": "people",
       "shortname": ":blond_haired_person_tone5:",
       "hex": "1f471-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":blond-haired_woman:",
+      "hex": "1f471-200d-2640-fe0f",
+      "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":blond-haired_woman_tone1:",
+      "hex": "1f471-1f3fb-200d-2640-fe0f",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":blond-haired_woman_tone2:",
+      "hex": "1f471-1f3fc-200d-2640-fe0f",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":blond-haired_woman_tone3:",
+      "hex": "1f471-1f3fd-200d-2640-fe0f",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":blond-haired_woman_tone4:",
+      "hex": "1f471-1f3fe-200d-2640-fe0f",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":blond-haired_woman_tone5:",
+      "hex": "1f471-1f3ff-200d-2640-fe0f",
       "suggest": false
     },
     {
@@ -2960,38 +3422,74 @@
     },
     {
       "category": "people",
-      "shortname": ":older_woman:",
-      "hex": "1f475",
-      "suggest": true
-    },
-    {
-      "category": "people",
-      "shortname": ":older_woman_tone1:",
-      "hex": "1f475-1f3fb",
+      "shortname": ":woman_beard:",
+      "hex": "1f9d4-200d-2640-fe0f",
       "suggest": false
     },
     {
       "category": "people",
-      "shortname": ":older_woman_tone2:",
-      "hex": "1f475-1f3fc",
+      "shortname": ":woman_tone1_beard:",
+      "hex": "1f9d4-1f3fb-200d-2640-fe0f",
       "suggest": false
     },
     {
       "category": "people",
-      "shortname": ":older_woman_tone3:",
-      "hex": "1f475-1f3fd",
+      "shortname": ":woman_tone2_beard:",
+      "hex": "1f9d4-1f3fc-200d-2640-fe0f",
       "suggest": false
     },
     {
       "category": "people",
-      "shortname": ":older_woman_tone4:",
-      "hex": "1f475-1f3fe",
+      "shortname": ":woman_tone3_beard:",
+      "hex": "1f9d4-1f3fd-200d-2640-fe0f",
       "suggest": false
     },
     {
       "category": "people",
-      "shortname": ":older_woman_tone5:",
-      "hex": "1f475-1f3ff",
+      "shortname": ":woman_tone4_beard:",
+      "hex": "1f9d4-1f3fe-200d-2640-fe0f",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":woman_tone5_beard:",
+      "hex": "1f9d4-1f3ff-200d-2640-fe0f",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":man_beard:",
+      "hex": "1f9d4-200d-2642-fe0f",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":man_tone1_beard:",
+      "hex": "1f9d4-1f3fb-200d-2642-fe0f",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":man_tone2_beard:",
+      "hex": "1f9d4-1f3fc-200d-2642-fe0f",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":man_tone3_beard:",
+      "hex": "1f9d4-1f3fd-200d-2642-fe0f",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":man_tone4_beard:",
+      "hex": "1f9d4-1f3fe-200d-2642-fe0f",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":man_tone5_beard:",
+      "hex": "1f9d4-1f3ff-200d-2642-fe0f",
       "suggest": false
     },
     {
@@ -3028,6 +3526,42 @@
       "category": "people",
       "shortname": ":older_adult_tone5:",
       "hex": "1f9d3-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":older_woman:",
+      "hex": "1f475",
+      "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":older_woman_tone1:",
+      "hex": "1f475-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":older_woman_tone2:",
+      "hex": "1f475-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":older_woman_tone3:",
+      "hex": "1f475-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":older_woman_tone4:",
+      "hex": "1f475-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":older_woman_tone5:",
+      "hex": "1f475-1f3ff",
       "suggest": false
     },
     {
@@ -5624,6 +6158,42 @@
     },
     {
       "category": "people",
+      "shortname": ":person_with_crown:",
+      "hex": "1fac5",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":person_with_crown_tone1:",
+      "hex": "1fac5-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":person_with_crown_tone2:",
+      "hex": "1fac5-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":person_with_crown_tone3:",
+      "hex": "1fac5-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":person_with_crown_tone4:",
+      "hex": "1fac5-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":person_with_crown_tone5:",
+      "hex": "1fac5-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":princess:",
       "hex": "1f478",
       "suggest": true
@@ -6272,6 +6842,12 @@
     },
     {
       "category": "people",
+      "shortname": ":troll:",
+      "hex": "1f9cc",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":vampire:",
       "hex": "1f9db",
       "suggest": true
@@ -6668,6 +7244,42 @@
     },
     {
       "category": "people",
+      "shortname": ":pregnant_person:",
+      "hex": "1fac4",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pregnant_person_tone1:",
+      "hex": "1fac4-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pregnant_person_tone2:",
+      "hex": "1fac4-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pregnant_person_tone3:",
+      "hex": "1fac4-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pregnant_person_tone4:",
+      "hex": "1fac4-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pregnant_person_tone5:",
+      "hex": "1fac4-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":pregnant_woman:",
       "hex": "1f930",
       "suggest": true
@@ -6700,6 +7312,42 @@
       "category": "people",
       "shortname": ":pregnant_woman_tone5:",
       "hex": "1f930-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pregnant_man:",
+      "hex": "1fac3",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pregnant_man_tone1:",
+      "hex": "1fac3-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pregnant_man_tone2:",
+      "hex": "1fac3-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pregnant_man_tone3:",
+      "hex": "1fac3-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pregnant_man_tone4:",
+      "hex": "1fac3-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":pregnant_man_tone5:",
+      "hex": "1fac3-1f3ff",
       "suggest": false
     },
     {
@@ -8858,14 +9506,14 @@
     },
     {
       "category": "people",
-      "shortname": ":man_with_probing_cane_tone3:",
-      "hex": "1f468-1f3fd-200d-1f9af",
+      "shortname": ":man_with_probing_cane_tone2:",
+      "hex": "1f468-1f3fc-200d-1f9af",
       "suggest": false
     },
     {
       "category": "people",
-      "shortname": ":man_with_probing_cane_tone2:",
-      "hex": "1f468-1f3fc-200d-1f9af",
+      "shortname": ":man_with_probing_cane_tone3:",
+      "hex": "1f468-1f3fd-200d-1f9af",
       "suggest": false
     },
     {
@@ -9836,9 +10484,309 @@
     },
     {
       "category": "people",
+      "shortname": ":couple_with_heart_tone1:",
+      "hex": "1f491-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone1_tone2:",
+      "hex": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone1_tone3:",
+      "hex": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone1_tone4:",
+      "hex": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone1_tone5:",
+      "hex": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f9d1-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone2_tone1:",
+      "hex": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f9d1-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_tone2:",
+      "hex": "1f491-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone2_tone3:",
+      "hex": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f9d1-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone2_tone4:",
+      "hex": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f9d1-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone2_tone5:",
+      "hex": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f9d1-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone3_tone1:",
+      "hex": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f9d1-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone3_tone2:",
+      "hex": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f9d1-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_tone3:",
+      "hex": "1f491-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone3_tone4:",
+      "hex": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f9d1-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone3_tone5:",
+      "hex": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f9d1-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone4_tone1:",
+      "hex": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f9d1-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone4_tone2:",
+      "hex": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f9d1-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone4_tone3:",
+      "hex": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f9d1-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_tone4:",
+      "hex": "1f491-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone4_tone5:",
+      "hex": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f9d1-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone5_tone1:",
+      "hex": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f9d1-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone5_tone2:",
+      "hex": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f9d1-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone5_tone3:",
+      "hex": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f9d1-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_person_person_tone5_tone4:",
+      "hex": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f9d1-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_tone5:",
+      "hex": "1f491-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":couple_with_heart_woman_man:",
       "hex": "1f469-200d-2764-fe0f-200d-1f468",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone1:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone1_tone2:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone1_tone3:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone1_tone4:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone1_tone5:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone2_tone1:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone2:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone2_tone3:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone2_tone4:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone2_tone5:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone3_tone1:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone3_tone2:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone3:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone3_tone4:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone3_tone5:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone4_tone1:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone4_tone2:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone4_tone3:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone4:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone4_tone5:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone5_tone1:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone5_tone2:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone5_tone3:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone5_tone4:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_man_tone5:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f468-1f3ff",
+      "suggest": false
     },
     {
       "category": "people",
@@ -9848,9 +10796,309 @@
     },
     {
       "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone1:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone1_tone2:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone1_tone3:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone1_tone4:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone1_tone5:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f469-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone2_tone1:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone2:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone2_tone3:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone2_tone4:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone2_tone5:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f469-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone3_tone1:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone3_tone2:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone3:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone3_tone4:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone3_tone5:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f469-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone4_tone1:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone4_tone2:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone4_tone3:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone4:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone4_tone5:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f469-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone5_tone1:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone5_tone2:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone5_tone3:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone5_tone4:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_woman_woman_tone5:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f469-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":couple_mm:",
       "hex": "1f468-200d-2764-fe0f-200d-1f468",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone1:",
+      "hex": "1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone1_tone2:",
+      "hex": "1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone1_tone3:",
+      "hex": "1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone1_tone4:",
+      "hex": "1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone1_tone5:",
+      "hex": "1f468-1f3fb-200d-2764-fe0f-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone2_tone1:",
+      "hex": "1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone2:",
+      "hex": "1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone2_tone3:",
+      "hex": "1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone2_tone4:",
+      "hex": "1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone2_tone5:",
+      "hex": "1f468-1f3fc-200d-2764-fe0f-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone3_tone1:",
+      "hex": "1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone3_tone2:",
+      "hex": "1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone3:",
+      "hex": "1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone3_tone4:",
+      "hex": "1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone3_tone5:",
+      "hex": "1f468-1f3fd-200d-2764-fe0f-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone4_tone1:",
+      "hex": "1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone4_tone2:",
+      "hex": "1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone4_tone3:",
+      "hex": "1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone4:",
+      "hex": "1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone4_tone5:",
+      "hex": "1f468-1f3fe-200d-2764-fe0f-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone5_tone1:",
+      "hex": "1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone5_tone2:",
+      "hex": "1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone5_tone3:",
+      "hex": "1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone5_tone4:",
+      "hex": "1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":couple_with_heart_man_man_tone5:",
+      "hex": "1f468-1f3ff-200d-2764-fe0f-200d-1f468-1f3ff",
+      "suggest": false
     },
     {
       "category": "people",
@@ -9860,9 +11108,309 @@
     },
     {
       "category": "people",
+      "shortname": ":kiss_tone1:",
+      "hex": "1f48f-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone1_tone2:",
+      "hex": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone1_tone3:",
+      "hex": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone1_tone4:",
+      "hex": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone1_tone5:",
+      "hex": "1f9d1-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone2_tone1:",
+      "hex": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_tone2:",
+      "hex": "1f48f-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone2_tone3:",
+      "hex": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone2_tone4:",
+      "hex": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone2_tone5:",
+      "hex": "1f9d1-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone3_tone1:",
+      "hex": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone3_tone2:",
+      "hex": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_tone3:",
+      "hex": "1f48f-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone3_tone4:",
+      "hex": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone3_tone5:",
+      "hex": "1f9d1-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone4_tone1:",
+      "hex": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone4_tone2:",
+      "hex": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone4_tone3:",
+      "hex": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_tone4:",
+      "hex": "1f48f-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone4_tone5:",
+      "hex": "1f9d1-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone5_tone1:",
+      "hex": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone5_tone2:",
+      "hex": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone5_tone3:",
+      "hex": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_person_person_tone5_tone4:",
+      "hex": "1f9d1-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f9d1-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_tone5:",
+      "hex": "1f48f-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":kiss_woman_man:",
       "hex": "1f469-200d-2764-fe0f-200d-1f48b-200d-1f468",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone1:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone1_tone2:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone1_tone3:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone1_tone4:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone1_tone5:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone2_tone1:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone2:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone2_tone3:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone2_tone4:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone2_tone5:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone3_tone1:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone3_tone2:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone3:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone3_tone4:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone3_tone5:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone4_tone1:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone4_tone2:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone4_tone3:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone4:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone4_tone5:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone5_tone1:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone5_tone2:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone5_tone3:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone5_tone4:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_man_tone5:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff",
+      "suggest": false
     },
     {
       "category": "people",
@@ -9872,9 +11420,309 @@
     },
     {
       "category": "people",
+      "shortname": ":kiss_woman_woman_tone1:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone1_tone2:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone1_tone3:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone1_tone4:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone1_tone5:",
+      "hex": "1f469-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone2_tone1:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone2:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone2_tone3:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone2_tone4:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone2_tone5:",
+      "hex": "1f469-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone3_tone1:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone3_tone2:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone3:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone3_tone4:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone3_tone5:",
+      "hex": "1f469-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone4_tone1:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone4_tone2:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone4_tone3:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone4:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone4_tone5:",
+      "hex": "1f469-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone5_tone1:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone5_tone2:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone5_tone3:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone5_tone4:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_woman_woman_tone5:",
+      "hex": "1f469-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":kiss_mm:",
       "hex": "1f468-200d-2764-fe0f-200d-1f48b-200d-1f468",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone1:",
+      "hex": "1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone1_tone2:",
+      "hex": "1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone1_tone3:",
+      "hex": "1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone1_tone4:",
+      "hex": "1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone1_tone5:",
+      "hex": "1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone2_tone1:",
+      "hex": "1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone2:",
+      "hex": "1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone2_tone3:",
+      "hex": "1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone2_tone4:",
+      "hex": "1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone2_tone5:",
+      "hex": "1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone3_tone1:",
+      "hex": "1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone3_tone2:",
+      "hex": "1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone3:",
+      "hex": "1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone3_tone4:",
+      "hex": "1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone3_tone5:",
+      "hex": "1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone4_tone1:",
+      "hex": "1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone4_tone2:",
+      "hex": "1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone4_tone3:",
+      "hex": "1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone4:",
+      "hex": "1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone4_tone5:",
+      "hex": "1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone5_tone1:",
+      "hex": "1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fb",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone5_tone2:",
+      "hex": "1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fc",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone5_tone3:",
+      "hex": "1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fd",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone5_tone4:",
+      "hex": "1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3fe",
+      "suggest": false
+    },
+    {
+      "category": "people",
+      "shortname": ":kiss_man_man_tone5:",
+      "hex": "1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f468-1f3ff",
+      "suggest": false
     },
     {
       "category": "people",
@@ -10034,6 +11882,12 @@
     },
     {
       "category": "people",
+      "shortname": ":knot:",
+      "hex": "1faa2",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":yarn:",
       "hex": "1f9f6",
       "suggest": true
@@ -10043,6 +11897,12 @@
       "shortname": ":thread:",
       "hex": "1f9f5",
       "suggest": true
+    },
+    {
+      "category": "people",
+      "shortname": ":sewing_needle:",
+      "hex": "1faa1",
+      "suggest": false
     },
     {
       "category": "people",
@@ -10130,6 +11990,12 @@
     },
     {
       "category": "people",
+      "shortname": ":thong_sandal:",
+      "hex": "1fa74",
+      "suggest": false
+    },
+    {
+      "category": "people",
       "shortname": ":womans_flat_shoe:",
       "hex": "1f97f",
       "suggest": true
@@ -10169,12 +12035,6 @@
       "shortname": ":hiking_boot:",
       "hex": "1f97e",
       "suggest": true
-    },
-    {
-      "category": "people",
-      "shortname": ":thong_sandal:",
-      "hex": "1fa74",
-      "suggest": false
     },
     {
       "category": "people",
@@ -10493,12 +12353,6 @@
       "shortname": ":duck:",
       "hex": "1f986",
       "suggest": true
-    },
-    {
-      "category": "nature",
-      "shortname": ":dodo:",
-      "hex": "1f9a4",
-      "suggest": false
     },
     {
       "category": "nature",
@@ -10928,6 +12782,12 @@
     },
     {
       "category": "nature",
+      "shortname": ":feather:",
+      "hex": "1fab6",
+      "suggest": false
+    },
+    {
+      "category": "nature",
       "shortname": ":rooster:",
       "hex": "1f413",
       "suggest": true
@@ -10937,6 +12797,12 @@
       "shortname": ":turkey:",
       "hex": "1f983",
       "suggest": true
+    },
+    {
+      "category": "nature",
+      "shortname": ":dodo:",
+      "hex": "1f9a4",
+      "suggest": false
     },
     {
       "category": "nature",
@@ -11138,8 +13004,14 @@
     },
     {
       "category": "nature",
-      "shortname": ":feather:",
-      "hex": "1fab6",
+      "shortname": ":empty_nest:",
+      "hex": "1fab9",
+      "suggest": false
+    },
+    {
+      "category": "nature",
+      "shortname": ":nest_with_eggs:",
+      "hex": "1faba",
       "suggest": false
     },
     {
@@ -11153,6 +13025,12 @@
       "shortname": ":shell:",
       "hex": "1f41a",
       "suggest": true
+    },
+    {
+      "category": "nature",
+      "shortname": ":coral:",
+      "hex": "1fab8",
+      "suggest": false
     },
     {
       "category": "nature",
@@ -11201,6 +13079,12 @@
       "shortname": ":wilted_rose:",
       "hex": "1f940",
       "suggest": true
+    },
+    {
+      "category": "nature",
+      "shortname": ":lotus:",
+      "hex": "1fab7",
+      "suggest": false
     },
     {
       "category": "nature",
@@ -11495,6 +13379,12 @@
       "shortname": ":sweat_drops:",
       "hex": "1f4a6",
       "suggest": true
+    },
+    {
+      "category": "nature",
+      "shortname": ":bubbles:",
+      "hex": "1fae7",
+      "suggest": false
     },
     {
       "category": "nature",
@@ -11810,6 +13700,12 @@
     },
     {
       "category": "food",
+      "shortname": ":bone:",
+      "hex": "1f9b4",
+      "suggest": true
+    },
+    {
+      "category": "food",
       "shortname": ":hotdog:",
       "hex": "1f32d",
       "suggest": true
@@ -11891,6 +13787,12 @@
       "shortname": ":canned_food:",
       "hex": "1f96b",
       "suggest": true
+    },
+    {
+      "category": "food",
+      "shortname": ":jar:",
+      "hex": "1fad9",
+      "suggest": false
     },
     {
       "category": "food",
@@ -12092,6 +13994,12 @@
     },
     {
       "category": "food",
+      "shortname": ":beans:",
+      "hex": "1fad8",
+      "suggest": false
+    },
+    {
+      "category": "food",
       "shortname": ":honey_pot:",
       "hex": "1f36f",
       "suggest": true
@@ -12104,9 +14012,21 @@
     },
     {
       "category": "food",
+      "shortname": ":pouring_liquid:",
+      "hex": "1fad7",
+      "suggest": false
+    },
+    {
+      "category": "food",
       "shortname": ":baby_bottle:",
       "hex": "1f37c",
       "suggest": true
+    },
+    {
+      "category": "food",
+      "shortname": ":teapot:",
+      "hex": "1fad6",
+      "suggest": false
     },
     {
       "category": "food",
@@ -12122,21 +14042,9 @@
     },
     {
       "category": "food",
-      "shortname": ":teapot:",
-      "hex": "1fad6",
-      "suggest": false
-    },
-    {
-      "category": "food",
       "shortname": ":mate:",
       "hex": "1f9c9",
       "suggest": true
-    },
-    {
-      "category": "food",
-      "shortname": ":bubble_tea:",
-      "hex": "1f9cb",
-      "suggest": false
     },
     {
       "category": "food",
@@ -12149,6 +14057,12 @@
       "shortname": ":cup_with_straw:",
       "hex": "1f964",
       "suggest": true
+    },
+    {
+      "category": "food",
+      "shortname": ":bubble_tea:",
+      "hex": "1f9cb",
+      "suggest": false
     },
     {
       "category": "food",
@@ -12308,12 +14222,6 @@
     },
     {
       "category": "activity",
-      "shortname": ":boomerang:",
-      "hex": "1fa83",
-      "suggest": false
-    },
-    {
-      "category": "activity",
       "shortname": ":8ball:",
       "hex": "1f3b1",
       "suggest": true
@@ -12362,6 +14270,12 @@
     },
     {
       "category": "activity",
+      "shortname": ":boomerang:",
+      "hex": "1fa83",
+      "suggest": false
+    },
+    {
+      "category": "activity",
       "shortname": ":goal:",
       "hex": "1f945",
       "suggest": true
@@ -12377,6 +14291,12 @@
       "shortname": ":kite:",
       "hex": "1fa81",
       "suggest": true
+    },
+    {
+      "category": "activity",
+      "shortname": ":playground_slide:",
+      "hex": "1f6dd",
+      "suggest": false
     },
     {
       "category": "activity",
@@ -14210,6 +16130,12 @@
     },
     {
       "category": "activity",
+      "shortname": ":accordion:",
+      "hex": "1fa97",
+      "suggest": false
+    },
+    {
+      "category": "activity",
       "shortname": ":guitar:",
       "hex": "1f3b8",
       "suggest": true
@@ -14225,12 +16151,6 @@
       "shortname": ":violin:",
       "hex": "1f3bb",
       "suggest": true
-    },
-    {
-      "category": "activity",
-      "shortname": ":accordion:",
-      "hex": "1fa97",
-      "suggest": false
     },
     {
       "category": "activity",
@@ -14366,6 +16286,12 @@
     },
     {
       "category": "travel",
+      "shortname": ":crutch:",
+      "hex": "1fa7c",
+      "suggest": false
+    },
+    {
+      "category": "travel",
       "shortname": ":manual_wheelchair:",
       "hex": "1f9bd",
       "suggest": true
@@ -14405,6 +16331,12 @@
       "shortname": ":auto_rickshaw:",
       "hex": "1f6fa",
       "suggest": true
+    },
+    {
+      "category": "travel",
+      "shortname": ":wheel:",
+      "hex": "1f6de",
+      "suggest": false
     },
     {
       "category": "travel",
@@ -14624,9 +16556,21 @@
     },
     {
       "category": "travel",
+      "shortname": ":ring_buoy:",
+      "hex": "1f6df",
+      "suggest": false
+    },
+    {
+      "category": "travel",
       "shortname": ":anchor:",
       "hex": "2693",
       "suggest": true
+    },
+    {
+      "category": "travel",
+      "shortname": ":hook:",
+      "hex": "1fa9d",
+      "suggest": false
     },
     {
       "category": "travel",
@@ -15278,6 +17222,12 @@
     },
     {
       "category": "objects",
+      "shortname": ":low_battery:",
+      "hex": "1faab",
+      "suggest": false
+    },
+    {
+      "category": "objects",
       "shortname": ":electric_plug:",
       "hex": "1f50c",
       "suggest": true
@@ -15368,6 +17318,12 @@
     },
     {
       "category": "objects",
+      "shortname": ":identification_card:",
+      "hex": "1faaa",
+      "suggest": false
+    },
+    {
+      "category": "objects",
       "shortname": ":gem:",
       "hex": "1f48e",
       "suggest": true
@@ -15428,6 +17384,12 @@
     },
     {
       "category": "objects",
+      "shortname": ":carpentry_saw:",
+      "hex": "1fa9a",
+      "suggest": false
+    },
+    {
+      "category": "objects",
       "shortname": ":nut_and_bolt:",
       "hex": "1f529",
       "suggest": true
@@ -15440,6 +17402,12 @@
     },
     {
       "category": "objects",
+      "shortname": ":mouse_trap:",
+      "hex": "1faa4",
+      "suggest": false
+    },
+    {
+      "category": "objects",
       "shortname": ":bricks:",
       "hex": "1f9f1",
       "suggest": true
@@ -15449,18 +17417,6 @@
       "shortname": ":chains:",
       "hex": "26d3-fe0f",
       "suggest": true
-    },
-    {
-      "category": "objects",
-      "shortname": ":hook:",
-      "hex": "1fa9d",
-      "suggest": false
-    },
-    {
-      "category": "objects",
-      "shortname": ":knot:",
-      "hex": "1faa2",
-      "suggest": false
     },
     {
       "category": "objects",
@@ -15491,12 +17447,6 @@
       "shortname": ":axe:",
       "hex": "1fa93",
       "suggest": true
-    },
-    {
-      "category": "objects",
-      "shortname": ":carpentry_saw:",
-      "hex": "1fa9a",
-      "suggest": false
     },
     {
       "category": "objects",
@@ -15554,12 +17504,6 @@
     },
     {
       "category": "objects",
-      "shortname": ":magic_wand:",
-      "hex": "1fa84",
-      "suggest": false
-    },
-    {
-      "category": "objects",
       "shortname": ":crystal_ball:",
       "hex": "1f52e",
       "suggest": true
@@ -15575,6 +17519,12 @@
       "shortname": ":nazar_amulet:",
       "hex": "1f9ff",
       "suggest": true
+    },
+    {
+      "category": "objects",
+      "shortname": ":hamsa:",
+      "hex": "1faac",
+      "suggest": false
     },
     {
       "category": "objects",
@@ -15608,8 +17558,8 @@
     },
     {
       "category": "objects",
-      "shortname": ":window:",
-      "hex": "1fa9f",
+      "shortname": ":x_ray:",
+      "hex": "1fa7b",
       "suggest": false
     },
     {
@@ -15674,27 +17624,21 @@
     },
     {
       "category": "objects",
-      "shortname": ":mouse_trap:",
-      "hex": "1faa4",
-      "suggest": false
-    },
-    {
-      "category": "objects",
       "shortname": ":broom:",
       "hex": "1f9f9",
       "suggest": true
     },
     {
       "category": "objects",
-      "shortname": ":basket:",
-      "hex": "1f9fa",
-      "suggest": true
+      "shortname": ":plunger:",
+      "hex": "1faa0",
+      "suggest": false
     },
     {
       "category": "objects",
-      "shortname": ":sewing_needle:",
-      "hex": "1faa1",
-      "suggest": false
+      "shortname": ":basket:",
+      "hex": "1f9fa",
+      "suggest": true
     },
     {
       "category": "objects",
@@ -15707,18 +17651,6 @@
       "shortname": ":toilet:",
       "hex": "1f6bd",
       "suggest": true
-    },
-    {
-      "category": "objects",
-      "shortname": ":plunger:",
-      "hex": "1faa0",
-      "suggest": false
-    },
-    {
-      "category": "objects",
-      "shortname": ":bucket:",
-      "hex": "1faa3",
-      "suggest": false
     },
     {
       "category": "objects",
@@ -15776,15 +17708,15 @@
     },
     {
       "category": "objects",
-      "shortname": ":toothbrush:",
-      "hex": "1faa5",
-      "suggest": false
-    },
-    {
-      "category": "objects",
       "shortname": ":soap:",
       "hex": "1f9fc",
       "suggest": true
+    },
+    {
+      "category": "objects",
+      "shortname": ":toothbrush:",
+      "hex": "1faa5",
+      "suggest": false
     },
     {
       "category": "objects",
@@ -15797,6 +17729,12 @@
       "shortname": ":sponge:",
       "hex": "1f9fd",
       "suggest": true
+    },
+    {
+      "category": "objects",
+      "shortname": ":bucket:",
+      "hex": "1faa3",
+      "suggest": false
     },
     {
       "category": "objects",
@@ -15833,12 +17771,6 @@
       "shortname": ":chair:",
       "hex": "1fa91",
       "suggest": true
-    },
-    {
-      "category": "objects",
-      "shortname": ":mirror:",
-      "hex": "1fa9e",
-      "suggest": false
     },
     {
       "category": "objects",
@@ -15896,9 +17828,27 @@
     },
     {
       "category": "objects",
+      "shortname": ":nesting_dolls:",
+      "hex": "1fa86",
+      "suggest": false
+    },
+    {
+      "category": "objects",
       "shortname": ":frame_photo:",
       "hex": "1f5bc-fe0f",
       "suggest": true
+    },
+    {
+      "category": "objects",
+      "shortname": ":mirror:",
+      "hex": "1fa9e",
+      "suggest": false
+    },
+    {
+      "category": "objects",
+      "shortname": ":window:",
+      "hex": "1fa9f",
+      "suggest": false
     },
     {
       "category": "objects",
@@ -15938,15 +17888,9 @@
     },
     {
       "category": "objects",
-      "shortname": ":confetti_ball:",
-      "hex": "1f38a",
-      "suggest": true
-    },
-    {
-      "category": "objects",
-      "shortname": ":tada:",
-      "hex": "1f389",
-      "suggest": true
+      "shortname": ":magic_wand:",
+      "hex": "1fa84",
+      "suggest": false
     },
     {
       "category": "objects",
@@ -15956,9 +17900,15 @@
     },
     {
       "category": "objects",
-      "shortname": ":nesting_dolls:",
-      "hex": "1fa86",
-      "suggest": false
+      "shortname": ":confetti_ball:",
+      "hex": "1f38a",
+      "suggest": true
+    },
+    {
+      "category": "objects",
+      "shortname": ":tada:",
+      "hex": "1f389",
+      "suggest": true
     },
     {
       "category": "objects",
@@ -15977,6 +17927,12 @@
       "shortname": ":wind_chime:",
       "hex": "1f390",
       "suggest": true
+    },
+    {
+      "category": "objects",
+      "shortname": ":mirror_ball:",
+      "hex": "1faa9",
+      "suggest": false
     },
     {
       "category": "objects",
@@ -16040,6 +17996,12 @@
     },
     {
       "category": "objects",
+      "shortname": ":placard:",
+      "hex": "1faa7",
+      "suggest": false
+    },
+    {
+      "category": "objects",
       "shortname": ":mailbox_closed:",
       "hex": "1f4ea",
       "suggest": true
@@ -16073,12 +18035,6 @@
       "shortname": ":postal_horn:",
       "hex": "1f4ef",
       "suggest": true
-    },
-    {
-      "category": "objects",
-      "shortname": ":placard:",
-      "hex": "1faa7",
-      "suggest": false
     },
     {
       "category": "objects",
@@ -16523,6 +18479,18 @@
       "shortname": ":gift_heart:",
       "hex": "1f49d",
       "suggest": true
+    },
+    {
+      "category": "symbols",
+      "shortname": ":mending_heart:",
+      "hex": "2764-fe0f-200d-1fa79",
+      "suggest": false
+    },
+    {
+      "category": "symbols",
+      "shortname": ":heart_on_fire:",
+      "hex": "2764-fe0f-200d-1f525",
+      "suggest": false
     },
     {
       "category": "symbols",
@@ -17597,6 +19565,12 @@
       "shortname": ":heavy_multiplication_x:",
       "hex": "2716-fe0f",
       "suggest": true
+    },
+    {
+      "category": "symbols",
+      "shortname": ":heavy_equals_sign:",
+      "hex": "1f7f0",
+      "suggest": false
     },
     {
       "category": "symbols",
@@ -19825,9 +21799,9 @@
       "suggest": false
     }
   ],
-  "emojiRegex": "(\\uD83C\\uDFF4\\uDB40\\uDC67\\uDB40\\uDC62(?:\\uDB40\\uDC77\\uDB40\\uDC6C\\uDB40\\uDC73|\\uDB40\\uDC73\\uDB40\\uDC63\\uDB40\\uDC74|\\uDB40\\uDC65\\uDB40\\uDC6E\\uDB40\\uDC67)\\uDB40\\uDC7F|\\uD83D\\uDC68(?:\\u200D(?:\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D)?|\\u200D(?:\\uD83D\\uDC8B\\u200D)?)\\uD83D\\uDC68|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFF\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFE\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFD\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFC\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFB\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD]))|\\uD83D\\uDC68\\uD83C\\uDFFF\\u200D\\uD83E\\uDD1D\\u200D\\uD83D\\uDC68(?:\\uD83C[\\uDFFB-\\uDFFE])|\\uD83D\\uDC68\\uD83C\\uDFFE\\u200D\\uD83E\\uDD1D\\u200D\\uD83D\\uDC68(?:\\uD83C[\\uDFFB-\\uDFFD\\uDFFF])|\\uD83D\\uDC68\\uD83C\\uDFFD\\u200D\\uD83E\\uDD1D\\u200D\\uD83D\\uDC68(?:\\uD83C[\\uDFFB\\uDFFC\\uDFFE\\uDFFF])|\\uD83D\\uDC68\\uD83C\\uDFFC\\u200D\\uD83E\\uDD1D\\u200D\\uD83D\\uDC68(?:\\uD83C[\\uDFFB\\uDFFD-\\uDFFF])|\\uD83D\\uDC68\\uD83C\\uDFFB\\u200D\\uD83E\\uDD1D\\u200D\\uD83D\\uDC68(?:\\uD83C[\\uDFFC-\\uDFFF])|\\uD83D\\uDC69(?:\\u200D(?:\\uD83D\\uDC69\\u200D(?:\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67]))|\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D[\\uDC68\\uDC69])|\\u200D(?:\\uD83D\\uDC8B\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D[\\uDC68\\uDC69]))|\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC69\\u200D(?:\\uD83D[\\uDC66\\uDC67])|\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67])|[\\u2695\\u2696\\u2708]\\uFE0F|[\\u2695\\u2696\\u2708]|\\uD83D[\\uDC66\\uDC67]|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFF\\u200D(?:\\uD83E\\uDD1D\\u200D(?:\\uD83D[\\uDC68\\uDC69])(?:\\uD83C[\\uDFFB-\\uDFFE])|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFE\\u200D(?:\\uD83E\\uDD1D\\u200D(?:\\uD83D[\\uDC68\\uDC69])(?:\\uD83C[\\uDFFB-\\uDFFD\\uDFFF])|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFD\\u200D(?:\\uD83E\\uDD1D\\u200D(?:\\uD83D[\\uDC68\\uDC69])(?:\\uD83C[\\uDFFB\\uDFFC\\uDFFE\\uDFFF])|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFC\\u200D(?:\\uD83E\\uDD1D\\u200D(?:\\uD83D[\\uDC68\\uDC69])(?:\\uD83C[\\uDFFB\\uDFFD-\\uDFFF])|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFB\\u200D(?:\\uD83E\\uDD1D\\u200D(?:\\uD83D[\\uDC68\\uDC69])(?:\\uD83C[\\uDFFC-\\uDFFF])|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|(?:\\uD83C\\uDFFF\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFE\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFD\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFC\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFB\\u200D[\\u2695\\u2696\\u2708])\\uFE0F|\\uD83C\\uDFFF\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFE\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFD\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFC\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFB\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFF|\\uD83C\\uDFFE|\\uD83C\\uDFFD|\\uD83C\\uDFFC|\\uD83C\\uDFFB)?|\\uD83E\\uDDD1(?:(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D(?:\\uD83E\\uDD1D\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB-\\uDFFF])|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF84\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\u200D(?:\\uD83E\\uDD1D\\u200D\\uD83E\\uDDD1|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF84\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD]))|\\uD83D\\uDC68\\u200D(?:\\uD83D[\\uDC68\\uDC69])\\u200D(?:\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67]))|\\uD83D\\uDC68\\u200D\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|(?:\\uD83D\\uDC41\\uFE0F?\\u200D\\uD83D\\uDDE8|\\uD83D\\uDC68(?:\\uD83C\\uDFFF\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFE\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFD\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFC\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFB\\u200D[\\u2695\\u2696\\u2708]|\\u200D[\\u2695\\u2696\\u2708])|\\uD83C\\uDFF3\\uFE0F?\\u200D\\u26A7|\\uD83E\\uDDD1(?:(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2695\\u2696\\u2708]|\\u200D[\\u2695\\u2696\\u2708])|\\uD83D\\uDC3B\\u200D\\u2744|(?:(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF])\\u200D[\\u2640\\u2642]|(?:\\uD83C[\\uDFC3\\uDFC4\\uDFCA]|\\uD83D[\\uDC6E\\uDC70\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD35\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDCD-\\uDDCF\\uDDD6-\\uDDDD])(?:(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2640\\u2642]|\\u200D[\\u2640\\u2642])|\\uD83C\\uDFF4\\u200D\\u2620|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)\\u200D[\\u2640\\u2642]|[\\xA9\\xAE\\u203C\\u2049\\u2122\\u2139\\u2194-\\u2199\\u21A9\\u21AA\\u2328\\u23CF\\u23ED-\\u23EF\\u23F1\\u23F2\\u23F8-\\u23FA\\u24C2\\u25AA\\u25AB\\u25B6\\u25C0\\u25FB\\u25FC\\u2600-\\u2604\\u260E\\u2611\\u2618\\u2620\\u2622\\u2623\\u2626\\u262A\\u262E\\u262F\\u2638-\\u263A\\u2640\\u2642\\u265F\\u2660\\u2663\\u2665\\u2666\\u2668\\u267B\\u267E\\u2692\\u2694-\\u2697\\u2699\\u269B\\u269C\\u26A0\\u26A7\\u26B0\\u26B1\\u26C8\\u26CF\\u26D1\\u26D3\\u26E9\\u26F0\\u26F1\\u26F4\\u26F7\\u26F8\\u2702\\u2708\\u2709\\u270F\\u2712\\u2714\\u2716\\u271D\\u2721\\u2733\\u2734\\u2744\\u2747\\u2763\\u2764\\u27A1\\u2934\\u2935\\u2B05-\\u2B07\\u3030\\u303D\\u3297\\u3299]|\\uD83C[\\uDD70\\uDD71\\uDD7E\\uDD7F\\uDE02\\uDE37\\uDF21\\uDF24-\\uDF2C\\uDF36\\uDF7D\\uDF96\\uDF97\\uDF99-\\uDF9B\\uDF9E\\uDF9F\\uDFCD\\uDFCE\\uDFD4-\\uDFDF\\uDFF5\\uDFF7]|\\uD83D[\\uDC3F\\uDCFD\\uDD49\\uDD4A\\uDD6F\\uDD70\\uDD73\\uDD76-\\uDD79\\uDD87\\uDD8A-\\uDD8D\\uDDA5\\uDDA8\\uDDB1\\uDDB2\\uDDBC\\uDDC2-\\uDDC4\\uDDD1-\\uDDD3\\uDDDC-\\uDDDE\\uDDE1\\uDDE3\\uDDE8\\uDDEF\\uDDF3\\uDDFA\\uDECB\\uDECD-\\uDECF\\uDEE0-\\uDEE5\\uDEE9\\uDEF0\\uDEF3])\\uFE0F|\\uD83D\\uDC68\\u200D\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67])|\\uD83D\\uDC41\\uFE0F?\\u200D\\uD83D\\uDDE8|\\uD83D\\uDC68(?:\\uD83C\\uDFFF\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFE\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFD\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFC\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFB\\u200D[\\u2695\\u2696\\u2708]|\\u200D[\\u2695\\u2696\\u2708])|\\uD83D\\uDC68\\u200D(?:\\uD83D[\\uDC68\\uDC69])\\u200D(?:\\uD83D[\\uDC66\\uDC67])|\\uD83C\\uDFF3\\uFE0F?\\u200D\\uD83C\\uDF08|\\uD83C\\uDFF3\\uFE0F?\\u200D\\u26A7|\\uD83E\\uDDD1(?:(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2695\\u2696\\u2708]|\\u200D[\\u2695\\u2696\\u2708])|\\uD83D\\uDC68\\u200D\\uD83D\\uDC66|\\uD83D\\uDC68\\u200D\\uD83D\\uDC67|\\uD83D\\uDC15\\u200D\\uD83E\\uDDBA|\\uD83D\\uDC68(?:\\uD83C\\uDFFF|\\uD83C\\uDFFE|\\uD83C\\uDFFD|\\uD83C\\uDFFC|\\uD83C\\uDFFB)?|\\uD83D\\uDC3B\\u200D\\u2744|(?:(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF])\\u200D[\\u2640\\u2642]|(?:\\uD83C[\\uDFC3\\uDFC4\\uDFCA]|\\uD83D[\\uDC6E\\uDC70\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD35\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDCD-\\uDDCF\\uDDD6-\\uDDDD])(?:(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2640\\u2642]|\\u200D[\\u2640\\u2642])|\\uD83C\\uDFF4\\u200D\\u2620|\\uD83C\\uDDFD\\uD83C\\uDDF0|\\uD83C\\uDDF6\\uD83C\\uDDE6|\\uD83C\\uDDF4\\uD83C\\uDDF2|\\uD83D\\uDC08\\u200D\\u2B1B|\\uD83C\\uDFF3\\uFE0F?|\\uD83D\\uDC41\\uFE0F?|\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB-\\uDFFF])?|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)\\u200D[\\u2640\\u2642]|\\uD83C\\uDDFF(?:\\uD83C[\\uDDE6\\uDDF2\\uDDFC])|\\uD83C\\uDDFE(?:\\uD83C[\\uDDEA\\uDDF9])|\\uD83C\\uDDFC(?:\\uD83C[\\uDDEB\\uDDF8])|\\uD83C\\uDDFB(?:\\uD83C[\\uDDE6\\uDDE8\\uDDEA\\uDDEC\\uDDEE\\uDDF3\\uDDFA])|\\uD83C\\uDDFA(?:\\uD83C[\\uDDE6\\uDDEC\\uDDF2\\uDDF3\\uDDF8\\uDDFE\\uDDFF])|\\uD83C\\uDDF9(?:\\uD83C[\\uDDE6\\uDDE8\\uDDE9\\uDDEB-\\uDDED\\uDDEF-\\uDDF4\\uDDF7\\uDDF9\\uDDFB\\uDDFC\\uDDFF])|\\uD83C\\uDDF8(?:\\uD83C[\\uDDE6-\\uDDEA\\uDDEC-\\uDDF4\\uDDF7-\\uDDF9\\uDDFB\\uDDFD-\\uDDFF])|\\uD83C\\uDDF7(?:\\uD83C[\\uDDEA\\uDDF4\\uDDF8\\uDDFA\\uDDFC])|\\uD83C\\uDDF5(?:\\uD83C[\\uDDE6\\uDDEA-\\uDDED\\uDDF0-\\uDDF3\\uDDF7-\\uDDF9\\uDDFC\\uDDFE])|\\uD83C\\uDDF3(?:\\uD83C[\\uDDE6\\uDDE8\\uDDEA-\\uDDEC\\uDDEE\\uDDF1\\uDDF4\\uDDF5\\uDDF7\\uDDFA\\uDDFF])|\\uD83C\\uDDF2(?:\\uD83C[\\uDDE6\\uDDE8-\\uDDED\\uDDF0-\\uDDFF])|\\uD83C\\uDDF1(?:\\uD83C[\\uDDE6-\\uDDE8\\uDDEE\\uDDF0\\uDDF7-\\uDDFB\\uDDFE])|\\uD83C\\uDDF0(?:\\uD83C[\\uDDEA\\uDDEC-\\uDDEE\\uDDF2\\uDDF3\\uDDF5\\uDDF7\\uDDFC\\uDDFE\\uDDFF])|\\uD83C\\uDDEF(?:\\uD83C[\\uDDEA\\uDDF2\\uDDF4\\uDDF5])|\\uD83C\\uDDEE(?:\\uD83C[\\uDDE8-\\uDDEA\\uDDF1-\\uDDF4\\uDDF6-\\uDDF9])|\\uD83C\\uDDED(?:\\uD83C[\\uDDF0\\uDDF2\\uDDF3\\uDDF7\\uDDF9\\uDDFA])|\\uD83C\\uDDEC(?:\\uD83C[\\uDDE6\\uDDE7\\uDDE9-\\uDDEE\\uDDF1-\\uDDF3\\uDDF5-\\uDDFA\\uDDFC\\uDDFE])|\\uD83C\\uDDEB(?:\\uD83C[\\uDDEE-\\uDDF0\\uDDF2\\uDDF4\\uDDF7])|\\uD83C\\uDDEA(?:\\uD83C[\\uDDE6\\uDDE8\\uDDEA\\uDDEC\\uDDED\\uDDF7-\\uDDFA])|\\uD83C\\uDDE9(?:\\uD83C[\\uDDEA\\uDDEC\\uDDEF\\uDDF0\\uDDF2\\uDDF4\\uDDFF])|\\uD83C\\uDDE8(?:\\uD83C[\\uDDE6\\uDDE8\\uDDE9\\uDDEB-\\uDDEE\\uDDF0-\\uDDF5\\uDDF7\\uDDFA-\\uDDFF])|\\uD83C\\uDDE7(?:\\uD83C[\\uDDE6\\uDDE7\\uDDE9-\\uDDEF\\uDDF1-\\uDDF4\\uDDF6-\\uDDF9\\uDDFB\\uDDFC\\uDDFE\\uDDFF])|\\uD83C\\uDDE6(?:\\uD83C[\\uDDE8-\\uDDEC\\uDDEE\\uDDF1\\uDDF2\\uDDF4\\uDDF6-\\uDDFA\\uDDFC\\uDDFD\\uDDFF])|[#\\*0-9]\\uFE0F?\\u20E3|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|(?:\\uD83C[\\uDFC3\\uDFC4\\uDFCA]|\\uD83D[\\uDC6E\\uDC70\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD35\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDCD-\\uDDCF\\uDDD6-\\uDDDD])(?:\\uD83C[\\uDFFB-\\uDFFF])?|\\uD83C\\uDFF4|(?:[\\u261D\\u270C\\u270D]|\\uD83D[\\uDD74\\uDD90])(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|(?:[\\u270A\\u270B]|\\uD83C[\\uDF85\\uDFC2\\uDFC7]|\\uD83D[\\uDC42\\uDC43\\uDC46-\\uDC50\\uDC66\\uDC67\\uDC6B-\\uDC6D\\uDC72\\uDC74-\\uDC76\\uDC78\\uDC7C\\uDC83\\uDC85\\uDCAA\\uDD7A\\uDD95\\uDD96\\uDE4C\\uDE4F\\uDEC0\\uDECC]|\\uD83E[\\uDD0C\\uDD0F\\uDD18-\\uDD1C\\uDD1E\\uDD1F\\uDD30-\\uDD34\\uDD36\\uDD77\\uDDB5\\uDDB6\\uDDBB\\uDDD2-\\uDDD5])(?:\\uD83C[\\uDFFB-\\uDFFF])|[\\u261D\\u270A-\\u270D]|\\uD83C[\\uDF85\\uDFC2\\uDFC7]|\\uD83D[\\uDC08\\uDC15\\uDC3B\\uDC42\\uDC43\\uDC46-\\uDC50\\uDC66\\uDC67\\uDC6B-\\uDC6D\\uDC72\\uDC74-\\uDC76\\uDC78\\uDC7C\\uDC83\\uDC85\\uDCAA\\uDD74\\uDD7A\\uDD90\\uDD95\\uDD96\\uDE4C\\uDE4F\\uDEC0\\uDECC]|\\uD83E[\\uDD0C\\uDD0F\\uDD18-\\uDD1C\\uDD1E\\uDD1F\\uDD30-\\uDD34\\uDD36\\uDD77\\uDDB5\\uDDB6\\uDDBB\\uDDD2-\\uDDD5]|\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF]|[\\xA9\\xAE\\u203C\\u2049\\u2122\\u2139\\u2194-\\u2199\\u21A9\\u21AA\\u2328\\u23CF\\u23ED-\\u23EF\\u23F1\\u23F2\\u23F8-\\u23FA\\u24C2\\u25AA\\u25AB\\u25B6\\u25C0\\u25FB\\u25FC\\u2600-\\u2604\\u260E\\u2611\\u2618\\u2620\\u2622\\u2623\\u2626\\u262A\\u262E\\u262F\\u2638-\\u263A\\u2640\\u2642\\u265F\\u2660\\u2663\\u2665\\u2666\\u2668\\u267B\\u267E\\u2692\\u2694-\\u2697\\u2699\\u269B\\u269C\\u26A0\\u26A7\\u26B0\\u26B1\\u26C8\\u26CF\\u26D1\\u26D3\\u26E9\\u26F0\\u26F1\\u26F4\\u26F7\\u26F8\\u2702\\u2708\\u2709\\u270F\\u2712\\u2714\\u2716\\u271D\\u2721\\u2733\\u2734\\u2744\\u2747\\u2763\\u2764\\u27A1\\u2934\\u2935\\u2B05-\\u2B07\\u3030\\u303D\\u3297\\u3299]|\\uD83C[\\uDD70\\uDD71\\uDD7E\\uDD7F\\uDE02\\uDE37\\uDF21\\uDF24-\\uDF2C\\uDF36\\uDF7D\\uDF96\\uDF97\\uDF99-\\uDF9B\\uDF9E\\uDF9F\\uDFCD\\uDFCE\\uDFD4-\\uDFDF\\uDFF5\\uDFF7]|\\uD83D[\\uDC3F\\uDCFD\\uDD49\\uDD4A\\uDD6F\\uDD70\\uDD73\\uDD76-\\uDD79\\uDD87\\uDD8A-\\uDD8D\\uDDA5\\uDDA8\\uDDB1\\uDDB2\\uDDBC\\uDDC2-\\uDDC4\\uDDD1-\\uDDD3\\uDDDC-\\uDDDE\\uDDE1\\uDDE3\\uDDE8\\uDDEF\\uDDF3\\uDDFA\\uDECB\\uDECD-\\uDECF\\uDEE0-\\uDEE5\\uDEE9\\uDEF0\\uDEF3]|[\\u231A\\u231B\\u23E9-\\u23EC\\u23F0\\u23F3\\u25FD\\u25FE\\u2614\\u2615\\u2648-\\u2653\\u267F\\u2693\\u26A1\\u26AA\\u26AB\\u26BD\\u26BE\\u26C4\\u26C5\\u26CE\\u26D4\\u26EA\\u26F2\\u26F3\\u26F5\\u26FA\\u26FD\\u2705\\u2728\\u274C\\u274E\\u2753-\\u2755\\u2757\\u2795-\\u2797\\u27B0\\u27BF\\u2B1B\\u2B1C\\u2B50\\u2B55]|\\uD83C[\\uDC04\\uDCCF\\uDD8E\\uDD91-\\uDD9A\\uDE01\\uDE1A\\uDE2F\\uDE32-\\uDE36\\uDE38-\\uDE3A\\uDE50\\uDE51\\uDF00-\\uDF20\\uDF2D-\\uDF35\\uDF37-\\uDF7C\\uDF7E-\\uDF84\\uDF86-\\uDF93\\uDFA0-\\uDFC1\\uDFC5\\uDFC6\\uDFC8\\uDFC9\\uDFCF-\\uDFD3\\uDFE0-\\uDFF0\\uDFF8-\\uDFFF]|\\uD83D[\\uDC00-\\uDC07\\uDC09-\\uDC14\\uDC16-\\uDC3A\\uDC3C-\\uDC3E\\uDC40\\uDC44\\uDC45\\uDC51-\\uDC65\\uDC6A\\uDC79-\\uDC7B\\uDC7D-\\uDC80\\uDC84\\uDC88-\\uDCA9\\uDCAB-\\uDCFC\\uDCFF-\\uDD3D\\uDD4B-\\uDD4E\\uDD50-\\uDD67\\uDDA4\\uDDFB-\\uDE44\\uDE48-\\uDE4A\\uDE80-\\uDEA2\\uDEA4-\\uDEB3\\uDEB7-\\uDEBF\\uDEC1-\\uDEC5\\uDED0-\\uDED2\\uDED5-\\uDED7\\uDEEB\\uDEEC\\uDEF4-\\uDEFC\\uDFE0-\\uDFEB]|\\uD83E[\\uDD0D\\uDD0E\\uDD10-\\uDD17\\uDD1D\\uDD20-\\uDD25\\uDD27-\\uDD2F\\uDD3A\\uDD3F-\\uDD45\\uDD47-\\uDD76\\uDD78\\uDD7A-\\uDDB4\\uDDB7\\uDDBA\\uDDBC-\\uDDCB\\uDDD0\\uDDE0-\\uDDFF\\uDE70-\\uDE74\\uDE78-\\uDE7A\\uDE80-\\uDE86\\uDE90-\\uDEA8\\uDEB0-\\uDEB6\\uDEC0-\\uDEC2\\uDED0-\\uDED6])\\uFE0F?",
+  "emojiRegex": "(\\uD83C\\uDFF4\\uDB40\\uDC67\\uDB40\\uDC62(?:\\uDB40\\uDC77\\uDB40\\uDC6C\\uDB40\\uDC73|\\uDB40\\uDC73\\uDB40\\uDC63\\uDB40\\uDC74|\\uDB40\\uDC65\\uDB40\\uDC6E\\uDB40\\uDC67)\\uDB40\\uDC7F|(?:\\uD83D\\uDC68(?:\\uD83C\\uDFFB\\u200D\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D)?|\\u200D(?:\\uD83D\\uDC8B\\u200D)?)|(?:\\uD83C[\\uDFFC-\\uDFFF])\\u200D\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D)?|\\u200D(?:\\uD83D\\uDC8B\\u200D)?))\\uD83D\\uDC68|\\uD83D\\uDC69(?:\\uD83C\\uDFFB\\u200D\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D[\\uDC68\\uDC69])|\\u200D(?:\\uD83D\\uDC8B\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D[\\uDC68\\uDC69]))|(?:\\uD83C[\\uDFFC-\\uDFFF])\\u200D\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D[\\uDC68\\uDC69])|\\u200D(?:\\uD83D\\uDC8B\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D[\\uDC68\\uDC69]))))(?:\\uD83C[\\uDFFB-\\uDFFF])|\\uD83E\\uDDD1(?:\\uD83C\\uDFFF\\u200D(?:\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB-\\uDFFE])|\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB-\\uDFFE]))|\\u200D(?:\\uD83D\\uDC8B\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB-\\uDFFE])|\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB-\\uDFFE])))|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF84\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFE\\u200D(?:\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB-\\uDFFD\\uDFFF])|\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB-\\uDFFD\\uDFFF]))|\\u200D(?:\\uD83D\\uDC8B\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB-\\uDFFD\\uDFFF])|\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB-\\uDFFD\\uDFFF])))|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF84\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFD\\u200D(?:\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB\\uDFFC\\uDFFE\\uDFFF])|\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB\\uDFFC\\uDFFE\\uDFFF]))|\\u200D(?:\\uD83D\\uDC8B\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB\\uDFFC\\uDFFE\\uDFFF])|\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB\\uDFFC\\uDFFE\\uDFFF])))|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF84\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFC\\u200D(?:\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB\\uDFFD-\\uDFFF])|\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB\\uDFFD-\\uDFFF]))|\\u200D(?:\\uD83D\\uDC8B\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB\\uDFFD-\\uDFFF])|\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB\\uDFFD-\\uDFFF])))|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF84\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFB(?:\\u200D(?:\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFC-\\uDFFF])|\\uD83E\\uDDD1(?:\\uD83C[\\uDFFC-\\uDFFF]))|\\u200D(?:\\uD83D\\uDC8B\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFC-\\uDFFF])|\\uD83E\\uDDD1(?:\\uD83C[\\uDFFC-\\uDFFF])))|\\uD83E\\uDD1D\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB-\\uDFFF])|[\\u2695\\u2696\\u2708]\\uFE0F|[\\u2695\\u2696\\u2708]|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF84\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD]))?|(?:\\uD83C[\\uDFFC-\\uDFFF])\\u200D\\uD83E\\uDD1D\\u200D\\uD83E\\uDDD1(?:\\uD83C[\\uDFFB-\\uDFFF])|\\u200D(?:\\uD83E\\uDD1D\\u200D\\uD83E\\uDDD1|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF84\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|(?:\\uD83C\\uDFFF\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFE\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFD\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFC\\u200D[\\u2695\\u2696\\u2708]|\\u200D[\\u2695\\u2696\\u2708])\\uFE0F|\\uD83C\\uDFFF\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFE\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFD\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFC\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFF|\\uD83C\\uDFFE|\\uD83C\\uDFFD|\\uD83C\\uDFFC|\\u200D[\\u2695\\u2696\\u2708])?|\\uD83D\\uDC68(?:\\u200D(?:\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D)?|\\u200D(?:\\uD83D\\uDC8B\\u200D)?)\\uD83D\\uDC68|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFF\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFE\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFD\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFC\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFB\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD]))|\\uD83D\\uDC69(?:\\u200D(?:\\uD83D\\uDC69\\u200D(?:\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67]))|\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDC8B\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D[\\uDC68\\uDC69])|\\u200D(?:\\uD83D\\uDC8B\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83D[\\uDC68\\uDC69]))|\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67])|\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFF\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFE\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFD\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFC\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD])|\\uD83C\\uDFFB\\u200D(?:\\uD83C[\\uDF3E\\uDF73\\uDF7C\\uDF93\\uDFA4\\uDFA8\\uDFEB\\uDFED]|\\uD83D[\\uDCBB\\uDCBC\\uDD27\\uDD2C\\uDE80\\uDE92]|\\uD83E[\\uDDAF-\\uDDB3\\uDDBC\\uDDBD]))|(?:\\uD83D\\uDC68\\uD83C\\uDFFF\\u200D\\uD83E\\uDD1D\\u200D\\uD83D\\uDC68|\\uD83D\\uDC69\\uD83C\\uDFFF\\u200D\\uD83E\\uDD1D\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83E\\uDEF1\\uD83C\\uDFFF\\u200D\\uD83E\\uDEF2)(?:\\uD83C[\\uDFFB-\\uDFFE])|(?:\\uD83D\\uDC68\\uD83C\\uDFFE\\u200D\\uD83E\\uDD1D\\u200D\\uD83D\\uDC68|\\uD83D\\uDC69\\uD83C\\uDFFE\\u200D\\uD83E\\uDD1D\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83E\\uDEF1\\uD83C\\uDFFE\\u200D\\uD83E\\uDEF2)(?:\\uD83C[\\uDFFB-\\uDFFD\\uDFFF])|(?:\\uD83D\\uDC68\\uD83C\\uDFFD\\u200D\\uD83E\\uDD1D\\u200D\\uD83D\\uDC68|\\uD83D\\uDC69\\uD83C\\uDFFD\\u200D\\uD83E\\uDD1D\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83E\\uDEF1\\uD83C\\uDFFD\\u200D\\uD83E\\uDEF2)(?:\\uD83C[\\uDFFB\\uDFFC\\uDFFE\\uDFFF])|(?:\\uD83D\\uDC68\\uD83C\\uDFFC\\u200D\\uD83E\\uDD1D\\u200D\\uD83D\\uDC68|\\uD83D\\uDC69\\uD83C\\uDFFC\\u200D\\uD83E\\uDD1D\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83E\\uDEF1\\uD83C\\uDFFC\\u200D\\uD83E\\uDEF2)(?:\\uD83C[\\uDFFB\\uDFFD-\\uDFFF])|(?:\\uD83D\\uDC68\\uD83C\\uDFFB\\u200D\\uD83E\\uDD1D\\u200D\\uD83D\\uDC68|\\uD83D\\uDC69\\uD83C\\uDFFB\\u200D\\uD83E\\uDD1D\\u200D(?:\\uD83D[\\uDC68\\uDC69])|\\uD83E\\uDEF1\\uD83C\\uDFFB\\u200D\\uD83E\\uDEF2)(?:\\uD83C[\\uDFFC-\\uDFFF])|\\uD83D\\uDC68\\u200D(?:\\uD83D[\\uDC68\\uDC69])\\u200D(?:\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67]))|\\uD83D\\uDC68\\u200D\\uD83D\\uDC66\\u200D\\uD83D\\uDC66|\\uD83D\\uDC69(?:\\u200D(?:\\uD83D\\uDC69\\u200D(?:\\uD83D[\\uDC66\\uDC67])|\\uD83D[\\uDC66\\uDC67])|\\uD83C\\uDFFF|\\uD83C\\uDFFE|\\uD83C\\uDFFD|\\uD83C\\uDFFC|\\uD83C\\uDFFB)?|\\uD83D\\uDC68\\u200D\\uD83D\\uDC67\\u200D(?:\\uD83D[\\uDC66\\uDC67])|(?:\\uD83D\\uDC41\\uFE0F?\\u200D\\uD83D\\uDDE8|\\uD83D\\uDC68(?:\\uD83C\\uDFFF\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFE\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFD\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFC\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFB\\u200D[\\u2695\\u2696\\u2708]|\\u200D[\\u2695\\u2696\\u2708])|\\uD83D\\uDC69(?:\\uD83C\\uDFFF\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFE\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFD\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFC\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFB\\u200D[\\u2695\\u2696\\u2708]|\\u200D[\\u2695\\u2696\\u2708])|\\uD83D\\uDE36\\u200D\\uD83C\\uDF2B|\\uD83C\\uDFF3\\uFE0F?\\u200D\\u26A7|\\uD83D\\uDC3B\\u200D\\u2744|(?:(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF])\\u200D[\\u2640\\u2642]|(?:\\uD83C[\\uDFC3\\uDFC4\\uDFCA]|\\uD83D[\\uDC6E\\uDC70\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD35\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDCD-\\uDDCF\\uDDD4\\uDDD6-\\uDDDD])(?:(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2640\\u2642]|\\u200D[\\u2640\\u2642])|\\uD83C\\uDFF4\\u200D\\u2620|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)\\u200D[\\u2640\\u2642]|[\\xA9\\xAE\\u203C\\u2049\\u2122\\u2139\\u2194-\\u2199\\u21A9\\u21AA\\u2328\\u23CF\\u23ED-\\u23EF\\u23F1\\u23F2\\u23F8-\\u23FA\\u24C2\\u25AA\\u25AB\\u25B6\\u25C0\\u25FB\\u25FC\\u2600-\\u2604\\u260E\\u2611\\u2618\\u2620\\u2622\\u2623\\u2626\\u262A\\u262E\\u262F\\u2638-\\u263A\\u2640\\u2642\\u265F\\u2660\\u2663\\u2665\\u2666\\u2668\\u267B\\u267E\\u2692\\u2694-\\u2697\\u2699\\u269B\\u269C\\u26A0\\u26A7\\u26B0\\u26B1\\u26C8\\u26CF\\u26D1\\u26D3\\u26E9\\u26F0\\u26F1\\u26F4\\u26F7\\u26F8\\u2702\\u2708\\u2709\\u270F\\u2712\\u2714\\u2716\\u271D\\u2721\\u2733\\u2734\\u2744\\u2747\\u2763\\u27A1\\u2934\\u2935\\u2B05-\\u2B07\\u3030\\u303D\\u3297\\u3299]|\\uD83C[\\uDD70\\uDD71\\uDD7E\\uDD7F\\uDE02\\uDE37\\uDF21\\uDF24-\\uDF2C\\uDF36\\uDF7D\\uDF96\\uDF97\\uDF99-\\uDF9B\\uDF9E\\uDF9F\\uDFCD\\uDFCE\\uDFD4-\\uDFDF\\uDFF5\\uDFF7]|\\uD83D[\\uDC3F\\uDCFD\\uDD49\\uDD4A\\uDD6F\\uDD70\\uDD73\\uDD76-\\uDD79\\uDD87\\uDD8A-\\uDD8D\\uDDA5\\uDDA8\\uDDB1\\uDDB2\\uDDBC\\uDDC2-\\uDDC4\\uDDD1-\\uDDD3\\uDDDC-\\uDDDE\\uDDE1\\uDDE3\\uDDE8\\uDDEF\\uDDF3\\uDDFA\\uDECB\\uDECD-\\uDECF\\uDEE0-\\uDEE5\\uDEE9\\uDEF0\\uDEF3])\\uFE0F|\\uD83D\\uDC68\\u200D(?:\\uD83D[\\uDC68\\uDC69])\\u200D(?:\\uD83D[\\uDC66\\uDC67])|\\uD83D\\uDC41\\uFE0F?\\u200D\\uD83D\\uDDE8|\\uD83D\\uDC68(?:\\uD83C\\uDFFF\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFE\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFD\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFC\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFB\\u200D[\\u2695\\u2696\\u2708]|\\u200D[\\u2695\\u2696\\u2708])|\\uD83D\\uDC69(?:\\uD83C\\uDFFF\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFE\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFD\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFC\\u200D[\\u2695\\u2696\\u2708]|\\uD83C\\uDFFB\\u200D[\\u2695\\u2696\\u2708]|\\u200D[\\u2695\\u2696\\u2708])|\\uD83C\\uDFF3\\uFE0F?\\u200D\\uD83C\\uDF08|\\uD83D\\uDC68\\u200D\\uD83D\\uDC66|\\uD83D\\uDC68\\u200D\\uD83D\\uDC67|\\uD83D\\uDE36\\u200D\\uD83C\\uDF2B|\\uD83C\\uDFF3\\uFE0F?\\u200D\\u26A7|\\uD83D\\uDC15\\u200D\\uD83E\\uDDBA|\\uD83D\\uDE35\\u200D\\uD83D\\uDCAB|\\uD83D\\uDE2E\\u200D\\uD83D\\uDCA8|\\uD83E\\uDEF1(?:\\uD83C\\uDFFF|\\uD83C\\uDFFE|\\uD83C\\uDFFD|\\uD83C\\uDFFC|\\uD83C\\uDFFB)?|\\uD83D\\uDC68(?:\\uD83C\\uDFFF|\\uD83C\\uDFFE|\\uD83C\\uDFFD|\\uD83C\\uDFFC|\\uD83C\\uDFFB)?|\\uD83D\\uDC3B\\u200D\\u2744|(?:(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF])\\u200D[\\u2640\\u2642]|(?:\\uD83C[\\uDFC3\\uDFC4\\uDFCA]|\\uD83D[\\uDC6E\\uDC70\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD35\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDCD-\\uDDCF\\uDDD4\\uDDD6-\\uDDDD])(?:(?:\\uD83C[\\uDFFB-\\uDFFF])\\u200D[\\u2640\\u2642]|\\u200D[\\u2640\\u2642])|\\uD83C\\uDFF4\\u200D\\u2620|\\uD83C\\uDDFD\\uD83C\\uDDF0|\\uD83C\\uDDF6\\uD83C\\uDDE6|\\uD83C\\uDDF4\\uD83C\\uDDF2|\\uD83D\\uDC08\\u200D\\u2B1B|\\u2764(?:\\uFE0F\\u200D(?:\\uD83D\\uDD25|\\uD83E\\uDE79)|\\u200D(?:\\uD83D\\uDD25|\\uD83E\\uDE79))|\\uD83C\\uDFF3\\uFE0F?|\\uD83D\\uDC41\\uFE0F?|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)\\u200D[\\u2640\\u2642]|\\uD83C\\uDDFF(?:\\uD83C[\\uDDE6\\uDDF2\\uDDFC])|\\uD83C\\uDDFE(?:\\uD83C[\\uDDEA\\uDDF9])|\\uD83C\\uDDFC(?:\\uD83C[\\uDDEB\\uDDF8])|\\uD83C\\uDDFB(?:\\uD83C[\\uDDE6\\uDDE8\\uDDEA\\uDDEC\\uDDEE\\uDDF3\\uDDFA])|\\uD83C\\uDDFA(?:\\uD83C[\\uDDE6\\uDDEC\\uDDF2\\uDDF3\\uDDF8\\uDDFE\\uDDFF])|\\uD83C\\uDDF9(?:\\uD83C[\\uDDE6\\uDDE8\\uDDE9\\uDDEB-\\uDDED\\uDDEF-\\uDDF4\\uDDF7\\uDDF9\\uDDFB\\uDDFC\\uDDFF])|\\uD83C\\uDDF8(?:\\uD83C[\\uDDE6-\\uDDEA\\uDDEC-\\uDDF4\\uDDF7-\\uDDF9\\uDDFB\\uDDFD-\\uDDFF])|\\uD83C\\uDDF7(?:\\uD83C[\\uDDEA\\uDDF4\\uDDF8\\uDDFA\\uDDFC])|\\uD83C\\uDDF5(?:\\uD83C[\\uDDE6\\uDDEA-\\uDDED\\uDDF0-\\uDDF3\\uDDF7-\\uDDF9\\uDDFC\\uDDFE])|\\uD83C\\uDDF3(?:\\uD83C[\\uDDE6\\uDDE8\\uDDEA-\\uDDEC\\uDDEE\\uDDF1\\uDDF4\\uDDF5\\uDDF7\\uDDFA\\uDDFF])|\\uD83C\\uDDF2(?:\\uD83C[\\uDDE6\\uDDE8-\\uDDED\\uDDF0-\\uDDFF])|\\uD83C\\uDDF1(?:\\uD83C[\\uDDE6-\\uDDE8\\uDDEE\\uDDF0\\uDDF7-\\uDDFB\\uDDFE])|\\uD83C\\uDDF0(?:\\uD83C[\\uDDEA\\uDDEC-\\uDDEE\\uDDF2\\uDDF3\\uDDF5\\uDDF7\\uDDFC\\uDDFE\\uDDFF])|\\uD83C\\uDDEF(?:\\uD83C[\\uDDEA\\uDDF2\\uDDF4\\uDDF5])|\\uD83C\\uDDEE(?:\\uD83C[\\uDDE8-\\uDDEA\\uDDF1-\\uDDF4\\uDDF6-\\uDDF9])|\\uD83C\\uDDED(?:\\uD83C[\\uDDF0\\uDDF2\\uDDF3\\uDDF7\\uDDF9\\uDDFA])|\\uD83C\\uDDEC(?:\\uD83C[\\uDDE6\\uDDE7\\uDDE9-\\uDDEE\\uDDF1-\\uDDF3\\uDDF5-\\uDDFA\\uDDFC\\uDDFE])|\\uD83C\\uDDEB(?:\\uD83C[\\uDDEE-\\uDDF0\\uDDF2\\uDDF4\\uDDF7])|\\uD83C\\uDDEA(?:\\uD83C[\\uDDE6\\uDDE8\\uDDEA\\uDDEC\\uDDED\\uDDF7-\\uDDFA])|\\uD83C\\uDDE9(?:\\uD83C[\\uDDEA\\uDDEC\\uDDEF\\uDDF0\\uDDF2\\uDDF4\\uDDFF])|\\uD83C\\uDDE8(?:\\uD83C[\\uDDE6\\uDDE8\\uDDE9\\uDDEB-\\uDDEE\\uDDF0-\\uDDF5\\uDDF7\\uDDFA-\\uDDFF])|\\uD83C\\uDDE7(?:\\uD83C[\\uDDE6\\uDDE7\\uDDE9-\\uDDEF\\uDDF1-\\uDDF4\\uDDF6-\\uDDF9\\uDDFB\\uDDFC\\uDDFE\\uDDFF])|\\uD83C\\uDDE6(?:\\uD83C[\\uDDE8-\\uDDEC\\uDDEE\\uDDF1\\uDDF2\\uDDF4\\uDDF6-\\uDDFA\\uDDFC\\uDDFD\\uDDFF])|[#\\*0-9]\\uFE0F?\\u20E3|\\u2764\\uFE0F?|\\uD83D\\uDE36|(?:\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75)(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|(?:\\uD83C[\\uDFC3\\uDFC4\\uDFCA]|\\uD83D[\\uDC6E\\uDC70\\uDC71\\uDC73\\uDC77\\uDC81\\uDC82\\uDC86\\uDC87\\uDE45-\\uDE47\\uDE4B\\uDE4D\\uDE4E\\uDEA3\\uDEB4-\\uDEB6]|\\uD83E[\\uDD26\\uDD35\\uDD37-\\uDD39\\uDD3D\\uDD3E\\uDDB8\\uDDB9\\uDDCD-\\uDDCF\\uDDD4\\uDDD6-\\uDDDD])(?:\\uD83C[\\uDFFB-\\uDFFF])?|\\uD83C\\uDFF4|(?:[\\u261D\\u270C\\u270D]|\\uD83D[\\uDD74\\uDD90])(?:\\uFE0F|\\uD83C[\\uDFFB-\\uDFFF])|(?:[\\u270A\\u270B]|\\uD83C[\\uDF85\\uDFC2\\uDFC7]|\\uD83D[\\uDC42\\uDC43\\uDC46-\\uDC50\\uDC66\\uDC67\\uDC6B-\\uDC6D\\uDC72\\uDC74-\\uDC76\\uDC78\\uDC7C\\uDC83\\uDC85\\uDC8F\\uDC91\\uDCAA\\uDD7A\\uDD95\\uDD96\\uDE4C\\uDE4F\\uDEC0\\uDECC]|\\uD83E[\\uDD0C\\uDD0F\\uDD18-\\uDD1F\\uDD30-\\uDD34\\uDD36\\uDD77\\uDDB5\\uDDB6\\uDDBB\\uDDD2\\uDDD3\\uDDD5\\uDEC3-\\uDEC5\\uDEF0\\uDEF2-\\uDEF6])(?:\\uD83C[\\uDFFB-\\uDFFF])|[\\u261D\\u270A-\\u270D]|\\uD83C[\\uDF85\\uDFC2\\uDFC7]|\\uD83D[\\uDC08\\uDC15\\uDC3B\\uDC42\\uDC43\\uDC46-\\uDC50\\uDC66\\uDC67\\uDC6B-\\uDC6D\\uDC72\\uDC74-\\uDC76\\uDC78\\uDC7C\\uDC83\\uDC85\\uDC8F\\uDC91\\uDCAA\\uDD74\\uDD7A\\uDD90\\uDD95\\uDD96\\uDE2E\\uDE35\\uDE4C\\uDE4F\\uDEC0\\uDECC]|\\uD83E[\\uDD0C\\uDD0F\\uDD18-\\uDD1F\\uDD30-\\uDD34\\uDD36\\uDD77\\uDDB5\\uDDB6\\uDDBB\\uDDD2\\uDDD3\\uDDD5\\uDEC3-\\uDEC5\\uDEF0\\uDEF2-\\uDEF6]|\\u26F9|\\uD83C[\\uDFCB\\uDFCC]|\\uD83D\\uDD75|\\uD83D\\uDC6F|\\uD83E[\\uDD3C\\uDDDE\\uDDDF]|[\\xA9\\xAE\\u203C\\u2049\\u2122\\u2139\\u2194-\\u2199\\u21A9\\u21AA\\u2328\\u23CF\\u23ED-\\u23EF\\u23F1\\u23F2\\u23F8-\\u23FA\\u24C2\\u25AA\\u25AB\\u25B6\\u25C0\\u25FB\\u25FC\\u2600-\\u2604\\u260E\\u2611\\u2618\\u2620\\u2622\\u2623\\u2626\\u262A\\u262E\\u262F\\u2638-\\u263A\\u2640\\u2642\\u265F\\u2660\\u2663\\u2665\\u2666\\u2668\\u267B\\u267E\\u2692\\u2694-\\u2697\\u2699\\u269B\\u269C\\u26A0\\u26A7\\u26B0\\u26B1\\u26C8\\u26CF\\u26D1\\u26D3\\u26E9\\u26F0\\u26F1\\u26F4\\u26F7\\u26F8\\u2702\\u2708\\u2709\\u270F\\u2712\\u2714\\u2716\\u271D\\u2721\\u2733\\u2734\\u2744\\u2747\\u2763\\u27A1\\u2934\\u2935\\u2B05-\\u2B07\\u3030\\u303D\\u3297\\u3299]|\\uD83C[\\uDD70\\uDD71\\uDD7E\\uDD7F\\uDE02\\uDE37\\uDF21\\uDF24-\\uDF2C\\uDF36\\uDF7D\\uDF96\\uDF97\\uDF99-\\uDF9B\\uDF9E\\uDF9F\\uDFCD\\uDFCE\\uDFD4-\\uDFDF\\uDFF5\\uDFF7]|\\uD83D[\\uDC3F\\uDCFD\\uDD49\\uDD4A\\uDD6F\\uDD70\\uDD73\\uDD76-\\uDD79\\uDD87\\uDD8A-\\uDD8D\\uDDA5\\uDDA8\\uDDB1\\uDDB2\\uDDBC\\uDDC2-\\uDDC4\\uDDD1-\\uDDD3\\uDDDC-\\uDDDE\\uDDE1\\uDDE3\\uDDE8\\uDDEF\\uDDF3\\uDDFA\\uDECB\\uDECD-\\uDECF\\uDEE0-\\uDEE5\\uDEE9\\uDEF0\\uDEF3]|[\\u231A\\u231B\\u23E9-\\u23EC\\u23F0\\u23F3\\u25FD\\u25FE\\u2614\\u2615\\u2648-\\u2653\\u267F\\u2693\\u26A1\\u26AA\\u26AB\\u26BD\\u26BE\\u26C4\\u26C5\\u26CE\\u26D4\\u26EA\\u26F2\\u26F3\\u26F5\\u26FA\\u26FD\\u2705\\u2728\\u274C\\u274E\\u2753-\\u2755\\u2757\\u2795-\\u2797\\u27B0\\u27BF\\u2B1B\\u2B1C\\u2B50\\u2B55]|\\uD83C[\\uDC04\\uDCCF\\uDD8E\\uDD91-\\uDD9A\\uDE01\\uDE1A\\uDE2F\\uDE32-\\uDE36\\uDE38-\\uDE3A\\uDE50\\uDE51\\uDF00-\\uDF20\\uDF2D-\\uDF35\\uDF37-\\uDF7C\\uDF7E-\\uDF84\\uDF86-\\uDF93\\uDFA0-\\uDFC1\\uDFC5\\uDFC6\\uDFC8\\uDFC9\\uDFCF-\\uDFD3\\uDFE0-\\uDFF0\\uDFF8-\\uDFFF]|\\uD83D[\\uDC00-\\uDC07\\uDC09-\\uDC14\\uDC16-\\uDC3A\\uDC3C-\\uDC3E\\uDC40\\uDC44\\uDC45\\uDC51-\\uDC65\\uDC6A\\uDC79-\\uDC7B\\uDC7D-\\uDC80\\uDC84\\uDC88-\\uDC8E\\uDC90\\uDC92-\\uDCA9\\uDCAB-\\uDCFC\\uDCFF-\\uDD3D\\uDD4B-\\uDD4E\\uDD50-\\uDD67\\uDDA4\\uDDFB-\\uDE2D\\uDE2F-\\uDE34\\uDE37-\\uDE44\\uDE48-\\uDE4A\\uDE80-\\uDEA2\\uDEA4-\\uDEB3\\uDEB7-\\uDEBF\\uDEC1-\\uDEC5\\uDED0-\\uDED2\\uDED5-\\uDED7\\uDEDD-\\uDEDF\\uDEEB\\uDEEC\\uDEF4-\\uDEFC\\uDFE0-\\uDFEB\\uDFF0]|\\uD83E[\\uDD0D\\uDD0E\\uDD10-\\uDD17\\uDD20-\\uDD25\\uDD27-\\uDD2F\\uDD3A\\uDD3F-\\uDD45\\uDD47-\\uDD76\\uDD78-\\uDDB4\\uDDB7\\uDDBA\\uDDBC-\\uDDCC\\uDDD0\\uDDE0-\\uDDFF\\uDE70-\\uDE74\\uDE78-\\uDE7C\\uDE80-\\uDE86\\uDE90-\\uDEAC\\uDEB0-\\uDEBA\\uDEC0-\\uDEC2\\uDED0-\\uDED9\\uDEE0-\\uDEE7])\\uFE0F?",
   "shortnameRegex": "(:[\\w-]+:)",
-  "total": 3304,
-  "unicodeVersion": "13.0",
-  "assetsVersion": "6.6.0"
+  "total": 3633,
+  "unicodeVersion": "14.0",
+  "assetsVersion": "7.0.1"
 }
