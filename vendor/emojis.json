@@ -34,7 +34,7 @@
       "category": "people",
       "shortname": ":face_holding_back_tears:",
       "hex": "1f979",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -352,7 +352,7 @@
       "category": "people",
       "shortname": ":face_in_clouds:",
       "hex": "1f636-200d-1f32b-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -400,7 +400,7 @@
       "category": "people",
       "shortname": ":face_with_peeking_eye:",
       "hex": "1fae3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -412,13 +412,13 @@
       "category": "people",
       "shortname": ":face_with_open_eyes_and_hand_over_mouth:",
       "hex": "1fae2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
       "shortname": ":saluting_face:",
       "hex": "1fae1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -430,7 +430,7 @@
       "category": "people",
       "shortname": ":melting_face:",
       "hex": "1fae0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -448,7 +448,7 @@
       "category": "people",
       "shortname": ":dotted_line_face:",
       "hex": "1fae5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -460,7 +460,7 @@
       "category": "people",
       "shortname": ":face_with_diagonal_mouth:",
       "hex": "1fae4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -538,7 +538,7 @@
       "category": "people",
       "shortname": ":face_exhaling:",
       "hex": "1f62e-200d-1f4a8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -550,7 +550,7 @@
       "category": "people",
       "shortname": ":face_with_spiral_eyes:",
       "hex": "1f635-200d-1f4ab",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -748,7 +748,7 @@
       "category": "people",
       "shortname": ":heart_hands:",
       "hex": "1faf6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -1372,7 +1372,7 @@
       "category": "people",
       "shortname": ":hand_with_index_finger_and_thumb_crossed:",
       "hex": "1faf0",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -1588,7 +1588,7 @@
       "category": "people",
       "shortname": ":palm_down_hand:",
       "hex": "1faf3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -1624,7 +1624,7 @@
       "category": "people",
       "shortname": ":palm_up_hand:",
       "hex": "1faf4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -2056,7 +2056,7 @@
       "category": "people",
       "shortname": ":leftwards_hand:",
       "hex": "1faf2",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -2092,7 +2092,7 @@
       "category": "people",
       "shortname": ":rightwards_hand:",
       "hex": "1faf1",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -2278,7 +2278,7 @@
       "category": "people",
       "shortname": ":index_pointing_at_the_viewer:",
       "hex": "1faf5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -2410,7 +2410,7 @@
       "category": "people",
       "shortname": ":biting_lip:",
       "hex": "1fae6",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -3424,7 +3424,7 @@
       "category": "people",
       "shortname": ":woman_beard:",
       "hex": "1f9d4-200d-2640-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -3460,7 +3460,7 @@
       "category": "people",
       "shortname": ":man_beard:",
       "hex": "1f9d4-200d-2642-fe0f",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -6160,7 +6160,7 @@
       "category": "people",
       "shortname": ":person_with_crown:",
       "hex": "1fac5",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -6844,7 +6844,7 @@
       "category": "people",
       "shortname": ":troll:",
       "hex": "1f9cc",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7246,7 +7246,7 @@
       "category": "people",
       "shortname": ":pregnant_person:",
       "hex": "1fac4",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -7318,7 +7318,7 @@
       "category": "people",
       "shortname": ":pregnant_man:",
       "hex": "1fac3",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "people",
@@ -13006,13 +13006,13 @@
       "category": "nature",
       "shortname": ":empty_nest:",
       "hex": "1fab9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
       "shortname": ":nest_with_eggs:",
       "hex": "1faba",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
@@ -13030,7 +13030,7 @@
       "category": "nature",
       "shortname": ":coral:",
       "hex": "1fab8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
@@ -13084,7 +13084,7 @@
       "category": "nature",
       "shortname": ":lotus:",
       "hex": "1fab7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
@@ -13384,7 +13384,7 @@
       "category": "nature",
       "shortname": ":bubbles:",
       "hex": "1fae7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "nature",
@@ -13792,7 +13792,7 @@
       "category": "food",
       "shortname": ":jar:",
       "hex": "1fad9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
@@ -13996,7 +13996,7 @@
       "category": "food",
       "shortname": ":beans:",
       "hex": "1fad8",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
@@ -14014,7 +14014,7 @@
       "category": "food",
       "shortname": ":pouring_liquid:",
       "hex": "1fad7",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "food",
@@ -14296,7 +14296,7 @@
       "category": "activity",
       "shortname": ":playground_slide:",
       "hex": "1f6dd",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "activity",
@@ -16288,7 +16288,7 @@
       "category": "travel",
       "shortname": ":crutch:",
       "hex": "1fa7c",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
@@ -16336,7 +16336,7 @@
       "category": "travel",
       "shortname": ":wheel:",
       "hex": "1f6de",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
@@ -16558,7 +16558,7 @@
       "category": "travel",
       "shortname": ":ring_buoy:",
       "hex": "1f6df",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "travel",
@@ -17224,7 +17224,7 @@
       "category": "objects",
       "shortname": ":low_battery:",
       "hex": "1faab",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -17320,7 +17320,7 @@
       "category": "objects",
       "shortname": ":identification_card:",
       "hex": "1faaa",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -17524,7 +17524,7 @@
       "category": "objects",
       "shortname": ":hamsa:",
       "hex": "1faac",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -17560,7 +17560,7 @@
       "category": "objects",
       "shortname": ":x_ray:",
       "hex": "1fa7b",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -17932,7 +17932,7 @@
       "category": "objects",
       "shortname": ":mirror_ball:",
       "hex": "1faa9",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "objects",
@@ -18484,13 +18484,13 @@
       "category": "symbols",
       "shortname": ":mending_heart:",
       "hex": "2764-fe0f-200d-1fa79",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
       "shortname": ":heart_on_fire:",
       "hex": "2764-fe0f-200d-1f525",
-      "suggest": false
+      "suggest": true
     },
     {
       "category": "symbols",
