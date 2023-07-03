@@ -5,7 +5,7 @@ In a given string convert unicode and `:shortcode:` emojis to `<img />` tags.
 
 ## Unicode version
 
-Currently supported Unicode version: `13.0`. Minimum supported `emoji-assets` version: `6.0.0`.
+Currently supported Unicode version: `14.0`. Minimum supported `emoji-assets` version: `7.0.0`.
 
 ## Usage:
 
@@ -79,8 +79,10 @@ Render functions and some helper functions support these options. This list cont
 }
 ```
 
-By default the path to emoji images is constructed like this: `/images/emojis-v${version}/${size}`. `version` is
+By default, the path to emoji images is constructed like this: `/images/emojis-v${version}/${size}`. `version` is
 the https://github.com/joypixels/emoji-assets version used to generate the emojis.json file and `size` is the asset
-size (32/64/128). Example output: `/images/emojis-v5.0.2/64/1f603.png`. When `cdn` option is specified, it will be used
+size (32/64/128).
+
+Example output: `/images/emojis-v7.0.1/64/1f603.png`. When `cdn` option is specified, it will be used
 instead. When just a `size` is specified, default path will be used with `size` being replaced by the one provided in
 options.
