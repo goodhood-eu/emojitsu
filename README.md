@@ -5,7 +5,7 @@ In a given string convert unicode and `:shortcode:` emojis to `<img />` tags.
 
 ## Unicode version
 
-Currently supported Unicode version: `14.0`. Minimum supported `emoji-assets` version: `7.0.0`.
+Currently supported Unicode version: `15.0`. Minimum supported `emoji-assets` version: `8.0.0`.
 
 ## Usage:
 
