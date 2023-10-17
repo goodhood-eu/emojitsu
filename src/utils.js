@@ -67,8 +67,8 @@ export const hexToImage = (hex, options = {}) => {
   const src = getImageSrc(hexToId(hex), cdn || size);
   const alt = codePointToUnicode(hex);
 
-  let propsString = `src="${src}" alt="${alt}" draggable="false"`;
+  let propsString = 'draggable="false"';
   if (className) propsString += ` class="${className}"`;
 
-  return `<img ${propsString} />`;
+  return `<img src="${src}" alt="${alt}" ${propsString} />`;
 };
